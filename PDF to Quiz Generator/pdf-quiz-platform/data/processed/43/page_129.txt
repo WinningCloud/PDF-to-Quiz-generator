@@ -1,0 +1,26 @@
+Fig. 5.5: Process model for understanding a seizure and handling of forensics evidence legal
+framework.
+Box 5.8: Forensics Experts What do they Do?
+The role of forensics experts has become a very special one in digital forensics and there are
+many reasons for it. Handling of digital evidence requires special expertise that come from training
+and experience.
+A forensics expert team brings the following additional benefits:
+1. Technology expertise:
+This is perhaps the biggest advantage of partnership with a computer forensics expert. As an
+example of the technological complexity, consider the proliferation of operating systems in the last
+decade: mainframe operating systems, Windows 95/98, UNIX, Linux, Windows NT, Windows
+Server, Macintosh, Windows 2000, Windows XP and Novell Netware. Specific forensics tools
+must be used with each of these file systems, along with training and experience to interpret search
+results. Although some evidence may be found easily, other evidence may have been deleted,
+altered, hidden or encrypted. Forensics experts routinely deal with such complexities and
+nuances.
+2. Forensics methodology: A comprehensive forensics methodology, repeatable and
+defensible, has become a key attribute in choosing a forensics expert firm. Proper use of a
+repeatable process prevents making the same mistake twice, ensures proper chain of custody,
+leverages successful techniques from prior cases, supports clear and concise testimony, and
+generally guarantees efficient forensics case management.
+3. Experience and efficiency: The tools and methods of computer forensics examination are still
+in their infancy. Experts know how to quickly navigate through the variety of esoteric tools and
+procedures. Experts also have the experience to cull thousands of files based on patterns and
+keywords. Therefore, working with experts will efficiently produce relevant results for counsel.
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 15

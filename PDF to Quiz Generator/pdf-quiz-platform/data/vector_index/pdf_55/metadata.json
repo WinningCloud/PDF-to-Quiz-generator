@@ -1,0 +1,121 @@
+[
+  {
+    "chunk_id": "d2253401",
+    "page_number": 1,
+    "text_preview": "1 CHAPTER Becoming a CISSP This chapter presents the following: • Description of the CISSP certification • Reasons to become a CISSP • What the CISSP exam entails • The Common Body of Knowledge and wh",
+    "word_count": 509,
+    "previous_page_ref": "",
+    "next_page_ref": "page_2",
+    "metadata": {
+      "original_page": 1,
+      "has_prev_overlap": false,
+      "has_next_overlap": true,
+      "prev_page": null,
+      "next_page": 2,
+      "overlap_ratio": 0.3,
+      "chunk_type": "page_with_overlap"
+    }
+  },
+  {
+    "chunk_id": "d27ac126",
+    "page_number": 2,
+    "text_preview": "approach to security practices. This book should also serve as a useful reference tool long after you’ve achieved your CISSP certification. Why Become a CISSP? As our world changes, the need for impro",
+    "word_count": 747,
+    "previous_page_ref": "page_1",
+    "next_page_ref": "page_3",
+    "metadata": {
+      "original_page": 2,
+      "has_prev_overlap": true,
+      "has_next_overlap": true,
+      "prev_page": 1,
+      "next_page": 3,
+      "overlap_ratio": 0.3,
+      "chunk_type": "page_with_overlap"
+    }
+  },
+  {
+    "chunk_id": "7b3cb6e3",
+    "page_number": 3,
+    "text_preview": "as well as how to implement them. Due to staff size and budget restraints, many organizations can’t afford separate network and security staffs. But they still believe security is vital to their organ",
+    "word_count": 801,
+    "previous_page_ref": "page_2",
+    "next_page_ref": "page_4",
+    "metadata": {
+      "original_page": 3,
+      "has_prev_overlap": true,
+      "has_next_overlap": true,
+      "prev_page": 2,
+      "next_page": 4,
+      "overlap_ratio": 0.3,
+      "chunk_type": "page_with_overlap"
+    }
+  },
+  {
+    "chunk_id": "e62a3b28",
+    "page_number": 4,
+    "text_preview": "The reason behind the sponsorship requirement is to ensure that those who achieve the certification have real-world experience to offer organizations. Book knowledge is extremely important for underst",
+    "word_count": 562,
+    "previous_page_ref": "page_3",
+    "next_page_ref": "page_5",
+    "metadata": {
+      "original_page": 4,
+      "has_prev_overlap": true,
+      "has_next_overlap": true,
+      "prev_page": 3,
+      "next_page": 5,
+      "overlap_ratio": 0.3,
+      "chunk_type": "page_with_overlap"
+    }
+  },
+  {
+    "chunk_id": "65dd9331",
+    "page_number": 5,
+    "text_preview": "Software Development This domain examines secure software development approaches, Security application security, and software flaws. Some of the topics covered include • Data warehousing and data mini",
+    "word_count": 523,
+    "previous_page_ref": "page_4",
+    "next_page_ref": "page_6",
+    "metadata": {
+      "original_page": 5,
+      "has_prev_overlap": true,
+      "has_next_overlap": true,
+      "prev_page": 4,
+      "next_page": 6,
+      "overlap_ratio": 0.3,
+      "chunk_type": "page_with_overlap"
+    }
+  },
+  {
+    "chunk_id": "a953eead",
+    "page_number": 6,
+    "text_preview": "Plan development, implementation, and maintenance Legal, Regulations, This domain examines computer crimes, laws, and regulations. It Investigations, and includes techniques for investigating a crime,",
+    "word_count": 685,
+    "previous_page_ref": "page_5",
+    "next_page_ref": "page_7",
+    "metadata": {
+      "original_page": 6,
+      "has_prev_overlap": true,
+      "has_next_overlap": true,
+      "prev_page": 5,
+      "next_page": 7,
+      "overlap_ratio": 0.3,
+      "chunk_type": "page_with_overlap"
+    }
+  },
+  {
+    "chunk_id": "b3654f18",
+    "page_number": 7,
+    "text_preview": "wise to devote additional time to these weak areas to improve your score on the retest. CISSP: A Brief History Historically, the field of computer and information security has not been a structured an",
+    "word_count": 627,
+    "previous_page_ref": "page_6",
+    "next_page_ref": "",
+    "metadata": {
+      "original_page": 7,
+      "has_prev_overlap": true,
+      "has_next_overlap": false,
+      "prev_page": 6,
+      "next_page": null,
+      "overlap_ratio": 0.3,
+      "chunk_type": "page_with_overlap"
+    }
+  }
+]

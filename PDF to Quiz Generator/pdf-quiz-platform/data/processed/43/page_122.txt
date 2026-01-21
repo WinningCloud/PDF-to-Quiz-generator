@@ -1,0 +1,40 @@
+⯈ All such transactions as well as every succeeding transaction between evidence collection and
+its appearance in court need to be completely documented chronologically to withstand legal
+challenges to the authenticity of the evidence.
+⯈ Documentation must include conditions under which the evidence is collected, the identity
+of all those who handled the evidence, duration of evidence custody,
+security conditions while handling or storing the evidence and the manner in which
+evidence is transferred to subsequent custodians each time such a transfer occurs (along
+with the signatures of persons involved at each step).
+⯈ Chain of custody is also used in most evidence situations to maintain the integrity of the
+evidence by providing documentation of the control, transfer and analysis of evidence.
+⯈ Chain of custody is particularly important in situations where sampling can
+identify the existence of contamination and can be used to identify the responsible party.
+Box 5.4: Chain of Custody Example
+CASE STUDY
+Officer Amar collects the knife and places it into a container, then gives it to forensic
+technician Balan. Forensics technician Balan takes the knife to the laboratory
+and collects fingerprints and other
+evidence from the knife. He then gives the knife and all evidence gathered from the knife
+to evidence
+clerk Charu. Charu then stores the evidence until it needed, documenting everyone who
+has accessed the original evidence (the knife and original copies of the lifted
+fingerprints).
+The chain of custody requires that from the moment the evidence is collected,
+every transfer of Evidence from one person to another person should be documented as
+it helps to prove that nobody else could have accessed that evidence. It is advisable to
+keep the number of evidence transfers as low as possible. In the courtroom, if the
+defendant challenges the chain of custody of the evidence, it can be proven that the knife
+in the evidence room is the same as found at the crime scene. However, if due to some
+discrepancies it cannot be proven who had the knife at a particular point in time. Then
+the chain of custody is broken and the defendant can ask to have the resulting evidence
+declares inadmissible.
+Q5: Discuss the Cyber Forensics and Digital Evidence
+Q6: Explain the rules of evidence
+5.5 Cyber Forensics and Digital Evidence,
+Cyberforensics can be divided into two main domains
+1. Computer forensic
+2. Network forensic
+As compared the physical evidence digital visions is different in nature because of it has some
+unique characteristics.
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 8

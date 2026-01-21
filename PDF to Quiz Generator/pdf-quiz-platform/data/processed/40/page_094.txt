@@ -1,0 +1,41 @@
+CSRF is also known as a one-click attack or session riding (abbreviated as CSRF
+or XSRF) and is a type of malicious exploit of a website where by unauthorized
+commands are transmitted from a user that the website trusts.
+Unlike cross-site scripting (XSS), which exploits the trust a user has on a
+particular site, CSRF exploits the trust that a site has in a user's browser.
+Phishing vis-à-vis Spoofing
+• 1. Phishing is used to get the victim to reveal valuable (or at times invaluable)
+information about him/her. Phishers would use Spoofing to create a fake E-Mail.
+• 2. Spoofing is not intended to steal information but to actually make the victim
+do something for phishers.
+• 3. Phishing may, at times, require Spoofing to entice the victim into revealing the
+information about Spoofing does not always necessarily result in Phishing
+someone else's account
+The Combined Attack - Phishing and Spoofing
+• Phisher sends an E-Mail, during Income Tax return fling period, from an official
+looking IT (Income Tax) account which is spoofed.
+• The E-Mail would contain URL to download a new tax form that was recently
+issued.
+• Once the victim clicks the URL a "virus cum Trojan Horse" is downloaded to the
+victim's system.
+• The IT Form may seem official, but like a Trojan Horse, the payload has already
+been delivered.
+• The virus lies in wait, logging the actions of the victim.
+• Once the victim inputs certain keywords, like bank names, credit card names,
+social networking websites and so forth, it logs the site and the passwords used.
+• Those results are flagged and sent to the phisher.
+• The virus could then gather the user's E-Mail contacts and send a fake E-Mail to
+them as well, containing the virus.
+• The phisher now has gained the required personal information as well as virus
+was sent, downloaded and spread to entice other netizens.
+4.2.2. Phishing Techniques [UFWFSP]
+Discuss the various techniques used by Phishers to launch Phishing attacks
+OR
+Discuss the different Phishing techniques?
+• 1. URL (weblink) Manipulation
+• 2. Filter Evasion
+• 3. Website Forgery
+• 4. Flash Phishing
+• 5. Social Phishing
+• 6. Phone Phishing
+Jy othi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 9

@@ -1,0 +1,37 @@
+3. Crimes targeted at organizations: Cyber terrorism is one of the distinct crimes against
+organizations/ governments. Attackers (individuals or groups of individuals) use
+computer tools and the Internet to usually terrorize the citizens of a particular country by
+stealing the private information, and also to damage the programs and fi les or plant
+programs to get control of the network and/or system (see Box 2.3).
+4. Single event of cybercrime: It is the single event from the perspective of the victim. For
+example, unknowingly open an attachment that may contain virus that will infect the
+system (PC/laptop). This is known as hacking or fraud.
+5. Series of events: This involves attacker interacting with the victims repetitively. For
+example, attacker interacts with the victim on the phone and/or via chat rooms to
+establish relationship first and then they exploit that relationship to commit the sexual
+assault.
+Box 2.3 | Patriot Hacking
+Patriot hacking[1] also known as Digital Warfare, is a form of vigilante computer systems’
+cracking done by individuals or groups (usually citizens or supports of a country) against a real
+or perceived threat. Traditionally, Western countries, that is, developing countries, attempts to
+launch attacks on their perceived enemies.
+Although patriot hacking is declared as illegal in the US, however, it is reserved only for
+government agencies [i.e., Central Intelligence Agency (CIA) and National Security Agency
+(NSA)] as a legitimate form of attack and defense. Federal Bureau of Investigation (FBI) raised
+the concern about rise in cyber attacks like website defacements (explained in Box 1.4,
+Chapter1) and denial-of-service attacks (DoS – refer to Section 4.9, Chapter 4), which adds as
+fuel into increase in international tension and gets mirrored it into the online world.
+After the war in Iraq in 2003, it is getting popular in the North America, Western Europe and
+Israel. These are countries that have the greatest threat to Islamic terrorism and its
+aforementioned digital version.
+The People’s Republic of China is allegedly making attacks upon the computer networks of the
+US and the UK. Refer to Box 5.15 in Chapter 5. For detailed information visit
+www.patriothacking.com
+2.2 How Criminals Plan the Attacks
+ Criminals use many methods and tools to locate the vulnerabilities of their target.
+ The target can be an individual and/or an organization.
+ Criminals plan passive and active attacks
+ Active attacks are usually used to alter the system (i.e., computer network) whereas
+passive attacks attempt to gain information about the target.
+ Active attacks may affect the availability, integrity and authenticity of data whereas
+passive attacks lead to violation of confidentiality.

@@ -1,0 +1,43 @@
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+import os
+
+from api import auth_routes, admin_routes, student_routes
+from db.database import engine
+from db.models import Base
+
+# Create database tables
+Base.metadata.create_all(bind=engine)
+
+app = FastAPI(
+    title="PDF Quiz Platform API",
+    description="AI-powered PDF to Quiz Generation Platform",
+    version="1.0.0"
+)
+
+# Configure CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Mount static files
+os.makedirs("data/uploads", exist_ok=True)
+app.mount("/uploads", StaticFiles(directory="data/uploads"), name="uploads")
+
+# Include routers
+app.include_router(auth_routes.router, prefix="/api/auth", tags=["Authentication"])
+app.include_router(admin_routes.router, prefix="/api/admin", tags=["Admin"])
+app.include_router(student_routes.router, prefix="/api/student", tags=["Student"])
+
+@app.get("/")
+async def root():
+    return {"message": "PDF Quiz Platform API", "status": "running"}
+
+@app.get("/health")
+async def health_check():
+    return {"status": "healthy", "service": "pdf-quiz-platform"}

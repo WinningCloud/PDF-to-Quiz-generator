@@ -1,0 +1,23 @@
+Digital analysis is very important in Digital forensic because a digital investigation may encounter
+many forms of digital data and therefore there is a several types of digital analysis.
+The different analysis types are based on interpretation obstruction layers which are generally part of
+the data design.
+For example, consider the date on a hard disc which has been designed with several interpretation
+layers lowest layer me contain partitions or other containers that are used for volume management.
+Inside each partition is data that has been organised into a file system or database.
+Data in the file system is interpreted to create file that contain data in an application specific format
+and requirement
+What are the common digital analysis types:
+1. Media analysis: It is analysis of the data from a storage device. This analysis does not
+consider any partitions or other operating system (OS)-specific data structures. If the
+storage device uses a fixed size unit, such as a sector, then it can be used in this analysis.
+2. Media management analysis: It is analysis of the management system use d to organize
+media. This typically involves partitions and may include volume management or redundant
+array of independent (or inexpensive) disks (RAID, see Box 5.11) systems chat merge data
+from multiple storage devices into a single virtual storage device.
+3. File system analysis: It is the analysis of the file system data inside a partition or disk.
+This typically involves processing the data to extract the contents of a fil e or to recover the
+contents of a deleted files.
+4. Application analysis: It is the analysis of the data inside a file. Files are created by users
+and applications. The format of the contents is application-specific.
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 21

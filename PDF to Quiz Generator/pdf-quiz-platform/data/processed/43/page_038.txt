@@ -1,0 +1,39 @@
+2.3 Social Engineering
+ Social engineering is the “technique to influence” and “persuasion to deceive” people to
+obtain the information or perform some action.
+ Social engineers exploit the natural tendency of a person to trust social engineers’ word,
+rather than exploiting computer security holes.
+ It is generally agreed that people are the weak link in security and this principle makes
+social engineering possible.
+ A social engineer usually uses telecommunication (i.e., telephone and/or cell phone) or
+Internet to get them to do something that is against the security practices and/or policies
+of the organization.
+ Social engineering involves gaining sensitive information or unauthorized access
+privileges by building inappropriate trust relationships with insiders.
+ It is an art of exploiting the trust of people, which is not doubted while speaking in a
+normal manner.
+ The goal of a social engineer is to fool someone into providing valuable information or
+access to that information.
+ Social engineer studies the human behavior so that people will help because of the desire
+to be helpful, the attitude to trust people, and the fear of getting into trouble.
+ The sign of truly successful social engineers is that they receive information without any
+suspicion.
+ A simple example is calling a user and pretending to be someone from the service desk
+working on a network issue; the attacker then proceeds to ask questions about what the
+user is working on, what file shares he/she uses, what his/her password is, and so on…
+(see Box 2.6).
+Box 2.6 | Social Engineering Example
+Mr. Joshi: Hello?
+The Caller: Hello, Mr. Joshi. This is Geeta Thomas from Tech Support. Due to some disk space
+constraints on the file server, we will be moving few user’s home directories to another disk.
+This activity will be performed tonight at 8:00 p.m. Your account will be a part of this move and
+will be unavailable temporarily.
+Mr. Joshi: Ohh … okay. I will be at my home by then, anyway.
+Caller: Great!!! Please ensure to log off before you leave office. We just need to check a couple
+of things. What is your username?
+Mr. Joshi: Username is “pjoshi.” None of my files will be lost in the move, right?
+Caller: No sir. But we will have to check your account to ensure the same. What is the password
+of that account?
+Mr. Joshi: My password is “ABCD1965,” all characters in upper case.
+Caller: Ok, Mr. Joshi. Thank you for your cooperation. We will ensure that all the files are there.
+Mr. Joshi: Thank you. Bye.

@@ -1,0 +1,30 @@
+registering for online account. To maximize the chances that a recipient will respond, the
+phisher might employ any or all of the following tactics:
+1. Names of legitimate organizations: Instead of creating a phony company from
+scratch, the phisher might use a legitimate company’s name and incorporate the
+look and feel of its website (i.e., including the color scheme and graphics) into the
+Spam E-Mail.
+2. “From” a real employee: Real name of an official, who actually works for the
+organization. This way, if a user contacts the organization to confirm whether
+“Rajeev Arora” truly is “Vice President of Marketing” then the user gets a positive
+response and feels assured.
+3. URLs that “look right”: The E-Mail might contain a URL (i.e., weblink) which
+seems to be original website wherein user can enter the information the phisher
+would like to steal.
+4. Urgent messages: Creating a fear to trigger a response is very common in Phishing
+attacks – the E-Mails warn that failure to respond will result in no longer having
+access to the account or E-Mails might claim that organization has detected
+suspicious activity in the users’ account or that organization is implementing new
+privacy software for ID theft solutions.
+Here are a few examples of phrases used to entice the user to take the action.
+1. “Verify your account”:
+2. “You have won the lottery”:
+3. “If you don’t respond within 48 hours, your account will be closed”:
+Let us understand the ways to reduce the amount of Spam E-Mails we receive.
+1. Share personal E-Mail address with limited people and/or on public websites – the more it
+is exposed to the public, the more Spam E-Mails will be received.
+2. Never reply or open any Spam E-Mails.
+3. Disguise the E-Mail address on public website or groups by spelling out the sign “@” and
+the DOT (.); for example, RajeevATgmailDOTcom. This usually prohibits phishers to
+catch valid E-Mail addresses while gathering E-Mail addresses through programs.
+Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 27

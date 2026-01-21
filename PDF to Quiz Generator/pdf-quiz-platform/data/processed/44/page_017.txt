@@ -1,0 +1,42 @@
+CYBERSECURITY FOR
+SMALL BUSINESS
+EMAIL AUTHENTICATION
+Email authentication technology makes it a lot harder for a scammer to
+send phishing emails that look like they’re from your company.
+Using email authentication technology makes it a lot harder for scammers to send phishing emails.
+This technology allows a receiving server to verify an email from your company and block emails
+from an imposter — or send them to a quarantine folder and then notify you about them.
+KNOW
+WHAT TO
+Some web host providers let you set up your company’s business email using your domain name (which
+you may think of as your website name). Your domain name might look like this: yourbusiness.com. And
+your email may look like this: name@yourbusiness.com. Without email authentication, scammers can use
+that domain name to send emails that look like they’re from your business. If your business email uses your
+company’s domain name, make sure that your email provider has these three email authentication tools:
+Sender Policy Framework (SPF) Domain-based Message Authentication,
+Reporting & Conformance (DMARC)
+tells other servers which servers are allowed to
+send emails using your business’s domain name. So
+is the essential third tool for email
+when you send an email from name@yourbusiness.
+authentication. SPF and DKIM verify the address
+com, the receiving server can confirm that the
+the server uses “behind the scenes.” DMARC
+sending server is on an approved list. If it is, the
+verifies that this address matches the “from”
+receiving server lets the email through. If it can’t find
+address you see. It also lets you tell other
+a match, the email can be flagged as suspicious.
+servers what to do when they get an email that
+looks like it came from your domain, but the
+Domain Keys Identified Mail (DKIM)
+receiving server has reason to be suspicious
+puts a digital signature on outgoing mail so servers (based on SPF or DKIM). You can have other
+can verify that an email from your domain actually servers reject the email, flag it as spam, or take
+was sent from your organization’s servers and hasn’t no action. You also can set up DMARC so that
+been tampered with in transit. you’re notified when this happens.
+It takes some expertise to configure these tools so that they work as intended and don’t block legitimate
+email. Make sure that your email hosting provider can set them up if you don’t have the technical
+knowledge. If they can’t, or don’t include that in their service agreement, consider getting another provider.
+LEARN MORE AT:
+FTC.gov/SmallBusiness

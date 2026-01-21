@@ -1,0 +1,54 @@
+{
+  "pdf_id": 33,
+  "metadata": {
+    "filename": "132be844-6a2f-4c89-a360-15574e6ee6e5_afcat.pdf",
+    "filepath": "./data/uploads/132be844-6a2f-4c89-a360-15574e6ee6e5_afcat.pdf",
+    "total_pages": 1,
+    "author": "MD Faadil",
+    "title": "afcatsektsyllabus.pdf",
+    "subject": "",
+    "created_date": "D:20251217123945+05'30'",
+    "modified_date": "D:20251217123945+05'30'"
+  },
+  "page_count": 1,
+  "chunk_count": 1,
+  "entity_extractions": [
+    {
+      "chunk_id": "1adfb281",
+      "page_number": 1,
+      "entities": [],
+      "entity_count": 0,
+      "extraction_method": "none"
+    }
+  ],
+  "consolidated_entities": {
+    "total_chunks_analyzed": 1,
+    "chunks_with_entities": 0,
+    "entity_coverage": 0.0,
+    "total_entities": 0,
+    "total_concepts": 0,
+    "total_technical_terms": 0,
+    "top_entities": [],
+    "top_concepts": [],
+    "top_technical_terms": [],
+    "entity_type_distribution": {},
+    "entity_density": 0.0
+  },
+  "normalized_topics": {
+    "normalized_topics": [],
+    "topic_mapping": {},
+    "original_subtopics": [],
+    "statistics": {
+      "total_original_subtopics": 0,
+      "total_normalized_topics": 0,
+      "coverage_percentage": 0,
+      "normalization_quality": "No Data"
+    }
+  },
+  "paths": {
+    "extraction": "./data/processed/33/extraction_results.json",
+    "chunks": "./data/chunks/pdf_33_chunks.json",
+    "index": "./data/vector_index/pdf_33/vector_index.pkl"
+  },
+  "processed_at": "2026-01-04T18:37:09.410880"
+}

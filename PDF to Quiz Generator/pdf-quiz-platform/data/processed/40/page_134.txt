@@ -1,0 +1,40 @@
+For a exam well the content of hard drives the scan we brought thought of as a analysis investigators
+were told to shut down computer system when they are impounded for fear that digital time bomb
+might cause data to be at rest.
+Process of creating an exact duplicate of the original evidence media is often called imaging
+computer forensics software packages make this possible by converting an entire hard drive into a
+single searchable file is file is called an image.
+Analysis, Interpretation and Attribution
+Analysis, interpretation and attribution of evidence are the most difficult aspects
+encountered by most forensics' analysts.
+In the digital forensics arena, there are usually only a finite number of possible events sequences
+that could have produced evidence; however, the actual number of possible sequences may be
+almost unfathomably large.
+In essence, almost any execution of an instruction by the computing environment containing or
+generating the evidence may have an impact on the evidence. Basic ally, all digital evidence
+must be analysed to determine the type of information that is stored upon it.
+For this purpose, specialty tools are used that can display information in a format useful to
+investigators. Such forensics tools include but are not limited to the following list.
+1. Access Data's FTK
+2. guidance Software's EnCase;
+3. Dr. Golden Richard III's file carving tool Scalpel; "file carving" is the process of
+recovering files from an investigative target, potentially without knowledge of the file
+system structure;
+4. Brian Carrier's Sleuth Kitl5l: The Sleuth Kit (TSK) is a library and collection of
+Unix- and Windows based tools and utilities to allow for the forensics analysis of
+computer systems.
+Box 5.10: The file carving techniques are
+File carving is a process of recovering the files from an investigative target, potential
+without knowledge of the file system structure. the process is based on information
+about the format of the file types of interest, as well as on assumption about how files
+are typically laid out on block devices.
+if the file system metadata is used at all, it is typically used only for establishing cluster
+sizes and avoiding carving of undeleted file.
+covering is an important technique for Digital forensic investigation and for simple data
+recovery.
+Why using a database of headers and footers for specific file types file covers can retri
+files from a raw disc image regardless of the type of a file system on the disc image.
+File carving ignore the file system and car of the images directly from the data blocks. in
+cases of fragmented files, the carbon returns in perfect photo but this image might be
+sufficient to identify the subject. (As in fig. 5.9)
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 20

@@ -1,0 +1,31 @@
+Sec.74 (Publication for Chapter XI Offences Publishing of Digital Imprisonment for the
+fraudulent purpose) Signatures for fraudulent term of 2 years and fine of
+purpose Rs. 1 Lakh
+Table: The key provisions under the Indian ITA 2000 (before the
+amendment)
+A GLOBAL PERSPECTIVE ON CYBERCRIMES
+In Australia, cybercrime has a narrow statutory meaning as used in the Cyber Crime Act 2001, which details
+offenses against computer data and systems. However, a broad meaning is given to cybercrime at an international
+level. In the Council of Europe’s (CoE’s) Cyber Crime Treaty, cybercrime is used as an umbrella term to refer to
+an array of criminal activity including offenses against computer data and systems, computer- related offenses,
+content offenses and copyright offenses.
+This wide definition of cybercrime overlaps in part with general offense categories that need not be
+Information & Communication Technology (ICT)-dependent, such as white-collar crime and economic crime.
+Although this status is from the International Telecommunication Union (ITU) survey conducted in 2005, we get
+an idea about the global perspective. ITU activities on countering Spam can be read by visiting the link
+www.itu.int/spam (8 May 2010). The Spam legislation scenario mentions “none” about India as far as E-Mail
+legislation in India is concerned.
+The linkage of cybersecurity and critical infrastructure protection has become a big issue as a number of
+countries have began assessment of threats, vulnerabilities and started exploring mechanisms to redress them.
+Recently, there have been a number of significant developments such as
+1. August 4, 2006 Announcement: The US Senate ratifies CoE Convention on Cyber Crime. The convention
+targets hackers, those spreading destructive computer viruses, those using the Internet for the sexual
+exploitation of children or the distribution of racist material, and terrorists attempting to attack infrastructure
+facilities or financial institutions. The Convention is in full accord with all the US
+constitutional protections, such as free speech and other civil liberties, and will require no change to the US
+laws.
+2. In August 18, 2006, there was a news article published “ISPs Wary About ‘Drastic Obligations’ on Web
+Site Blocking.” European Union (EU) officials want to debar suspicious websites as part of a 6-point
+plan to boost joint antiterrorism activities. They want to block websites that incite terrorist action. Once
+again it is underlined that monitoring calls, Internet and E-Mail traffic for law enforcement purposes is a
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 26

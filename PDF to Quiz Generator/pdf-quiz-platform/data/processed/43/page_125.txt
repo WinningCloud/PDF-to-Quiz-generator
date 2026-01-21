@@ -1,0 +1,43 @@
+What are the guidelines for the (digital) evidence Collection Phase.
+1. Adhere to your site's security policy and engage the appropriate incident handling and law
+enforcement personnel.
+2. Capture a picture of the system as accurately as possible.
+3. Keep detailed notes with date and times, if possible, generate an automatic transcript.
+Notes and printout should be signed and dated.
+4. Not the difference between the system clock and coordinated universal time for each time
+stand provided indicate whether UTC or local time is used.
+5. be prepared to testify perhaps your leader outlining all actions you to convert times detail
+notes will be vital.
+6. minimise changes to the data as you are collecting it this is not limited to content
+changes avoid updating files or directly access time.
+7. Remove external avenues for change.
+8. when confronted with the choice between collection and analysis used to do collection
+first and analysis later.
+9. Needless to say, your procedures should be implementable. As with any aspect of an
+incident response policy, procedures should be tested to ensure feasibility, particularly, in
+a crisis. If possible, procedures should be automated for reasons of speed and accuracy.
+Being methodical always helps.
+10. For each device, a systematic approach should be adopted to follow the guidelines laid
+down in your collection procedure. Speed will often be critical; therefore, where there are a
+number of devices requiring examination, it may be appropriate to spread the work among
+your team to collect the evidence in parallel. However, on a single given system collection
+should be done step by step.
+11. Proceed from the volatile to the less volatile; order of volatility is as follows:
+ Registers, cache (most volatile, i.e., contents lost as soon as the power is turned OFF);
+routing table, Address Resolution Protocol (ARP) cache, process table, kernel
+statistics, memory;
+ Temporary file systems;
+ disk;
+ remote logging and monitoring data that is relevant to the system in question;
+ physical configuration and network topology;
+ archival media (least volatile, i.e., holds data even after power is turned OFF).
+12. we should make a bit-level copy of the system's media. If we wish to do forensics analysis we
+should make a bit-level copy of pour evidence copy for that purpose, as our analysis will
+almost certainly alter file access times. try to avoid doing forensics on the evidence copy.
+Note: Address Resolution Protocol (ARP) is a very important part of IP networking.
+ARP is used to connect O er (Network) to OSI Laver 2 (Datalink), For most of us this means
+that ARP is used to link to our IP addressing to our Ethernet addressing (MAC
+Addressing). For you to communicate with any device on you network, you must have the
+Ethernet MAC address for that device. If that device is not on your land you go to your
+default gateway.
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 11

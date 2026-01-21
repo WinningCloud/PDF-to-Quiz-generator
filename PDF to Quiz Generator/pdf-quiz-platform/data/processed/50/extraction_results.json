@@ -1,0 +1,295 @@
+{
+  "pdf_id": 50,
+  "metadata": {
+    "filename": "d37ac74f-2457-494e-89de-333d1aa37fce_Introduction_to_Cyber_Security-1-10.pdf",
+    "total_pages": 10,
+    "author": "",
+    "title": "",
+    "subject": "",
+    "extracted_at": "2026-01-07T11:42:18.639343"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "INTRODUCTION TO CYBER SECURITY\n(BETCK105/205 I)\nNOTES\nFor First/Second Semester B.E[VTU/CBCS, 2023-2024] Syllabus\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 1",
+      "has_text": true,
+      "word_count": 26,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.009568"
+    },
+    {
+      "page_number": 2,
+      "text": "Syllabus\nCourse Title: Introduction to Cyber Security Course Code: : BETCK105I/205\nTeaching\nMODULE-I\nHours\nIntroduction to Cybercrime: Cybercrime: Definition and Origins of the Word, Cybercrime and\nInformation Security, Who are Cybercriminals? Classifications of Cybercrimes, An Indian\n8\nPerspective, Hacking and Indian Laws., Global PerspectivesTextbook:1 Chapter 1 (1.1 to 1.5,\n1.7-1.9)\nBlooms Taxonomy: L1 – Remembering, L2 – Understanding\nTeaching\nMODULE-II\nHours\nCyber Offenses: How Criminals Plan Them: Introduction, How criminals plan the attacks,\nSocial Engineering, Cyber Stalking, Cybercafe & cybercrimes. Botnets: The fuel for cybercrime, 8\nAttack Vector. Textbook:1 Chapter 2 (2.1 to 2.7)\nBlooms Taxonomy: L1 – Remembering, L2 – Understanding\nTeaching\nMODULE-III\nHours\nTools and Methods used in Cybercrime: Introduction, Proxy Servers, Anonymizers, Phishing,\nPassword Cracking, Key Loggers and Spyways, Virus and Worms, Trozen Horses and\nBackdoors, Steganography, DoS and DDOS Attackes, Attacks on Wireless networks.\n8\nTextbook:1 Chapter 4 (4.1 to 4.9, 4.12)\nBlooms Taxonomy: L1 – Remembering, L2 – Understanding\nMODULE-IV Teaching\nHours\nPhishing and Identity Theft: Introduction, methods of phishing, phishing, phising techniques,\nspear phishing, types of phishing scams, phishing toolkits and spy phishing, counter measures,\n8\nIdentity Theft Textbook:1 Chapter 5 (5.1. to 5.3)\nBlooms Taxonomy: L1 – Remembering , L2 – Understanding\nMODULE-V\nTeaching\nHours\nUnderstanding Computer Forensics: Introdcution, Historical Background of Cyberforensics,\nDigital Foresics Science, Need for Computer Foresics, Cyber Forensics and Digital Evidence,\nDigital Forensic Life cycle, Chain of Custody Concepts, network forensics. Textbook:1 Chapter\n8\n7 (7.1. to 7.5, 7.7 to 7.9)\nBlooms Taxonomy: L1 – Remembering, L2 – Understanding\nSL Name Of the Name Of the Edition and\nTitle Of The Book ISBN\nNo Author/s Publisher Year\n, “Cyber Security: Understanding Sunit Belapure First Edition\nWiley India Pvt\n1 Cyber Crimes, Computer Forensics and Nina (Reprinted 978-81- 265-21791, 2011,\nLtd\nAnd Legal Perspectives” Godbole 2018)\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 2",
+      "has_text": true,
+      "word_count": 309,
+      "tables": [
+        [
+          [
+            "MODULE-I",
+            "Teaching\nHours"
+          ],
+          [
+            "Introduction to Cybercrime: Cybercrime: Definition and Origins of the Word, Cybercrime and\nInformation Security, Who are Cybercriminals? Classifications of Cybercrimes, An Indian\nPerspective, Hacking and Indian Laws., Global PerspectivesTextbook:1 Chapter 1 (1.1 to 1.5,\n1.7-1.9)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering, L2 – Understanding",
+            ""
+          ],
+          [
+            "MODULE-II",
+            "Teaching\nHours"
+          ],
+          [
+            "Cyber Offenses: How Criminals Plan Them: Introduction, How criminals plan the attacks,\nSocial Engineering, Cyber Stalking, Cybercafe & cybercrimes. Botnets: The fuel for cybercrime,\nAttack Vector. Textbook:1 Chapter 2 (2.1 to 2.7)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering, L2 – Understanding",
+            ""
+          ],
+          [
+            "MODULE-III",
+            "Teaching\nHours"
+          ],
+          [
+            "Tools and Methods used in Cybercrime: Introduction, Proxy Servers, Anonymizers, Phishing,\nPassword Cracking, Key Loggers and Spyways, Virus and Worms, Trozen Horses and\nBackdoors, Steganography, DoS and DDOS Attackes, Attacks on Wireless networks.\nTextbook:1 Chapter 4 (4.1 to 4.9, 4.12)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering, L2 – Understanding",
+            ""
+          ],
+          [
+            "MODULE-IV",
+            "Teaching\nHours"
+          ],
+          [
+            "Phishing and Identity Theft: Introduction, methods of phishing, phishing, phising techniques,\nspear phishing, types of phishing scams, phishing toolkits and spy phishing, counter measures,\nIdentity Theft Textbook:1 Chapter 5 (5.1. to 5.3)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering , L2 – Understanding",
+            ""
+          ],
+          [
+            "MODULE-V",
+            "Teaching\nHours"
+          ],
+          [
+            "Understanding Computer Forensics: Introdcution, Historical Background of Cyberforensics,\nDigital Foresics Science, Need for Computer Foresics, Cyber Forensics and Digital Evidence,\nDigital Forensic Life cycle, Chain of Custody Concepts, network forensics. Textbook:1 Chapter\n7 (7.1. to 7.5, 7.7 to 7.9)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering, L2 – Understanding",
+            ""
+          ]
+        ],
+        [
+          [
+            "SL",
+            "",
+            "Name Of the",
+            "Name Of the",
+            "Edition and",
+            ""
+          ],
+          [
+            null,
+            "Title Of The Book",
+            null,
+            null,
+            null,
+            "ISBN"
+          ],
+          [
+            "No",
+            null,
+            "Author/s",
+            "Publisher",
+            "Year",
+            null
+          ],
+          [
+            null,
+            "",
+            null,
+            null,
+            null,
+            ""
+          ],
+          [
+            "",
+            ", “Cyber Security: Understanding",
+            "Sunit Belapure",
+            "",
+            "First Edition",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            "Wiley India Pvt",
+            null,
+            null
+          ],
+          [
+            "1",
+            "Cyber Crimes, Computer Forensics",
+            "and Nina",
+            null,
+            "(Reprinted",
+            "978-81- 265-21791, 2011,"
+          ],
+          [
+            null,
+            null,
+            null,
+            "Ltd",
+            null,
+            null
+          ],
+          [
+            "",
+            "And Legal Perspectives”",
+            "Godbole",
+            null,
+            "2018)",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            "",
+            null,
+            null
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.111330"
+    },
+    {
+      "page_number": 3,
+      "text": "MODULE 1. INTRODUCTION TO CYBERCRIME\nList of Topics:\n Introduction\n Cybercrime: Definition and Origins of the Word\n Cybercrime and Information Security\n Who are Cybercriminals?\n Classifications of Cybercrimes\n Cybercrime: The Legal Perspectives\n Cybercrimes: An Indian Perspective\n Cybercrime and the Indian ITA 2000\n A Global Perspective on Cybercrimes\n Cybercrime Era: Survival Mantra for the Netizens\nINTRODUCTION\n “Cyber security is the protection of internet-connected systems, including hardware, software and data,\nfrom cyber attacks”.\n “Cybersecurity” means protecting information, equipment, devices, computer, computer resource,\ncommunication device and information stored therein from unauthorized access, use, disclosure, disruption,\nmodification or destruction.\n Almost everyone is aware of the rapid growth of the Internet.\n Given the unrestricted number of free websites, the Internet has undeniably opened a new way of\nexploitation known as cybercrime.\n These activities involve the use of computers, the Internet, cyberspace and the worldwide web (WWW).\n Interestingly, cybercrime is not a new phenomena; the first recorded cybercrime took place in the year\n1820.\n It is one of the most talked about topics in the recent years.\n Based on a 2008 survey in Australia, the below shows the cybercrime trend\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 3",
+      "has_text": true,
+      "word_count": 213,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.179711"
+    },
+    {
+      "page_number": 4,
+      "text": "Figure: Cybercrime Trend\n Indian corporate and government sites have been attacked or defaced more than 780 times between\nFebruary 2000 and December 2002.\n There are also stories/news of other attacks; for example, according to a story posted on 3 December\n2009, a total of 3,286 Indian websites were hacked in 5 months – between January and June 2009.\n Various cybercrimes and cases registered under cybercrimes by motives and suspects in States and\nUnion Territories (UTs).\nCYBERCRIME: DEFINITION AND ORIGINS OF THE WORD\nDefinition:\n“A crime conducted in which a computer was directly and significantly instrumental is called as a\nCybercrime.”\nAlternative definitions of Cybercrime are as follows:\n1. Any illegal act where a special knowledge of computer technology is essential for its perpetration (to\ncommit a crime), investigation or prosecution.\n2. Any traditional crime that has acquired a new dimension or order of magnitude through the aid of a\ncomputer, and abuses that have come into being because of computers.\n3. Any financial dishonesty that takes place in a computer environment.\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 4",
+      "has_text": true,
+      "word_count": 187,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.236561"
+    },
+    {
+      "page_number": 5,
+      "text": "4. Any threats to the computer itself, such as theft of hardware or software, damage and demands for\nmoney.\n5. “Cybercrime (computer crime) is any illegal behavior, directed by means of electronic operations, that\ntargets the security of computer systems and the data processed by them.”\nNote that in a wider sense, “computer-related crime” can be any illegal behavior committed by means of, or\nin relation to, a computer system or network; however, this is not cybercrime. The term “cybercrime” relates to\na number of other terms that may sometimes be used to describe crimes committed using computers.\n• Computer-related crime\n• Computer crime\n• Internet crime\n• E-crime\n• High-tech crime, etc. are the other synonymous terms.\nCybercrime specifically can be defined in a number of ways; a few definitions are:\n1. A crime committed using a computer and the Internet to steal a person’s identity (identity theft) or sell\ncontraband or stalk victims or disrupt operations with malevolent programs.\n2. Crimes completed either on or with a computer.\n3. Any illegal activity done through the Internet or on the computer.\n4. All criminal activities done using the medium of computers, the Internet, cyberspace and the WWW.\nAccording to one information security, cybercrime is any criminal activity which uses network access to\ncommit a criminal act. Cybercrime may be internal or external, with the former easier to perpetrate. The term\n“cybercrime” has evolved over the past few years since the adoption of Internet connection on a global scale with\nhundreds of millions of users. Cybercrime refers to the act of performing a criminal act using cyberspaceas the\ncommunications vehicle.\nSome people argue that a cybercrime is not a crime as it is a crime against software & not against a person (or)\nproperty. However, while the legal systems around the world scramble to introduce laws to combat cyber criminals,\n2 types of attacks are prevalent:\n1. Techno-crime: A premeditated act against a system or systems, with the intent to copy, steal, prevent access,\ncorrupt or otherwise deface or damage parts of or the complete computer system. The 24X7 connection to\nthe internet makes this type of cybercrime a real possibility to engineer from anywhere in the world, leaving\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 5",
+      "has_text": true,
+      "word_count": 382,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.323012"
+    },
+    {
+      "page_number": 6,
+      "text": "few, if any, “finger prints”.\n2. Techno-vandalism: These acts of “brainless” defacement of websites and/or other activities, such as copying\nfiles and publicizing their contents publicly, are usually opportunistic in nature. Tight internal security,\nallied to strong technical safeguards should prevent the vast majority of such incidents.\nThere is a very thin line between the two terms “computer crime” and “computer fraud”; both are\npunishable. Cybercrimes (harmful acts committed from or against a computer or network) differ from most\nterrestrial crimes in four ways:\na. how to commit them is easier to learn,\nb. they require few resources relative to the potential damage caused,\nc. they can be committed in a jurisdiction without being physically present in it &\nd. they are often not clearly illegal.\nImportant Definitions related to Cyber Security:\nCyberterrorism:\nThis term was coined in 1997 by Barry Collin, a senior research fellow at the institute for Security and\nIntelligence in California. Cyberterrorism seems to be a controversial term. The use of information technology and\nmeans by terrorist groups & agents is called as Cyberterrorism.\n“The premeditated use of disruptive activities, or the threat thereof, against computers and/or networks,\nwith the intention to cause harm or further social, ideological, religious, political or similar objectives or to\nintimidate any person in furtherance of such objectives.”\n(or)\nCyberterrorism is defined as “any person, group or organization who, with terrorist intent, utilizesaccesses\nor aids in accessing a computer or computer network or electronic system or electronic device by any available\nmeans, and thereby knowingly engages in or attempts to engage in a terrorist act commits the offence of\ncyberterrorism.”\nCybernetics:\nCybernetics deals with information and its use. Cybernetics is the science that overlaps the fields of\nneurophysiology, information theory, computing machinery and automation. Worldwide, including India,\ncyberterrorists usually use computer as a tool, target for their unlawful act to gain information.\nInternet is one of the means by which the offenders can gain priced sensitive information of companies,\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 6",
+      "has_text": true,
+      "word_count": 341,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.392376"
+    },
+    {
+      "page_number": 7,
+      "text": "firms, individuals, banks and can lead to intellectual property (IP) crimes, selling illegal articles, pornography/child\npornography, etc. This is done using methods such as Phishing, Spoofing, Pharming, Internet Phishing, wire\ntransfer, etc. and use it to their own advantage without the consent of the individual.\nPhishing:\nPhishing is a cyber attack that uses disguised email as a weapon. The goal is to trick the email recipient into\nbelieving that the message is something they want or need a request from their bank, for instance, or a note from\nsomeone in their company and to click a link or download an attachment.\nPhishing is an attempt by an individual or a group to thieve personal confidential information such as\npasswords, credit card information from unsuspecting victims for identity theft, financial gain &amp; other\nfraudulent activities.\n(or)\nPhishing is a form of online identity theft that aims to steal sensitive information such as online banking\npasswords, credit card information from users etc.\nCyberspace:\nThis is a term coined by William Gibson, a science fiction writer in 1984. Cyberspace is where users\nmentally travel through matrices of data. Conceptually, cyberspace is the nebulous place where humans interact\nover computer networks. The term “cyberspace” is now used to describe the Internet and other computernetworks.\nIn terms of computer science, “cyberspace” is a worldwide network of computer networks that uses the\nTransmission Control Protocol/Internet Protocol (TCP/IP) for communication to facilitate transmission and\nexchange of data. Cyberspace is most definitely a place where you chat, explore, research and play.\nCybersquatting:\nThe term is derived from “squatting” which is the act of occupying an abandoned/unoccupied space/\nbuilding that the user does not own, rent or otherwise have permission to use. Cybersquatting, however, is a bit\ndifferent in that the domain names that are being squatted are (sometimes but not always) being paid for by the\ncybersquatters through the registration process.\nCybersquatters usually ask for prices far greater than those at which they purchased it. Some cybersquatters\nput up derogatory or defamatory remarks about the person or company the domain is meant to represent in an\neffort to encourage the subject to buy the domain from them. This term is explained herebecause, in a way,\nit relates to cybercrime given the intent of cybersquatting.\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 7",
+      "has_text": true,
+      "word_count": 389,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.471454"
+    },
+    {
+      "page_number": 8,
+      "text": "Cybersquatting means registering, selling or using a domain name with the intent of profiting from the\ngoodwill of someone else’s trademark. In this nature, it can be considered to be a type of cybercrime.\nCybersquatting is the practice of buying “domain names” that have existing businesses names.\nIn India, Cybersquatting is considered to be an Intellectual Property Right (IPR). In India, Cybersquatting\nis seen to interfere with “Uniform Dispute Resolution Policy” (a contractual obligation to which all domain name\nregistrants are presently subjected to).\nCyberpunk:\nThis is a term coined by Bruce Bethke, published in science fiction stories magazine in November 1983.\nAccording to science fiction literature, the words “cyber” and “punk” emphasize the two basic aspects of\ncyberpunk: “technology” and “individualism.” The term “cyberpunk” could mean something like “anarchy\nvia machines” or “machine/computer rebel movement.”\nCyberwarfare:\nCyberwarfare means information attacks against an unsuspecting opponent’s computer networks,\ndestroying and paralyzing nations. This perception seems to be correct as the terms cyberwarfare and\nCyberterrorism have got historical connection in the context of attacks against infrastructure. The term “information\ninfrastructure” refers to information resources, including communication systems that support an industry,\ninstitution or population. These type of Cyber attacks are often presented as threat to military forcesand the\nInternet has major implications for espionage and warfare.\nCYBERCRIME AND INFORMATION SECURITY\nLack of information security gives rise to cybercrimes. Let us refer to the amended Indian Information\nTechnology Act (ITA) 2000 in the context of cybercrime. From an Indian perspective, the new version of the Act\n(referred to as ITA 2008) provides a new focus on “Information Security in India\". \"Cybersecurity” means\nprotecting information, equipment, devices, computer, computer resource, communication device and information\nstored therein from unauthorized access, use, disclosure, disruption, modification or destruction.The term\nincorporates both the physical security of devices as well as the information stored therein. It covers protection\nfrom unauthorized access, use, disclosure, disruption, modification and destruction.\nWhere financial losses to the organization due to insider crimes are concerned (e.g., leaking customer data),\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 8",
+      "has_text": true,
+      "word_count": 347,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.551195"
+    },
+    {
+      "page_number": 9,
+      "text": "often some difficulty is faced in estimating the losses because the financial impacts may not be detectedby the\nvictimized organization and no direct costs may be associated with the data theft. The 2008 CSI Surveyon\ncomputer crime and security supports this. Cybercrimes occupy an important space in information security domain\nbecause of their impact. The other challenge comes from the difficulty in attaching a quantifiable monetary value\nto the corporate data and yet corporate data get stolen/lost (through loss/theft of laptops).\nBecause of these reasons, reporting of financial losses often remains approximate. In an attempt to avoid\nnegative publicity, most organizations abstain from revealing facts and figures about “security incidents” including\ncybercrime. In general, organizations perception about “insider attacks” seems to be different thanthat made\nout by security solution vendor. However, this perception of an organization does not seem to be trueas revealed\nby the 2008 CSI Survey. Awareness about “data privacy” too tends to be low in most organizations. When we\nspeak of financial losses to the organization and significant insider crimes, such as leaking customer data, such\n“crimes” may not be detected by the victimized organization and no direct costs may be associated with the theft\nFigure: Cybercrime trend over the years\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 9",
+      "has_text": true,
+      "word_count": 217,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.601377"
+    },
+    {
+      "page_number": 10,
+      "text": "Figure: shows several categories of incidences – viruses, insider abuse, laptop theft and unauthorized\naccess to systems\nThe Botnet Menace:\nA group of computers that are controlled by software containing harmful programs, without their users'\nknowledge is called as Botnet. The term “Botnet” is used to refer to a group of compromised computers (zombie\ncomputers, i.e., personal computers secretly under the control of hackers) running malwares under a common\ncommand and control infrastructure. Below figure shows how a “zombie” works.\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 10",
+      "has_text": true,
+      "word_count": 93,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:42:18.631594"
+    }
+  ],
+  "summary": {
+    "total_pages_extracted": 10,
+    "pages_with_text": 10,
+    "total_words": 2504,
+    "total_tables": 2,
+    "total_images": 0
+  }
+}

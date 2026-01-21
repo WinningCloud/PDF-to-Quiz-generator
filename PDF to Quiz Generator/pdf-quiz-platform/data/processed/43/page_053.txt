@@ -1,0 +1,32 @@
+Module 3
+Tools and Methods Used in Cybercrime
+Introduction
+Different forms of attacks through which attackers target the computer systems are as
+follows:
+1. Initial uncovering:
+ Two steps are involved here.
+i. In the first step called as reconnaissance, the attacker gathers information
+about the target on the Internet websites.
+ii. In the second step, the attacker finds the company’s internal network,
+such as, Internet domain, machine names and the company’s Internet
+Protocol (IP) address ranges to steal the data.
+2. Network probe (investigation):
+ At the network probe stage, the attacker scans the organization information through
+a “ping sweep” of the network IP addresses.
+ Then a “port scanning” tool is used to discover exactly which services are running
+on the target system.
+ At this point, the attacker has still not done anything that would be considered
+as an abnormal activity on the network or anything that can be classified as an
+intrusion.
+3. Crossing the line toward electronic crime (E-crime):
+ Once the attackers are able to access a user account, then they will attempt further
+exploits to get an administrator or “root” access.
+ Root access is a UNIX term and is associated with the system privileges required
+to run all services and access all files on the system (readers are expected to have a
+basic familiarity with Unix-based systems).
+ “Root” is an administrator or super-user access and grants them the privileges to do
+anything on the system.
+4. Capturing the network:
+ At this stage, the attacker attempts to “own” the network. The attacker gains the
+internal network quickly and easily by target systems.
+Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 1

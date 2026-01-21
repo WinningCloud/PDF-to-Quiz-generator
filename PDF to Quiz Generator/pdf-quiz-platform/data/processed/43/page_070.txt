@@ -1,0 +1,29 @@
+2. Logic attacks: These kind of attacks can exploit vulnerabilities in network software such
+as web server or TCP/IP stack.
+3. Protocol attacks: Protocols here are rules that are to be followed to send data over network.
+4. Unintentional DoS attack : This is a scenario where a website ends up denied not due to
+a attack by a single individual or group of individuals, but simply due to a sudden enormous
+spike in popularity.
+Types or Levels of DoS Attacks
+There are several types or levels of DoS attacks as follows:
+1. Flood attack: This is the earliest form of DoS attack and is also known as ping food. It is
+based on an attacker simply sending the victim overwhelming number of ping packets,
+usually by using the “ping” command, which result into more traffic than the victim can
+handle.
+2. Ping of death attack: The ping of death attack sends oversized Internet Control
+Message Protocol (ICMP) packets, and it is one of the core protocols of the IP Suite. It
+is mainly used by networked computers’ OSs to send error messages indicating (e.g., that
+a requested service is not available or that a host or router could not be reached) datagrams
+(encapsulated in IP packets) to the victim.
+3. SYN attack: It is also termed as TCP SYN Flooding. In the TCP, handshaking of network
+connections is done with SYN and ACK messages.
+ An attacker initiates a TCP connection to the server with an SYN.
+ The server replies with an SYN-ACK.
+ The client then does not send back an ACK, causing the server to allocate memory for
+the pending connection and wait.
+ This fills up the buffer space for SYN messages on the target system, preventing other
+systems on the network from communicating with the target system.
+4. Teardrop attack: The teardrop attack is an attack where fragmented packets are forged
+to overlap each other when the receiving host tries to reassemble them. IP’s packet
+fragmentation algorithm is used to send corrupted packets to confuse the victim
+Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 18

@@ -1,0 +1,6 @@
+Fig. 5.10: Maintaining chain of custody
+Fig. 5.11: Maintaining chain of custody 2. (a) Source of evidence - where did it come (b). Who
+found it? (c) Where was it stored/locked up? (d) Who touched it/tampered With it?
+(e) What did they do to it? What did they do with it? (f) Human signature always required
+******************************** END***********************************
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 28

@@ -1,0 +1,40 @@
+Computer-Based Social Engineering
+ Computer-based social engineering refers to an attempt made to get the required/desired
+information by using computer software/Internet.
+ For example, sending a fake E-Mail to the user and asking him/her to re-enter a
+password in a webpage to confirm it.
+1. Fake E-Mails:
+ The attacker sends fake E-Mails (see Box 2.7) to users in such that the user finds it as a
+real e-mail.
+ This activity is also called “Phishing”.
+ It is an attempt to attract the Internet users (netizens) to reveal their personal information,
+such as usernames, passwords and credit card details by impersonating as a
+trustworthy and legitimate organization or an individual.
+ Banks, financial institutes and payment gateways are the common targets.
+ Phishing is typically carried out through E-Mails or instant messaging and often directs
+users to enter details at a website, usually designed by the attacker with abiding the look
+and feel of the original website.
+ Thus, Phishing is also an example of social engineering techniques used to fool netizens.
+ The term “Phishing” has been evolved from the analogy that Internet scammers are using
+E-Mails attract to fish for passwords and financial data from the sea of Internet users (i.e.,
+netizens).
+ The term was coined in 1996 by hackers who were stealing AOL Internet accounts by
+scamming passwords without the knowledge of AOL users.
+ As hackers have a tendency of replacing “f” with “ph,” the term “Phishing” came into
+being.
+2. E-Mail attachments:
+ E-Mail attachments are used to send malicious code to a victim’s system, which will
+automatically (e.g., keylogger utility to capture passwords) get executed.
+ Viruses, Trojans, and worms can be included cleverly into the attachments to entice a
+victim to open the attachment.
+3. Pop-up windows:
+ Pop-up windows are also used, in a similar manner to E-Mail attachments. Pop-up
+windows with special offers or free stuff can encourage a user to unintentionally install
+malicious software.
+2.4 Cyberstalking
+ The dictionary meaning of “stalking” is an “act or process of following prey stealthily –
+trying to approach somebody or something.”
+ Cyberstalking has been defined as the use of information and communications
+technology, particularly the Internet, by an individual or group of individuals to harass
+another individual, group of individuals, or organization.
+ The behavior includes false accusations, monitoring, transmission of threats, ID theft,

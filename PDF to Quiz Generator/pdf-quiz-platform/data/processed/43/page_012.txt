@@ -1,0 +1,26 @@
+Bots, Phishing, Spam and Malicious Code attacks.
+ Mumbai with 33% incidences tops the Bot-infected city list,
+ followed by New Delhi at 25%,
+ Chennai at 17% and
+ Bangalore at 13%.
+ Tier-II locations are now also a target of Bot-networks with Bhopal at 4% and Hyderabad, Surat, Pune
+and Noida at 1% each.
+ The Internet is a network of interconnected computers. If the computers, computer systems, computer
+resources, etc. are unsecured and vulnerable to security threats, it can be detrimental to the critical
+infrastructure of the country.
+WHO ARE CYBERCRIMINALS?
+Cybercrime involves such activities
+ credit card fraud;
+ cyberstalking;
+ defaming another online;
+ gaining unauthorized access to computer systems;
+ ignoring copyright, software licensing and trademark protection;
+ overriding encryption to make illegal copies;
+ software piracy and stealing another’s identity (known as identity theft) to perform criminal acts
+Types of Cybercriminals:
+1. Type I: Cybercriminals – hungry for recognition
+ Hobby hackers;
+ IT professionals (social engineering is one of the biggest threat);
+ Politically motivated hackers;
+ Terrorist organizations.
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 12

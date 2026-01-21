@@ -1,0 +1,39 @@
+phishers to catch valid E-Mail addresses while gathering E-Mail addresses through
+programs.
+• 4Use alternate E-Mail addresses to register for any personal or shopping website.
+Never ever use business E-Mail addresses for these sites but rather use E-mail
+addresses that are free from Yahoo, Hotmail or Gmail.
+• 5. Do not forward any E-Mails from unknown recipients.
+• 6.Make a habit to preview an E-Mail (an option available in an E-Mail program) before
+opening it.
+• 7. Never use E-Mail address as the screen name in chat groups or rooms.
+• 8. Never respond to a Spam E-Mail asking to remove your E-Mail address from the
+mailing distribution list. More often it confirms to the phishers that your E-Mail
+address is active.
+Hoax Mails
+• These are deliberate attempt to deceive or trick a user into believing or accepting
+that something 1s real. when the hoaxer (the person or group creating the hoax)
+knows it is false.
+• Hoax E-Mails may or may not be Spam E-Mails.
+• www.breakthechain.org: This website contains a huge database of chain E-Mails.
+• www.hoaxbusters.org: excellent website containing a large database of common
+Internet hoaxes.
+• It contains information about all the scams.
+• I maintained by Computer Incident Advisory Capability, Which is the division of US
+department of energy. Eg., “Breaking news” Info” Barack Obama refused to be
+the president of the US  E-mail Signature as CNN
+4.2.1 Methods of Phishing,
+Explain four types of methods used by the phishers to reveal personal
+information on Internet
+1. Dragnet 2. Road-and-reel 3. Lobsterpot 4. Gillnet
+1. Dragnet
+• A method involves the use of spammed E-Mails, bearing falsified corporate identification
+(ne.., corporate names, logos and Customers of trademarks), which are addressed to a
+large group of people ( a particular financial institution or members of a particular
+auction site) to web- sites or pop-up windows with Similarly falsified identification.
+• Dragnet phishers do not identify specific prospective victims in advance.
+• Instead, they rely on false information included in an E-Mail to trigger an immediate
+response by victims-typically, clicking on links in the body of the E-Mail to take the
+victims to the websites or pop- up windows where they are requested to enter bank
+or credit card account data or other personal data.
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 6

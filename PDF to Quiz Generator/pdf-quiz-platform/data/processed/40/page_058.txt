@@ -1,0 +1,29 @@
+victim and the server to which a victim is connected.
+ When a victim client connects to the fraudulent server, the MITM server intercepts the call,
+hashes the password and passes the connection to the victim server (e.g., an attacker within
+reception range of an unencrypted Wi-Fi wireless access point can insert himself as a man-
+in- the-middle).
+ This type of attack is used to obtain the passwords for E-Mail accounts on public websites
+such as Yahoo, Hotmail and Gmail and can also used to get the passwords for
+financial websites that would like to gain the access to banking websites.
+Offline Attacks
+ Mostly offline attacks are performed from a location other than the target (i.e., either
+a computer system or while on the network) where these passwords reside or are used.
+ Offline attacks usually require physical access to the computer and copying the password
+file from the system onto removable media.
+Password guidelines.
+1. Passwords used for business E-Mail accounts, personal E-Mail accounts and
+banking/financial user accounts should be kept separate.
+2. Passwords should be of minimum eight alphanumeric characters (common names or
+phrases should be phrased).
+3. Passwords should be changed every 30/45 days.
+4. Passwords should not be shared with relatives and/or friends.
+5. Password used previously should not be used while renewing the password.
+6. Passwords of personal E-Mail accounts and banking/financial user accounts should be
+changed from a secured system, within couple of days, if these E-Mail accounts
+has been accessed from public Internet facilities such as cybercafes/hotels/libraries.
+7. Passwords should not be stored under mobile phones/PDAs, as these devices are also prone
+to cyberattacks.
+8. In case E-Mail accounts/user accounts have been hacked, respective agencies/institutes
+should be contacted immediately.
+Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 6

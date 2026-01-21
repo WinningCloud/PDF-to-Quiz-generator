@@ -1,0 +1,32 @@
+Vishing (voice phishing) is a type of phishing attack that is conducted by phone and often targets users of Voice
+over IP (VoIP) services like Skype.
+It’s easy to for scammers to fake caller ID, so they can appear to be calling from a local area code or even
+from an organization you know. If you don’t pick up, then they’ll leave a voicemail message asking you to
+call back. Sometimes these kinds of scams will employ an answering service or even a call center that’s unaware
+of the crime being perpetrated.
+Once again, the aim is to get credit card details, birthdates, account sign-ins, or sometimes just to harvest
+phone numbers from your contacts. If you respond and call back, there may be an automated message
+prompting you to hand over data and many people won’t question this, because they accept automated phone
+systems as part of daily life now.
+Smishing (SMS phishing) is a type of phishing attack conducted using SMS (Short Message Services) on
+cell phones. Just like email phishing scams, smishing messages typically include a threat or enticement to
+click a link or call a number and hand over sensitive information. Sometimes they might suggest you install some
+security software, which turns out to be malware.
+Smishing example: A typical smishing text message might say something along the lines of, “Your ABC
+Bank account has been suspended. To unlock your account, tap here: https://bit.ly/2LPLdaU” and thelink
+provided will download malware onto your phone. Scammers are also adept at adjusting to the medium
+they’re using, so you might get a text message that says, “Is this really a pic of you? https://bit.ly/2LPLdaU” and
+if you tap that link to find out, once again you’re downloading malware.
+4. Spamming: People who create electronic Spam are called spammers. Spam is the abuse of electronicmessaging
+systems (including most broadcast media, digital delivery systems) to send unrequested bulk messages
+indiscriminately. Although the most widely recognized form of Spam is E-Mail Spam, the term is applied to similar
+abuses in other media: instant messaging Spam, Usenet newsgroup Spam, web search engine Spam, Spam in blogs,
+wiki Spam, online classified ads Spam, mobile phone messaging Spam, Internet forum Spam, junk fax
+transmissions, social networking Spam, file sharing network Spam, video sharing sites, etc.
+Spamming is difficult to control because it has economic viability – advertisers have no operating costs
+beyond the management of their mailing lists, and it is difficult to hold senders accountable for their mass mailings.
+Spammers are numerous; the volume of unrequested mail has become very high because the barrier to entry is low.
+Therefore, the following web publishing techniques should be avoided:
+ Repeating keywords;
+ use of keywords that do not relate to the content on the site;
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 15

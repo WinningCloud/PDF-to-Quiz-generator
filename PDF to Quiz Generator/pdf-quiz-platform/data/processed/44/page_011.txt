@@ -1,0 +1,29 @@
+CYBERSECURITY FOR
+SMALL BUSINESS
+BUSINESS
+EMAIL IMPOSTERS
+A scammer sets up an email address
+Scammers do this to get passwords and
+that looks like it’s from your company. bank account numbers or to get someone
+to send them money. When this happens,
+Then the scammer sends out messages using your company has a lot to lose. Customers
+that email address. This practice is called and partners might lose trust and take their
+spoofing, and the scammer is what we call a business elsewhere — and your business
+business email imposter. could then lose money.
+PROTECT
+HOW TO YOUR BUSINESS
+Use email authentication Keep your security Train your staff
+up to date
+When you set up your Teach them how to avoid
+business’s email, make sure Always install the latest patches phishing scams and show
+the email provider offers email and updates. Set them to them some of the common
+authentication technology. That update automatically on your ways attackers can infect
+way, when you send an email network. Look for additional computers and devices
+from your company’s server, the means of protection, like with malware. Include tips
+receiving servers can confirm intrusion prevention software, for spotting and protecting
+that the email is really from you. which checks your network for against cyber threats in your
+If it’s not, the receiving servers suspicious activity and sends regular employee trainings
+may block the email and foil a you alerts if it finds any. and communications.
+business email imposter.
+LEARN MORE AT:
+FTC.gov/SmallBusiness

@@ -1,0 +1,16 @@
+Techniques of ID Theft
+1. Human-based methods:
+ Direct access to information:
+ Dumpster diving:
+ Theft of a purse or wallet:
+ Mail theft and rerouting:
+ Shoulder surfing:
+ Dishonest or mistreated employees:
+ Telemarketing and fake telephone calls:
+2. Computer-based technique:
+ Backup theft:
+ Hacking, unauthorized access to systems and database theft:
+ Phishing:
+ Pharming:
+ Hardware:
+Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 31

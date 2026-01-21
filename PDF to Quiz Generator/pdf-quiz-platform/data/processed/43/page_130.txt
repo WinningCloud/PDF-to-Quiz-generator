@@ -1,0 +1,41 @@
+5.6.2. The Phases in Computer Forensics/Digital Forensics
+The Forensics life cycle involves the following phases namely.
+1. Preparation and identification;
+2. collection and recording;
+3. storing and transporting;
+4. examination/investigation;
+5. analysis, interpretation and attribution;
+6. reporting;
+7. testifying.
+To mention very briefly, the process involves the following activities:
+1. Prepare: Case briefings (see Box 5.9), engagement terms, interrogatories, spoliation
+Prevention disclosure and discovery planning, discovery requests. ·
+2. Record: Drive imaging, indexing, profiling, search plans, cost estimates, risk analysis.
+3. Investigate: Triage images, data recovery, keyword searches, hidden data review,
+communicate
+iterate. '
+4. Report: Oral vs. written, relevant document production, search statistic reports, chain of
+custody reporting, case log reporting.
+5. Testify: Testimony preparation, presentation preparation, testimony.
+Let us take a brief look at each of the activities mentioned. Table 5.5 shows phase-wise outcome
+from the phases mentioned above.
+Box 5.9: Case Briefings
+In case briefings, consider the following:
+seen all re~
+1. Ensure that you know both your client 's and the adverse party's position. and
+have seen all relevant paperwork.
+2. Try not to project a bias in the case description; the intent should be to consider the
+case objectively, and provide you with the good news and the bad news (bad news
+early can be good news)
+3. Be upfront in discussing any limitations or restrictions on the forensics
+investigation including budgetary constraints, time deadlines, cooperation levels
+to be expected from the adverse party required travel, onsite or after-hours
+forensics imaging requirements, etc.
+Preparing for the evidence and identifying the evidence
+In order to be processed and applied evidence must be first identified as evidence. it can happen that
+there is an enormous amount of potential evidence of available for a legal matter and it is possible
+that the vast majority of the potential evidence may never get identified.
+consider that every sequence of events within a single computer might cause interaction with files
+the file system in which day recite other processes and the program they are executive and
+the files they produce and manage and block files and file of various sorts.
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 16

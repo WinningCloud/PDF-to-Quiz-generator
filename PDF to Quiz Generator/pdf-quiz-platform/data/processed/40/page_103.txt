@@ -1,0 +1,36 @@
+3. explained in Table 4.1
+4. Table 4.1 How to avoid being victim of Phishing attack
+SL. NO. Security Measures
+1 Keep antivirus up to date
+2 Do not click on hyperlinks in E-Mails
+3 Take advantage of anti-Spam software
+4 Verify https (SSL)[ secure Socket layer ]
+Use anti-Spyware software
+6 Get educated
+7 Use the Microsoft Baseline Security
+Analyzer (MBSA)
+8 Firewall
+9 Use backup system images
+10 Do not enter sensitive or financial
+information into pop-up windows
+11 Secure the hosts file
+12 Protect against DNS Pharming attacks
+How to Judge/Recognize Legitimate Websites
+• ScanSafe (www.scansafe.com) was the first company in the world to after web
+security. Scandoo (www.Scandoo.com) scans all search results’ to protect the user
+from visiting false websites (i.e., websites that spread malicious viruses or Spyware
+as well as protecting the user from viewing offensive content).
+• Presently this Site is nor available as improvements for add-on features based on
+users' feedback is underway.
+• MCAfee Site Advisor software (www.siteddvisor.com) is a free web security plug-in
+that provides the user with red, yellow and green website security ratings based on
+the search results.
+• These ratings are based on tests conducted by McAfee after looking for all kinds of
+threats such as to name a few Phishing sites, E-Commerce vulnerabilities, browser
+exploits, etc.
+SPS (Sanitizing Proxy System) Algorithm to Thwart Phishing Attacks
+• Phishing attack comprised two phases: a) attraction and b) acquisition
+• Characteristics of SPS:
+1. Two-level filtering
+2. Flexibility of the rule set
+Jy othi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 18

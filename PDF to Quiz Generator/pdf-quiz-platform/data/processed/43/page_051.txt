@@ -1,0 +1,39 @@
+Question Bank
+Subject: Introduction to Cyber Security Class: AI and ML/AIDS/CSD
+Subject code: BETCK105I/205I Faculty: Mrs. Jyothi R
+Course Outcomes
+CO1: Interpret the cybercrime terminologies
+CO2: Analyze Cyber offenses and Botnets
+CO3: Illustrate Tools and Methods used on Cybercrime
+CO4: Analyze Phishing and Identity Theft
+CO5: Justify the need of computer forensics
+Module 2: Cyber Offenses: How Criminals Plan them Introduction, How criminals plan the
+attacks, Social Engineering, Cyber Stalking, Cybercafe & cybercrimes, Botnets: The fuel for
+cybercrime, Attack Vector. Chapter 2 (2.1 to 2.7)
+Sl. Questions CO BT
+No.
+Topic: Introduction
+1. Explain the following CO2 L2
+ Hacker
+ Brute Force Hacking
+ Cracker
+ Cracker tools
+ Phreaking
+ War dialer
+2. How are cybercrimes classified? Explain with examples. OR CO2 L2
+Explain the categories of cybercrime?
+3. Explain the difference between passive and active attacks CO2 L2
+provide tools as example.
+4. List and explain the Phases of Cybercrime Planning CO2 L2
+5. What is Social Engineering Explain the classification of CO2 L2
+social engineering withexamples
+6 How are cybercrimes classified? Explain with CO2
+examples.OR
+Explain the categories of cybercrime?
+7 Explain in details Ports and Ports scanning in cyber CO2
+offenses.
+8 What is cyberstalking? As per your understanding is it CO2
+a crime under the Indian IT act?
+9 Explain types of Stalkers CO2
+10 Explain the steps of how stalking works? CO2 L3
+11 Explain the Real-life Incident of Cyberstalking? CO2

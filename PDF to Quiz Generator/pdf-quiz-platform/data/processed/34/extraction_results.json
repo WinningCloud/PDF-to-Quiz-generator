@@ -1,0 +1,735 @@
+{
+  "pdf_id": 34,
+  "metadata": {
+    "filename": "94a24485-c48e-4854-9ce8-ab725f24dd8e_cyb.pdf",
+    "total_pages": 37,
+    "author": "MD Faadil",
+    "title": "CyberSecurity.pdf",
+    "subject": "",
+    "extracted_at": "2026-01-04T18:45:00.069590"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:01.551777"
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:02.771422"
+    },
+    {
+      "page_number": 3,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:03.820747"
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:05.339194"
+    },
+    {
+      "page_number": 5,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:06.439911"
+    },
+    {
+      "page_number": 6,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:07.792193"
+    },
+    {
+      "page_number": 7,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:09.267686"
+    },
+    {
+      "page_number": 8,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:10.005943"
+    },
+    {
+      "page_number": 9,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:11.787302"
+    },
+    {
+      "page_number": 10,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:13.276579"
+    },
+    {
+      "page_number": 11,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:14.856471"
+    },
+    {
+      "page_number": 12,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:16.040045"
+    },
+    {
+      "page_number": 13,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:17.847068"
+    },
+    {
+      "page_number": 14,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            null,
+            "",
+            null,
+            null
+          ],
+          [
+            "",
+            null,
+            null,
+            "",
+            null,
+            null
+          ],
+          [
+            "",
+            null,
+            null,
+            "",
+            null,
+            null
+          ],
+          [
+            "",
+            null,
+            null,
+            "",
+            "",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "",
+            null
+          ]
+        ],
+        [
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        [
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        [
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:19.245698"
+    },
+    {
+      "page_number": 15,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:21.406121"
+    },
+    {
+      "page_number": 16,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:22.060447"
+    },
+    {
+      "page_number": 17,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            ""
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:22.803583"
+    },
+    {
+      "page_number": 18,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:24.517608"
+    },
+    {
+      "page_number": 19,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:26.282274"
+    },
+    {
+      "page_number": 20,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:28.386913"
+    },
+    {
+      "page_number": 21,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:30.148306"
+    },
+    {
+      "page_number": 22,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:32.101650"
+    },
+    {
+      "page_number": 23,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [
+        [
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:34.266669"
+    },
+    {
+      "page_number": 24,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:36.738562"
+    },
+    {
+      "page_number": 25,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:38.158810"
+    },
+    {
+      "page_number": 26,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [
+        [
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:39.687651"
+    },
+    {
+      "page_number": 27,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [
+        [
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:41.286125"
+    },
+    {
+      "page_number": 28,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:42.355411"
+    },
+    {
+      "page_number": 29,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:44.083047"
+    },
+    {
+      "page_number": 30,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:45.487502"
+    },
+    {
+      "page_number": 31,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:48.116632"
+    },
+    {
+      "page_number": 32,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:49.658270"
+    },
+    {
+      "page_number": 33,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:51.307491"
+    },
+    {
+      "page_number": 34,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:53.778841"
+    },
+    {
+      "page_number": 35,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:56.865794"
+    },
+    {
+      "page_number": 36,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:44:59.619563"
+    },
+    {
+      "page_number": 37,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            ""
+          ],
+          [
+            "",
+            null
+          ],
+          [
+            "",
+            null
+          ],
+          [
+            "",
+            null
+          ],
+          [
+            "",
+            null
+          ],
+          [
+            "",
+            null
+          ],
+          [
+            "",
+            null
+          ],
+          [
+            "",
+            null
+          ],
+          [
+            "",
+            null
+          ],
+          [
+            "",
+            null
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T18:45:00.060513"
+    }
+  ],
+  "summary": {
+    "total_pages_extracted": 37,
+    "pages_with_text": 0,
+    "total_words": 0,
+    "total_tables": 9,
+    "total_images": 0
+  }
+}

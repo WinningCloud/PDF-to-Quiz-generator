@@ -1,0 +1,47 @@
+13. SSL certificate Phishing:
+ Phishing is an advanced type of scam. Phishers target web servers with SSL
+certificates to create a duplicitous website with fraudulent webpages
+displaying familiar "lock" icon.
+ It is important to note that, in such types of scams, SSL certificates are always
+found to be legitimate as they match the URL of the fake pages that are mimicking
+the target brands but in reality, had no connection to these brands displayed.
+ It is difficult to recognize such websites; however, smart netizens can detect
+such deception after reviewing the certificate and/or whether the website has
+been secured with an extended validation SSL certificate.
+Three P’s of Cybercrime -Phishing, Pharming & Phoraging
+• Pharming: It is an attack aiming to redirect a website traffic to another bogus
+websites.
+• Pharming is a neologism based on farming + Phishing.
+• Concern for businesses hosting E-Commerce and Online banking websites.
+• Here attacker cracks vulnerability in an ISP, DNS server and hijacks the domain
+name of a commercial site.
+• Phoraging: It is defined as a process of collecting data from many different online
+sources to build up the identity of someone with the ultimate aim of committing the
+identity theft.
+• It is information diving-searching for information.
+• Now a days looking for matrimonial sites, social networking sites for professional to
+reveal personal information.
+• Advanced Form of Phishing- Tabnapping or Tabjacking
+• Tabs are web browser tabs.
+• Browser Tabs that are not in use are called as napping.
+• Most often netizens work with multiple tabs, open with multiple web browsing
+sessions on each one. Its takes hour together time.
+• Phishers have identified a way to invade the browser tabs and change it to a page
+designed to steal information.
+• If a page is ideal for a particular time period, and then phisher redirects the victim
+to a phished webpage.
+• Phisher judge the idle webpages based on mouse movement, scroll bar movement
+and keystrokes.
+• Websites from banking/financial institutes as well as popular sites like Gmail,
+Facebook, Instagram, WhatsApp are the primary targets.
+DNS Hijacking (session hijacking)
+• DNS Hijacking: It is also known as DNS redirection and it is the practice of
+redirecting the resolution of Domain Name Server (DNS) names to rogue DNS servers.
+• An illegal change to a DNS server directs URL to a different website.
+• In some cases, new websites URL may have done one different letter in the name that
+might go unnoticed. The bogus website might offer similar and/or competing
+products for sale.
+• DNS is used to interpret domain names such as www. <domainname>.com into an IP
+address. The IP address consists of numbers such as xxx.xx.xxx.x (192.60.168.1) that
+give a domain a unique identification
+Jy othi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 15

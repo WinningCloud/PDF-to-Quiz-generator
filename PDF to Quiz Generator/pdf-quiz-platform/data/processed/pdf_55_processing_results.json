@@ -1,0 +1,146 @@
+{
+  "pdf_id": 55,
+  "metadata": {
+    "filename": "a57ce606-0ae3-4003-a345-24967989faa4_security-cissp-all-in-one-exam-guide-6th-edition-26-32.pdf",
+    "filepath": "./data/uploads/a57ce606-0ae3-4003-a345-24967989faa4_security-cissp-all-in-one-exam-guide-6th-edition-26-32.pdf",
+    "total_pages": 7,
+    "author": "",
+    "title": "",
+    "subject": "",
+    "created_date": "",
+    "modified_date": "D:20260107125639Z"
+  },
+  "normalized_topics": {
+    "normalized_topics": [
+      {
+        "topic_id": "topic_001",
+        "topic_name": "CBK",
+        "subtopics": [
+          "CBK"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "CBK",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 1,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_002",
+        "topic_name": "One Exam",
+        "subtopics": [
+          "One Exam"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "One Exam",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 2,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_003",
+        "topic_name": "That Make",
+        "subtopics": [
+          "That Make"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "That Make",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 2,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_004",
+        "topic_name": "Security Domains",
+        "subtopics": [
+          "Security Domains"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "Security Domains",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 2,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_005",
+        "topic_name": "CISSP",
+        "subtopics": [
+          "CISSP"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "CISSP",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 1,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_006",
+        "topic_name": "ISC",
+        "subtopics": [
+          "ISC"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "ISC",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 1,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_007",
+        "topic_name": "Domain Description",
+        "subtopics": [
+          "Domain Description"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "Domain Description",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 2,
+          "cohesion_score": 1.0
+        }
+      }
+    ],
+    "topic_mapping": {
+      "CBK": "CBK",
+      "One Exam": "One Exam",
+      "That Make": "That Make",
+      "Security Domains": "Security Domains",
+      "CISSP": "CISSP",
+      "ISC": "ISC",
+      "Domain Description": "Domain Description"
+    },
+    "original_subtopics": [
+      "CBK",
+      "One Exam",
+      "That Make",
+      "Security Domains",
+      "CISSP",
+      "ISC",
+      "Domain Description"
+    ],
+    "statistics": {
+      "total_original_subtopics": 7,
+      "total_normalized_topics": 7,
+      "coverage_percentage": 100.0,
+      "average_subtopics_per_topic": 1.0,
+      "normalization_quality": "Perfect (1:1 mapping)"
+    }
+  },
+  "paths": {
+    "extraction": "./data/processed/55/extraction_results.json",
+    "chunks": "./data/chunks/pdf_55_chunks.json",
+    "index": "./data/vector_index/pdf_55/vector_index.pkl"
+  },
+  "processed_at": "2026-01-07T12:56:59.748078"
+}

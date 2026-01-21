@@ -1,0 +1,28 @@
+4. It records keystrokes that a user types on a computer’s keyboard and captures
+screenshots.
+5. It sends all gathered data to a predefined E-Mail address, uploads it to a predetermined
+FTP server or transfers it through a background Internet connection to a remote host.
+6. It infects files, corrupts installed applications and damages the entire system.
+Following are a few examples of backdoor Trojans:
+1. Back Orifice
+2. Bifrost:
+3. SAP backdoors
+4. Onapsis Bizploit:
+Follow the following steps to protect your systems from Trojan Horses and backdoors:
+1. Stay away from suspect websites/weblinks:
+2. Surf on the Web cautiously:
+3. Install antivirus/Trojan remover software:
+Steganography
+ Steganography is the practice of concealing (hiding) a file, message, image, or video within
+another file, message, image, or video. The word steganography combines the Greek words
+steganos , meaning "covered, concealed, or protected", and graphein meaning "writing".
+ It is a method that attempts to hide the existence of a message or communication.
+ Steganography is always misunderstood with cryptography
+ The different names for steganography are data hiding, information hiding and digital
+watermarking.
+ Steganography can be used to make a digital watermark to detect illegal copying of
+digital images. Thus, it aids confidentiality and integrity of the data.
+ Digital watermarking is the process of possibly irreversibly embedding information into
+a digital signal.
+ The Digital signal may be, for example, audio, pictures or video.
+Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 15

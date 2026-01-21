@@ -1,0 +1,38 @@
+privacy controls offered by most of these
+sites, and use common sense.
+It is not safe to shop or bank online Like social networking, shopping and
+banking online are safe as long as you use
+common sense and make good choices
+about where and how you do it. Observe
+the webpage is legitimate.
+4.3.1. Personally Identifiable Information (PII)
+The fraudster always has an eye on the information which can be used to uniquely
+identify, contact or locate a single person or can be used with other sources to uniquely
+identity a single individual. PII has four common variants based on personal,
+personally, identifiable and identifying.
+The fraudsters attempts to steal the elements mentioned below, which can express
+the purpose of distinguishing individual identity :
+1. Full name,
+2. National identification number (e.g., SSN
+3. Telephone num
+4. driver's license number;
+5. credit card numbers;
+6. digital identity (e.g., E-Mail address, online account ID and password);
+7. birth date/birth day;
+8. birthplace;
+9. face and fingerprints.
+Identify an Individual.
+• 1. First or last name;
+• 2. age;
+• 3. country, state or city of residence;
+• 4. gender;
+• 5. name of the school/college/workplace
+• 6. job position, grades and/or salary;
+• 7. criminal record.
+Classification of Information can be of two types namely:
+Non-classified information
+1. Public information (public record)
+2. Personal information (addresses, telephone numbers, E-mail addresses)
+3. Routine business information
+4. Private Information (SSN, credit card numbers and other financial information.
+Jy othi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 22

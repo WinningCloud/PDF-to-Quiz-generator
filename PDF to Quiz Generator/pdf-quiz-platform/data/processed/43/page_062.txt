@@ -1,0 +1,7 @@
+2. delete files inside the system into which viruses enter;
+3. scramble data on a hard disk;
+4. cause erratic screen behavior;
+5. halt the system (PC);
+6. just replicate themselves to propagate further harm.
+Figure: Virus Spread Through Internet
+Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 10
