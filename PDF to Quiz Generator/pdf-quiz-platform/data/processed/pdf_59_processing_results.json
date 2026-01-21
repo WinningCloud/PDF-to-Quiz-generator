@@ -1,0 +1,114 @@
+{
+  "pdf_id": 59,
+  "metadata": {
+    "filename": "3b7153c6-7287-4dfd-9b17-ba273174450c_pdf-test2.pdf",
+    "filepath": "./data/uploads/3b7153c6-7287-4dfd-9b17-ba273174450c_pdf-test2.pdf",
+    "total_pages": 1,
+    "author": "Yukon Department of Education",
+    "title": " PDF Test Page",
+    "subject": "",
+    "created_date": "D:20080604154400-07'00'",
+    "modified_date": "D:20080604154736-07'00'"
+  },
+  "normalized_topics": {
+    "normalized_topics": [
+      {
+        "topic_id": "topic_001",
+        "topic_name": "Yukon Department",
+        "subtopics": [
+          "Yukon Department"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "Yukon Department",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 2,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_002",
+        "topic_name": "2703",
+        "subtopics": [
+          "2703"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "2703",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 1,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_003",
+        "topic_name": "Test File",
+        "subtopics": [
+          "Test File"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "Test File",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 2,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_004",
+        "topic_name": "PDF",
+        "subtopics": [
+          "PDF"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "PDF",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 1,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_005",
+        "topic_name": "Portable Document",
+        "subtopics": [
+          "Portable Document"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "Portable Document",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 2,
+          "cohesion_score": 1.0
+        }
+      }
+    ],
+    "topic_mapping": {
+      "Yukon Department": "Yukon Department",
+      "2703": "2703",
+      "Test File": "Test File",
+      "PDF": "PDF",
+      "Portable Document": "Portable Document"
+    },
+    "original_subtopics": [
+      "Yukon Department",
+      "2703",
+      "Test File",
+      "PDF",
+      "Portable Document"
+    ],
+    "statistics": {
+      "total_original_subtopics": 5,
+      "total_normalized_topics": 5,
+      "coverage_percentage": 100.0,
+      "average_subtopics_per_topic": 1.0,
+      "normalization_quality": "Perfect (1:1 mapping)"
+    }
+  },
+  "paths": {
+    "extraction": "./data/processed/59/extraction_results.json",
+    "chunks": "./data/chunks/pdf_59_chunks.json",
+    "index": "./data/vector_index/pdf_59/vector_index.pkl"
+  },
+  "processed_at": "2026-01-21T15:20:06.944578"
+}
