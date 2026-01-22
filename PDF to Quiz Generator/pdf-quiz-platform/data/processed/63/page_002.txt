@@ -1,0 +1,43 @@
+ISSN 2348-1196 (print)
+International Journal of Computer Science and Information Technology Research ISSN 2348-120X (online)
+Vol. 2, Issue 2, pp: (373-377), Month: April-June 2014, Available at: www.researchpublish.com
+In 1977, early PC-based Local Area Networks, or LANs (Local Area Networks) were spreading, and while initially
+restricted to academics and hobbyists, they eventually found their way into the workplace and in homes, although the
+explosion into the latter two arenas is a relatively recent phenomenon. LAN variants also developed, including
+Metropolitan Area Networks (MANs) to cover large areas such as a college campus, and Wide Area Networks (WANs)
+for university-to-university communication. With the widespread use of computers in the corporate world, the speed and
+convenience of using them to communicate and transfer data has forever altered the landscape of how people conduct
+business. Networks have become an integral part of the corporate world. Ubiquitous computing and Internet-capable
+cellular phones have allowed people to remain connected, even if the individual is away from a fully wired office
+environment.
+III. PROPERTIES OF COMPUTER NETWORKS
+Facilitate communications: Using a network, people can communicate efficiently and easily via email, instant
+messaging, chat rooms, telephone, video telephone calls, and video conferencing. Permit sharing of files, data, and other
+types of information In a network environment, authorized users may access data and information stored on other
+computers on the network.
+Facilitates interpersonal communications
+People can communicate efficiently and easily via email, instant messaging, chat rooms, telephone, video telephone calls,
+and video conferencing.
+Allows sharing of files, data, and other types of information
+Authorized users may access information stored on other computers on the network. Providing access to information on
+shared storage devices is an important feature of many networks.
+Allows sharing of network and computing resources
+Users may access and use resources provided by devices on the network, such as printing a document on a shared network
+printer. Distributed computing uses computing resources across a network to accomplish tasks.
+May be insecure
+A computer network may be used by computer Crackers to deploy computer viruses or computer worms on devices
+connected to the network, or to prevent these devices from accessing the network (denial of service).
+May interfere with other technologies
+Power line communication strongly disturbs certain [5] forms of radio communication, e.g., amateur radio. It may also
+interfere with last mile access technologies such as ADSL and VDSL. A complex computer network may be difficult to
+set up. It may be costly to set up an effective computer network in a large organization.
+IV. PROTOCOLS IN NETWORKING
+Ethernet: The Ethernet protocol is by far the most widely used one. Ethernet uses an access method called CSMA/CD
+(Carrier Sense Multiple Access/Collision Detection). This is a system where each computer listens to the cable before
+sending anything through the network. If the network is clear, the computer will transmit. If some other nodes have
+already transmitted on the cable, the computer will wait and try again when the line is clear. Sometimes, two computers
+attempt to transmit at the same instant.
+Fast Ethernet: To allow for an increased speed of transmission, the Ethernet protocol has developed a new standard that
+supports 100 Mbps.
+Page | 37 4
+Research Publish Journals

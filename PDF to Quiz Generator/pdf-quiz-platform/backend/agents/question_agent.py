@@ -66,6 +66,7 @@ class QuestionAgent:
         except Exception as e:
             logger.error(f"Error generating questions: {e}")
             return self._generate_fallback_questions(chunk, subtopic, count, difficulty)
+
     
     def generate_questions_batch(
         self, 
@@ -102,7 +103,7 @@ class QuestionAgent:
                 all_questions.extend(questions)
             else:
                 # Generate questions for each subtopic
-                for subtopic in chunk_topics[:min(3, len(chunk_topics))]:
+                for subtopic in chunk_topics[:1]:
                     # Determine difficulty for this question
                     difficulty = self._select_difficulty(assignment.get("difficulty_mix", ["medium"]))
                     
@@ -119,19 +120,34 @@ class QuestionAgent:
         return all_questions
     
     def _get_topics_for_chunk(self, chunk_id: str, extracted_topics: Dict) -> List[str]:
-        """Get topics for a specific chunk"""
-        # This is simplified - in real implementation, we'd have chunk-topic mapping
-        topic_hierarchy = extracted_topics.get("topic_hierarchy", {})
+        """
+        Use normalized_topics subtopics and filter junk like years, page numbers, ISSN, etc.
+        """
+        normalized_topics = extracted_topics.get("normalized_topics", [])
         all_subtopics = []
-        
-        for topic_data in topic_hierarchy.values():
-            all_subtopics.extend(topic_data.get("subtopics", []))
-        
-        # Return random subtopics for demonstration
-        # In production, this would use actual mapping
-        if all_subtopics:
-            return random.sample(all_subtopics, min(3, len(all_subtopics)))
-        return []
+
+        for topic in normalized_topics:
+            subs = topic.get("subtopics", [])
+            if isinstance(subs, list):
+                for s in subs:
+                    if not isinstance(s, str):
+                        continue
+                    s_clean = s.strip()
+
+                    # ❌ Reject numbers like 2014, 373, etc.
+                    if s_clean.isdigit():
+                        continue
+
+                    # ❌ Reject very short terms
+                    if len(s_clean) < 4:
+                        continue
+
+                    all_subtopics.append(s_clean)
+
+        # return top 3-5 topics (stable)
+        return all_subtopics[:5]
+
+
     
     def _select_difficulty(self, difficulty_mix: List[str]) -> str:
         """Select difficulty based on mix"""
@@ -158,36 +174,35 @@ class QuestionAgent:
         
         return random.choices(difficulties, weights=weights, k=1)[0]
     
-    def _generate_general_questions(
-        self, 
-        text: str, 
-        count: int, 
-        difficulty_mix: List[str]
-    ) -> List[Dict[str, Any]]:
-        """Generate general questions when no specific topics"""
-        questions = []
-        
-        # Split text into sentences
-        sentences = self._split_into_sentences(text)
-        
-        for i in range(min(count, len(sentences))):
-            if i < len(sentences):
-                sentence = sentences[i]
-                difficulty = self._select_difficulty(difficulty_mix)
-                
-                question = {
-                    "question_text": f"What does this sentence mean: '{sentence[:100]}...'?",
-                    "question_type": "short_answer",
-                    "answer": f"This sentence discusses: {sentence}",
-                    "options": [],
-                    "difficulty": difficulty,
-                    "explanation": "Based on the provided text.",
-                    "generation_source": "fallback",
-                    "confidence_score": 0.6
-                }
-                questions.append(question)
-        
-        return questions
+    def _generate_general_questions(self, text: str, count: int, difficulty_mix: List[str]) -> List[Dict[str, Any]]:
+        """
+        If no topics found, ask LLM to generate MCQs directly instead of sentence-meaning.
+        """
+        try:
+            difficulty = self._select_difficulty(difficulty_mix)
+
+            prompt = UserPrompts.generate_questions(
+                chunk_text=text,
+                subtopic="General Concepts",
+                count=count
+            )
+            prompt += f"\nTarget difficulty: {difficulty.capitalize()}"
+            prompt += "\nIMPORTANT: Generate MCQ questions only. Avoid 'What does this sentence mean' style."
+
+            response = llm_client.generate_json(prompt=prompt, system_prompt=self.system_prompt)
+
+            questions = response.get("questions", [])
+            for q in questions:
+                q["generation_source"] = "llm_general"
+                q["difficulty"] = q.get("difficulty", difficulty)
+                q["confidence_score"] = 0.75
+
+            return questions
+
+        except Exception as e:
+            logger.error(f"General MCQ generation failed: {e}")
+            return []
+
     
     def _generate_fallback_questions(
         self, 

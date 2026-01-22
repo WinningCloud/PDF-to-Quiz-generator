@@ -1,0 +1,27 @@
+ISSN 2348-1196 (print)
+International Journal of Computer Science and Information Technology Research ISSN 2348-120X (online)
+Vol. 2, Issue 2, pp: (373-377), Month: April-June 2014, Available at: www.researchpublish.com
+Network security components often include:
+1. Anti-virus and anti-spyware
+2. Firewall, to block unauthorized access to your network
+3. Intrusion prevention systems (IPS), to identify fast-spreading threats, such as zero-day or zero-hour attacks
+4. Virtual Private Networks (VPNs), to provide secure remote access
+V. CONCLUSION
+While the age-old concept of the network is foundational in virtually all areas of society, Computer Networks and
+Protocols have forever changed the way humans will work, play, and communicate. Forging powerfully into areas of our
+lives that no one had expected, digital networking is further empowering us for the future. New protocols and standards
+will emerge, new applications will be conceived, and our lives will be further changed and enhanced. While the new will
+only be better, the majority of digital networking's current technologies are not cutting-edge, but rather are protocols and
+standards conceived at the dawn of the digital networking age that have stood solid for over thirty years.
+REFERENCES
+[1] http://en.wikipedia.org/wiki/Computer_network
+[2] http://gimnetwork.wordpress.com/2013/01/19/properties-of-computer-networks/
+[3] http://www.goldgroup.co.uk/brief-history-networking/
+[4] http://www.edrawsoft.com/Network-Protocol.php
+[5] http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6157406&url=http%3A%2F%2Fieeexplore.ieee.org%2
+Fiel5%2F5449605%2F6157403%2F06157406.pdf%3Farnumber%3D6157406
+[6] http://infpower.wordpress.com/
+[7] http://www.ecii.edu/wp-content/uploads/2013/10/Tantillo_1_Pantani_Network_Security_Through_Open_Source_
+Intrusion_Detection_Systems_May2012.pdf
+Page | 37 7
+Research Publish Journals
