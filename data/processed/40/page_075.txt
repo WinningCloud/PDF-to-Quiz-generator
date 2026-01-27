@@ -1,6 +1,0 @@
-Tools used for hacking wireless networks
-NetStumbler: This tool is based on Windows OS and easily identifies wireless signals being
-broadcast within range.
-Kismet: This tool detects and displays SSIDs that are not being broadcast which 0is very critical
-in finding wireless networks.
-Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 23

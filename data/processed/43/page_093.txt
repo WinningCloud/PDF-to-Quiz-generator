@@ -1,7 +1,0 @@
- In other cases, the malicious code will record user's keystrokes and passwords
-when they visit legitimate banking sites, then they transmit those data to phisher
-for later illegal access to user's financial accounts.
-a)
-b)
-c)
-J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 8
