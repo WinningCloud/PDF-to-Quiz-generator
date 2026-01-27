@@ -1,0 +1,29 @@
+Dogo Rangsang Research Journal UGC Care Group I Journal
+ISSN : 2347-7180 Vol-09 Issue-03 September-December 2019
+ There is no proximity effect since secondary electrons don’t have high energy
+ X-Ray light is not absorbed by dirt and even if there is dirt present on the mask, the pattern won’t
+get affected
+Limitations
+ It takes long time for the resist to get exposed.
+ It is difficult and costly to manufacture X-Ray masks.
+Optical Lithography
+Optical Lithography is a process of transferring the pattern from the photographic mask onto the wafer. It is
+used in mass-production of ICs with minimum feature size of 250-350 nm. There are three ways of printing in
+optical Lithography onto the wafer:
+Figure 5. Types of Printing in Optical Lithography
+1. Contact Printing: In Contact Printing the wafer and the mask come in close contact with each other, which
+makes the life of mask very low but creates a high resolution. It makes use of u- v light of wavelength 300-
+400nm. It operates in the Fresnel Diffraction pattern (used to calculate the diffraction pattern created by
+waves passing through an aperture or around an object). The tools used here are optical system, wafer,
+photoresist film and mask. When the light passes through the optical system, it makes the light incident on
+the glass pate. The silicon wafer is coated with photoresist film.
+Advantages
+ Contact printing provides good resolution of images of about 1 to 0.5µm.
+ It is easy to operate and maintain the equipment.
+Disadvantages
+ Masks may get damaged due to contact with the wafer for a long time, so this technique is only limited
+to research labs or applications that can tolerate the defects.
+2. Proximity Printing: In proximity printing a gap is maintained between the mask and the wafer, which
+makes the life of the mask better but does not provide great resolution. This can help in minimizing the
+mask getting damaged but still dust particles may be present and
+Page | 527 Copyright @ 2019 Authors

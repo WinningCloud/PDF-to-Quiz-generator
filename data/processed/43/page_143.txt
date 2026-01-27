@@ -1,0 +1,34 @@
+Question Bank
+Subject: Introduction to Cyber Security Class: AI and ML/AIDS/CSD
+Subject code: BETCK105I/205I Faculty: Mrs. Jyothi R
+Course Outcomes
+CO1: Interpret the cybercrime terminologies
+CO2: Analyze Cyber offenses and Botnets
+CO3: Illustrate Tools and Methods used on Cybercrime
+CO4: Analyze Phishing and Identity Theft
+CO5: Justify the need of computer forensics
+Module 5: Understanding Computer Forensics • Introduction, Historical Background of Cyberforensics,
+Digital Forensics Science, Need for Computer Forensics, Cyber Forensics and Digital Evidence, Digital
+Forensic Life cycle, Chain of Custody Concepts, network forensics
+Sl. Questions CO BT
+No.
+1 Discuss the Historical Background of Cyberforensics CO5 L2
+2 Is there a difference between computer security and computer forensics? CO5 L2
+Explain
+3 List various Computer Forensics services available, explain any two of them. CO5 L2
+4 Discuss the need for concept of Computer Forensics CO5 L2
+5 Discuss the Cyber Forensics and Digital Evidence CO5 L2
+6 Explain the rules of evidence. CO5 L2
+7 Briefly explain RFC2822 CO5 L2
+8 With neat diagram explain process model for understanding a seizure and CO5 L2
+handling of forensics evidence legal framework.
+9 Discuss the following phases of Forensics life cycles CO5 L2
+i) Preparation and Identification
+ii) Collection and Recording
+10 Discuss the following phases of Forensics life cycle CO5 L2
+i) Storing and Transporting
+ii) Examination/Investigation
+11 Discuss the precautions to be taken when collecting electronic evidence. CO5 L2
+12 Explain the importance of chain of custody concept. Provide illustrations to CO5 L2
+support the answer
+13 Briefly explain Network Forensics CO5 L2

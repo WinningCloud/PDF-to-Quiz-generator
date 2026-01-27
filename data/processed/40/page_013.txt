@@ -1,0 +1,20 @@
+2. Type II: Cybercriminals – not interested in recognition
+ Psychological perverts;
+ financially motivated hackers (corporate espionage);
+ state-sponsored hacking (national espionage, sabotage)
+ organized criminals
+3. Type III: Cybercriminals – the insiders
+ Disgruntled or former employees seeking revenge;
+ Competing companies using employees to gain economic advantage through damage and/or
+theft.
+CLASSIFICATIONS OF CYBERCRIMES
+Table: Classifying Cybercrimes
+“Crime is defined as an act or the commission of an act that is forbidden, or the omission of a duty that is
+commanded by a public law and that makes the off ender liable to punishment by that law”. Cyber crimes are
+classified as follows:
+ Cybercrime against individual
+ Cybercrime against property
+ Cybercrime against organization
+ Cybercrime against society
+ Crimes emanating from Usenet newsgroup
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 13

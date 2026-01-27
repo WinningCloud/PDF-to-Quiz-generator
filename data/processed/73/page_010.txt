@@ -1,0 +1,41 @@
+Dogo Rangsang Research Journal UGC Care Group I Journal
+ISSN : 2347-7180 Vol-09 Issue-03 September-December 2019
+Advantages:
+ It helps in saving time and cost of manufacturing ICs is less.
+ It helps in manufacturing large amount of chips at one time. We can fabricate 200 or 1000 chips
+instead of one easily.
+ Wide ranges of resists are available.
+Disadvantages:
+ Since the wavelength of light is getting smaller, glasses lenses designed to focus the light rather absorb
+the light and very less light is able to reach on the silicon wafer.
+ Lack of availability of lamps.
+ A mismatch can occur between the lamp and the resist used.
+Extreme Ultraviolet Lithography
+In order to keep pace with growing demands of manufacturing small feature size integrated chips, a new way of
+reducing the wavelength has been discovered using Extreme Ultraviolet Lithography. Deep ultra violet
+Lithography used radiation of wavelength of 248 nm to print the small-scale features on the wafer. Resolution =
+K1×λ
+Where λ is the wavelength and NA is the numerical aperture. K1 here is 0.25, since below that double
+patterning has to be applied which is costly and numerical aperture should not exceed 1.35 as it requires high
+index lenses and fluid which are not currently available.
+Resolution = 0.25×193 = 36nm
+One of the important Problems is reducing the wavelength of light and extreme ultraviolet Lithography comes
+into the picture and plays an important role in optical Lithography.
+Procedure
+Step 1: Wavelength of 13.5nm is used for EUV. In order to produce such small wavelength, an excited state
+atom is required and therefore tin (Sn) is commonly used which is already highly positively charged. Vacuum
+plays an important role since wavelength of light is so small that it can easily be absorbed by air. Accordingly
+everything ranging from optics to mask is placed inside a vacuum to generate plasma.
+Step 2: There are two methods through which high-energy photons can be generated for making the pattern on
+the wafer [11]. Figure 6 shows the layout for producing EUV Lithography.
+a. Laser Pulsed Plasma:
+i. A pulse laser is fired onto the incoming tin (Sn) droplets which puts these droplets in the excited
+state and when comes to relaxed state generates EUV photons. A mirror focuses these photons to an
+intermediate focus (If) and passes it to the next level. The size of the tiny tin (Sn) droplets is usually
+of diameter 50-100μm.
+b. Discharged Pulsed Plasma:
+i. Plasma can also be produced by Discharged rather than laser pulsed plasma where two tin baths are
+used which are filled by molten tin and two disks are placed which rotate and pick up tin on their
+surface when rotated in tin bath. Apply voltage and throw laser which puts the tin to an excited state
+and when it comes to relaxed state it generates EUV photons.
+Page | 529 Copyright @ 2019 Authors

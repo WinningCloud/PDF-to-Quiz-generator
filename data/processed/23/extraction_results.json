@@ -1,0 +1,33 @@
+{
+  "pdf_id": 23,
+  "metadata": {
+    "filename": "7441de46-fb60-49d3-98a1-a13b56a95793_afcat.pdf",
+    "total_pages": 1,
+    "author": "MD Faadil",
+    "title": "afcatsektsyllabus.pdf",
+    "subject": "",
+    "extracted_at": "2026-01-04T17:04:46.186183"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "has_text": false,
+      "word_count": 0,
+      "tables": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-04T17:04:46.179016"
+    }
+  ],
+  "summary": {
+    "total_pages_extracted": 1,
+    "pages_with_text": 0,
+    "total_words": 0,
+    "total_tables": 0,
+    "total_images": 0
+  }
+}

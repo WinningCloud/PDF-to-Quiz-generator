@@ -1,0 +1,33 @@
+CYBERSECURITY FOR
+SMALL BUSINESS
+HIRING A WEB HOST
+You may want a new
+But if you don’t have the skills to set up the web
+presence you want, you may want to hire a web host
+or upgraded website provider to do it for you. Whether you’re upgrading a
+website or launching a new business, there are many
+for your business. web-hosting options. When comparing services,
+security should be a top concern.
+LOOK FOR
+WHAT TO
+Transport Layer Security (TLS) Email authentication
+The service you choose should include TLS, Some web host providers let you set up your
+which will help to protect your customers’ company’s business email using your domain
+privacy. (You may have heard of its name (that’s part of your URL, and what you may
+predecessor, Secure Sockets Layer, or SSL.) think of as your website name). Your domain name
+TLS helps make sure that your customers get might look like this: yourbusiness.com. And your
+to your real website when they type your URL email may look like this: name@yourbusiness.com.
+into the address bar. When TLS is correctly If you don’t have email authentication, scammers
+implemented on your website, your URL will can impersonate that domain name and send
+begin with https://. emails that look like they’re from your business.
+TLS also helps make sure the information When your business email is set up using
+sent to your website is encrypted. That’s your company’s domain name, make sure that
+especially important if you ask customers your web host can give you these three email
+for sensitive information, like credit card authentication tools:
+numbers or passwords.
+• Sender Policy Framework (SPF)
+• Domain Keys Identified Mail (DKIM)
+• Domain-based Message Authentication,
+Reporting & Conformance (DMARC)
+LEARN MORE AT:
+FTC.gov/SmallBusiness

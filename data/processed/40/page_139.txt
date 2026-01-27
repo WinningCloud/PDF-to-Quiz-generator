@@ -1,0 +1,50 @@
+collection and  Determine water particular piece of digital crime type
+recording evidence is and identifying possible source of potential
+preserving and data evidence
+transportation  determine where the evidence is physically source media
+located the variable device event
+ Translating the media into data
+ ensuring integrity and authenticity of the
+digital evidence for example write protection
+hashes etc
+ packaging transporting and storing the
+digital evidence
+ preventing people from using the digital device
+or allowing other electromagnetic device to be
+used within an affected radius
+ recording the physical scene
+ duplicating the digital evidence using
+standardised and accepted procedure
+ ensuring the validity and integrity of
+evidence for later use
+examination  Determine Hing how the data is produced,
+investigation and when and why whom. log files, file
+analysis  determine and validating the techniques to events log data
+interpretation and find and interpret significant data. information
+attribution
+ extracting hidden data, discovering the
+hidden data and matching the pattern.
+ recognising fbs pieces of digital evidence and
+assessing the skills level of suspect.
+ transform the data into more manageable
+size and form for analysis.
+ confirming or refuting allegations of
+suspicious activity.
+ identifying and locating potential evidence,
+possibly Within unconventional locations.
+ constructing detailed documentation for
+analysis and drawing conclusions based on
+evidence found.
+ determining significant based on evidence
+found.
+ testing and rejecting theories based on
+digital evidence.
+ organising the analysis results from the
+collected physical and digital evidence.
+ eliminating duplication of analysis
+ build a timeline
+ constructing a hypothesis of what occurred
+and comparing the extracted data with the
+target.
+ documenting the finding and all steps taken.
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 25

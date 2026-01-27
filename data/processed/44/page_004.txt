@@ -1,0 +1,26 @@
+CYBERSECURITY FOR
+SMALL BUSINESS
+3. DETECT
+Monitor your computers Check your network Investigate any unusual
+for unauthorized personnel for unauthorized activities on your network
+access, devices (like USB users or connections. or by your staff.
+drives), and software.
+4. RESPOND
+Have a plan for:
+• Notifying customers, employees, and others • Investigating and containing an attack.
+whose data may be at risk.
+• Updating your cybersecurity policy and
+• Keeping business operations up and running. plan with lessons learned.
+• Reporting the attack to law enforcement and • Preparing for inadvertent events
+other authorities. (like weather emergencies) that may
+put data at risk.
+Test your plan regularly.
+5. RECOVER
+After an attack:
+Repair and restore the Keep employees and customers
+equipment and parts of your informed of your response and
+network that were affected. recovery activities.
+For more information on the NIST Cybersecurity Framework and resources for small businesses,
+go to NIST.gov/CyberFramework and NIST.gov/Programs-Projects/Small-Business-Corner-SBC.
+LEARN MORE AT:
+FTC.gov/SmallBusiness

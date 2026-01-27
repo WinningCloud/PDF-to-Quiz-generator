@@ -1,0 +1,36 @@
+In exceptional circumstance, where a person finds it necessary to access original data held on a
+computer or storage media that person must be competent do so and be able to give evidence
+explaining the relevance and the implications of his/her actions.
+Principle 3:
+An Audit trail or other record of all the processes applied to computer waste electronic evidence
+should be created and preserved. An independent third party should be able to examine those process
+and achieve the same result.
+Principle 4:
+The person in charge of the investigation (the case officer) has overall responsibility for ensuring that
+the law and these principles are adhered to.
+13.Explain the chain Custody Concepts in Cyber Forensics
+5.7 Chain of Custody Concepts,
+A chain of custody is the process of validating how many kinds of evidences have been gathered,
+tracked and protected on the way to a court of law
+It is essential to get in the habit of protecting all evidences equally so that they will hold up in
+court. Forensic nvestigation professionals know that if you do not have a chain of custody, the
+evidence is worthless. They learn to deal with everything as if it would go to litigation.
+Purpose of the chain of custody is that the proponent of a piece of evidence must demonstrate that
+it is what it purports to be.
+In other words, there is a reliable information to suggest that the party offering the evidence
+can demonstrate the piece of evidence is actually, in fact, what the party claims it to be and
+can further demonstrate its origin and the handling of the evidence because it was acquired.
+The Chain of Custody is a chronological written record of those individuals who have had
+custody of the evidence from, its initial acquisition until its final disposition.
+A chain of custody begins when an item of relevant evidence is collected, and the chain is
+maintained until the evidence is disposed off (Figs. 5.10 and 5.11). The chain of custody
+assumes continuous accountability. This accountability is important because, if not properly
+maintained, an item (of evidence) may be inadmissible
+5.8 Network forensics.
+• Open networks can be source of many network-based cyberattack
+• Wireless Forensics
+• Wireless Forensics is a discipline included within the computer forensics science, and
+specifically, within the network forensics field.
+• The goal of wireless forensics is to provide the methodology and) tools required to collect
+network traffic that can be presented as valid digital evidence a court of law.
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 27

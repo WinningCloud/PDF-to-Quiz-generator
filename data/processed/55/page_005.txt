@@ -1,0 +1,43 @@
+Chapter 1: Becoming a CISSP
+5
+Domain Description
+Security Architecture This domain examines ways that software should be designed
+and Design securely. It also covers international security measurement standards
+and their meaning for different types of platforms. Some of the topics
+covered include
+• Operating states, kernel functions, and memory mapping
+• Security models, architectures, and evaluations
+•Evaluation criteria: Trusted Computer Security Evaluation Criteria
+(TCSEC), Information Technology Security Evaluation Criteria
+(ITSEC), and Common Criteria
+• Common flaws in applications and systems
+• Certification and accreditation
+Security Operations This domain examines controls over personnel, hardware, systems,
+and auditing and monitoring techniques. It also covers possible abuse
+channels and how to recognize and address them. Some of the topics
+covered include
+•Administrative responsibilities pertaining to personnel and job
+functions
+•Maintenance concepts of antivirus, training, auditing, and resource
+protection activities
+• Preventive, detective, corrective, and recovery controls
+• Security and fault-tolerance technologies
+Business Continuity This domain examines the preservation of business activitieswhen
+and Disaster Recovery faced with disruptions or disasters. It involves the identification
+Planning of real risks, proper risk assessment, and countermeasure
+implementation. Some of the topics covered include
+• Business resource identification and value assignment
+• Business impact analysis and prediction of possible losses
+• Unit priorities and crisis management
+• Plan development, implementation, and maintenance
+Legal, Regulations, This domain examines computer crimes, laws, and regulations. It
+Investigations, and includes techniques for investigating a crime, gathering evidence, and
+Compliance handling procedures. It also covers how to develop and implement an
+incident-handling program. Some of the topics covered include
+• Types of laws, regulations, and crimes
+• Licensing and software piracy
+• Export and import laws and issues
+• Evidence types and admissibility into court
+• Incident handling
+• Forensics
+Table 1-1 Security Domains That Make Up the CISSP CBK (continued)

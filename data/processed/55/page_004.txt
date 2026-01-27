@@ -1,0 +1,49 @@
+CISSP All-in-One Exam Guide
+4
+Domain Description
+Access Control This domain examines mechanisms and methods used to enable
+administrators and managers to control what subjects can access, the
+extent of their capabilities after authorization and authentication, and
+the auditing and monitoring of these activities. Some of the topics
+covered include
+• Access control threats
+•Identification and authentication technologies and
+techniques
+• Access control administration
+• Single sign-on technologies
+• Attack methods
+Telecommunications and This domain examines internal, external, public, and private
+Network Security communication systems; networking structures; devices; protocols;
+and remote access and administration. Some of the topics covered
+include
+• OSI model and layers
+•Local area network (LAN), metropolitan area network (MAN), and
+wide area network (WAN) technologies
+• Internet, intranet, and extranet issues
+•Virtual private networks (VPNs), firewalls, routers, switches, and
+repeaters
+• Network topologies and cabling
+• Attack methods
+Information Security This domain examines the identification of company assets, the
+Governance and Risk proper way to determine the necessary level of protection required,
+Management and what type of budget to develop for security implementations,
+with the goal of reducing threats and monetary loss. Some of the
+topics covered include
+• Data classification
+• Policies, procedures, standards, and guidelines
+• Risk assessment and management
+• Personnel security, training, and awareness
+Software Development This domain examines secure software development approaches,
+Security application security, and software flaws. Some of the topics covered
+include
+• Data warehousing and data mining
+• Various development practices and their risks
+• Software components and vulnerabilities
+• Malicious code
+Cryptography This domain examines cryptography techniques, approaches, and
+technologies. Some of the topics covered include
+• Symmetric versus asymmetric algorithms and uses
+• Public key infrastructure (PKI) and hashing functions
+• Encryption protocols and implementation
+• Attack methods
+Table 1-1 Security Domains That Make Up the CISSP CBK

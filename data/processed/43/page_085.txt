@@ -1,0 +1,4 @@
+18 Discuss the traditional techniques of attacks on Wireless network? ** CO3 L2
+19 What is the difference between WAPkitting and WAPjacking? CO3 L2
+20 How to secure the Wireless network? CO3 L2
+21 Discuss the theft Internet hours and Wi-Fi based Frauds and Misuses CO3 L2

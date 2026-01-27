@@ -1,0 +1,36 @@
+US, India and China are  Targeted Countries.
+3. Phishing attacks are monitored on a daily basis and displayed on
+www.phishtank.com
+4. According to May 2009 Phishing Monthly Report compiled by Symantec Security
+Response Anti -Fraud Team
+ Total 3,650 non-English Phishing websites were recorded in the month of May 2009.
+ Phishing URLs are categorized based on the top-level domains (TLDs). The most
+used TLD in Phishing websites during the month of May 2009 were ".com, ".net and
+".org" comprising 50%, 9% and 5%, respectively.
+Phishing Activity Trends Report of Q4-2009 published by Anti-Phishing Working
+Group (APWG,) states the Phishing attack trends and statistics for the quarter. It is
+important to note that:
+Financial organizations, payment services and auction websites are ranked as the
+most targeted industry.
+Port 80 [HTTP] is found to be the most popular port in use followed by Port 443 [S-
+HTTP] and Port 8080 (WEB SERVER) among all the phishing attacks.
+APWG (Anti-Phishing Working Group)
+1. Explain the functions of Anti-phishing Working Group (04M)
+• www. antiphishing.org, is an international consortium, founded in 2003 by
+David Jevans
+• to bring security products and services companies, law enforcement agencies,
+government agencies, trade association, regional international treaty
+organizations and communications companies together, who are affected by
+Phishing attacks.
+• APWG has more than 3,200+ members from more than 1,700 organizations
+and agencies across the globe.
+• To name a few, member organizations are leading security companies such as
+BitDefender, Symantec, McAfee, VeriSign and IronKey.
+• ING Group, VISA, Mastercard and the American Bankers Association are the
+members from financial industry.
+• APWG is focused on eliminating identity theft that results from the growing
+attacks/scams of Phishing and E-Mail Spoofing.
+• APWG provides a platform to discuss Phishing issues, define the scope
+Phishing problem in terms of costs and share information about best
+practices to these attacks/scams.
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 2

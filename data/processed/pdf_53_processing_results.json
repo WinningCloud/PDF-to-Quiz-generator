@@ -1,0 +1,50 @@
+{
+  "pdf_id": 53,
+  "metadata": {
+    "filename": "3d57cff1-051e-4492-9ddb-bfdb555611f0_sample-local-pdf-1.pdf",
+    "filepath": "./data/uploads/3d57cff1-051e-4492-9ddb-bfdb555611f0_sample-local-pdf-1.pdf",
+    "total_pages": 1,
+    "author": "",
+    "title": "",
+    "subject": "",
+    "created_date": "",
+    "modified_date": "D:20260107121320Z"
+  },
+  "normalized_topics": {
+    "normalized_topics": [
+      {
+        "topic_id": "topic_001",
+        "topic_name": "PDF",
+        "subtopics": [
+          "PDF"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "PDF",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 1,
+          "cohesion_score": 1.0
+        }
+      }
+    ],
+    "topic_mapping": {
+      "PDF": "PDF"
+    },
+    "original_subtopics": [
+      "PDF"
+    ],
+    "statistics": {
+      "total_original_subtopics": 1,
+      "total_normalized_topics": 1,
+      "coverage_percentage": 100.0,
+      "average_subtopics_per_topic": 1.0,
+      "normalization_quality": "Perfect (1:1 mapping)"
+    }
+  },
+  "paths": {
+    "extraction": "./data/processed/53/extraction_results.json",
+    "chunks": "./data/chunks/pdf_53_chunks.json",
+    "index": "./data/vector_index/pdf_53/vector_index.pkl"
+  },
+  "processed_at": "2026-01-07T12:19:18.529113"
+}

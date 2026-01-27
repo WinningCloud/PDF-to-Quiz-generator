@@ -1,0 +1,30 @@
+The world’s worst virus and worm attacks!!!
+Morris Worm ILOVEYOU Nimda Jerusalem
+Code Red Melissa Melissa
+Sobig Storm Worm Michelangelo
+Trojan Horses and Backdoors
+ Trojan Horse is a program in which malicious or harmful code is contained inside
+apparently harmless programming or data in such a way that it can get control and cause
+harm, for example, ruining the file allocation table on the hard disk.
+ A Trojan Horse may get widely redistributed as part of a computer virus.
+ The term Trojan Horse comes from Greek mythology about the Trojan War.
+ Like Spyware and Adware, Trojans can get into the system in a number of ways, including
+from a web browser, via E-Mail.
+ It is possible that one could be forced to reformat USB flash drive or other portable device
+to eliminate infection and avoid transferring it to other machines.
+ Unlike viruses or worms, Trojans do not replicate themselves but they can be equally
+destructive.
+ On the surface, Trojans appear benign and harmless, but once the infected code is executed,
+Trojans kick in and perform malicious functions to harm the computer system without the
+user’s knowledge.
+ For example, waterfalls.scr is a waterfall screen saver as originally claimed by the author;
+however, it can be associated with malware and become a Trojan to unload hidden
+programs and allow unauthorized access to the user’s PC.
+Some typical examples of threats by Trojans are as follows:
+1. They erase, overwrite or corrupt data on a computer.
+2. They help to spread other malware such as viruses (by a dropper Trojan).
+3. They deactivate or interfere with antivirus and firewall programs.
+4. They allow remote access to your computer (by a remote access Trojan).
+5. They upload and download files without your knowledge.
+6. They gather E-Mail addresses and use them for Spam.
+Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 13

@@ -1,0 +1,46 @@
+Chapter 1: Becoming a CISSP
+3
+The CISSP exam comprises 250 multiple-choice questions, and you have up to six
+hours to complete it. The questions are pulled from a much larger question bank to
+ensure the exam is as unique as possible for each entrant. In addition, the test bank
+constantly changes and evolves to more accurately reflect the real world of security. The
+exam questions are continually rotated and replaced in the bank as necessary. Each
+question has four answer choices, only one of which is correct. Only 225 questions are
+graded, while 25 are used for research purposes. The 25 research questions are inte-
+grated into the exam, so you won’t know which go toward your final grade. To pass the
+exam, you need a minimum raw score of 700 points out of 1,000. Questions are
+weighted based on their difficulty; not all questions are worth the same number of
+points. The exam is not product- or vendor-oriented, meaning no questions will be
+specific to certain products or vendors (for instance, Windows, Unix, or Cisco). Instead,
+you will be tested on the security models and methodologies used by these types of
+systems.
+(ISC)2, which stands for International Information Systems Security Certification
+Consortium, has also added scenario-based questions to the CISSP exam. These ques-
+tions present a short scenario to the test taker rather than asking the test taker to iden-
+tify terms and/or concepts. The goal of the scenario-based questions is to ensure that
+test takers not only know and understand the concepts within the CBK, but also can
+apply this knowledge to real-life situations. This is more practical because in the real
+world, you won’t be challenged by having someone asking you “What is the definition
+of collusion?” You need to know how to detect and prevent collusion from taking place,
+in addition to knowing the definition of the term.
+After passing the exam, you will be asked to supply documentation, supported by a
+sponsor, proving that you indeed have the type of experience required to obtain this
+certification. The sponsor must sign a document vouching for the security experience
+you are submitting. So, make sure you have this sponsor lined up prior to registering
+for the exam and providing payment. You don’t want to pay for and pass the exam, only
+to find you can’t find a sponsor for the final step needed to achieve your certification.
+The reason behind the sponsorship requirement is to ensure that those who achieve
+the certification have real-world experience to offer organizations. Book knowledge is
+extremely important for understanding theory, concepts, standards, and regulations,
+but it can never replace hands-on experience. Proving your practical experience sup-
+ports the relevance of the certification.
+A small sample group of individuals selected at random will be audited after pass-
+ing the exam. The audit consists mainly of individuals from (ISC)2 calling on the can-
+didates’ sponsors and contacts to verify the test taker’s related experience.
+What makes this exam challenging is that most candidates, although they work in
+the security field, are not necessarily familiar with all ten CBK domains. If a security
+professional is considered an expert in vulnerability testing or application security, for
+example, she may not be familiar with physical security, cryptography, or forensics.
+Thus, studying for this exam will broaden your knowledge of the security field.
+The exam questions address the ten CBK security domains, which are described in
+Table 1-1.

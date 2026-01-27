@@ -1,0 +1,140 @@
+{
+  "pdf_id": 64,
+  "metadata": {
+    "filename": "08ccc2f2-f67a-445c-b7db-11fbb92feaee_Computer Networking-318.pdf",
+    "total_pages": 5,
+    "author": "Sumit",
+    "title": "",
+    "subject": "",
+    "extracted_at": "2026-01-22T16:31:01.539785"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ISSN 2348-1196 (print)\nInternational Journal of Computer Science and Information Technology Research ISSN 2348-120X (online)\nVol. 2, Issue 2, pp: (373-377), Month: April-June 2014, Available at: www.researchpublish.com\nAn Introduction to Computer Networking\nSumit Ahlawat#1, Anshul Anand#2\n#1M.Tech Student, #2Asst. Professor\nDepartment of CSE, Shri Baba Mastnath Engineering College, Rohtak (INDIA)\nAbstract: Computer networks are a system of interconnected computers for the purpose of sharing digital\ninformation. The concept of a network began in 1962 when a server at the Massachusetts Institute of Technology\nwas connected to a server in Santa Monica, California. Since that time the proliferation of computers and\ncomputer networks has increased significantly. One of the most significant challenges to networks is attacks on\ntheir resources caused by inadequate network security. In this research paper we highlight and overview concept\nof computer networks.\nKeywords: Computer networks, protocols, network security.\nI. INTRODUCTION\nA computer network or data network is a telecommunications network that allows computers to exchange data. In\ncomputer networks, networked computing devices pass data to each other along data connections. The connections\n(network links) between nodes are established using either cable media or wireless media. The best-known computer\nnetwork is the Internet. Network computer devices that originate, route and terminate the data are called network nodes.\nNodes can include hosts such as personal computers, phones, servers as well as networking hardware. Two such devices\nare said to be networked together when one device is able to exchange information with the other device, whether or not\nthey have a direct connection to each other. Computer networks support applications such as access to the World Wide\nWeb, shared use of application and storage servers, printers, and fax machines, and use of email and instant messaging\napplications. Computer networks differ in the physical media used to transmit their signals, the communications protocols\nto organize network traffic, the network's size, topology and organizational intent.\nII. HISTORY\nMaking devices talk to each other for the purposes of communication is nothing new. Early forays into telephony such as\nthe telegraph and telephone have since evolved into more complicated devices, and now a computer can be networked to\nthe Internet, another PC, or even a home stereo. In the early 1960s, individual computers had to be physically shared,\nmaking the sharing of data and other information difficult. Seeing this was impractical, researchers developed a way to\n“connect” the computers so they could share their resources more efficiently. Hence, the early computer network was\nborn.\nThrough the then-new communication protocol known as packet switching, a number of applications, such as secure\nvoice transmission in military channels became possible. These new circuits provided the basis for the communication\ntechnologies of the rest of the 20th century, and with further refinement these were applied to computer networks. These\nnetworks provided the basis for the early ARPANET, which was the forerunner of the modern Internet. The Advanced\nResearch Projects Agency (ARPA) submitted the proposal for the project on June 3, 1968 which was approved a few\nweeks later. This proposal entitled “Resource Sharing Computer Networks” would allow ARPA not only the further\nsharing of their data, but would allow them to further their research in a wide variety of military and scientific fields.\nAfter being tested in four locations, the network spread and the new protocols created for its use evolved into today’s\nWorld Wide Network.\nPage | 37 3\nResearch Publish Journals",
+      "has_text": true,
+      "word_count": 565,
+      "tables": [
+        [
+          [
+            null,
+            "ISSN 2348-1196 (print)"
+          ],
+          [
+            "ISSN 2348-120X (online)",
+            null
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 595.32,
+        "height": 841.92
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-22T16:31:01.074513"
+    },
+    {
+      "page_number": 2,
+      "text": "ISSN 2348-1196 (print)\nInternational Journal of Computer Science and Information Technology Research ISSN 2348-120X (online)\nVol. 2, Issue 2, pp: (373-377), Month: April-June 2014, Available at: www.researchpublish.com\nIn 1977, early PC-based Local Area Networks, or LANs (Local Area Networks) were spreading, and while initially\nrestricted to academics and hobbyists, they eventually found their way into the workplace and in homes, although the\nexplosion into the latter two arenas is a relatively recent phenomenon. LAN variants also developed, including\nMetropolitan Area Networks (MANs) to cover large areas such as a college campus, and Wide Area Networks (WANs)\nfor university-to-university communication. With the widespread use of computers in the corporate world, the speed and\nconvenience of using them to communicate and transfer data has forever altered the landscape of how people conduct\nbusiness. Networks have become an integral part of the corporate world. Ubiquitous computing and Internet-capable\ncellular phones have allowed people to remain connected, even if the individual is away from a fully wired office\nenvironment.\nIII. PROPERTIES OF COMPUTER NETWORKS\nFacilitate communications: Using a network, people can communicate efficiently and easily via email, instant\nmessaging, chat rooms, telephone, video telephone calls, and video conferencing. Permit sharing of files, data, and other\ntypes of information In a network environment, authorized users may access data and information stored on other\ncomputers on the network.\nFacilitates interpersonal communications\nPeople can communicate efficiently and easily via email, instant messaging, chat rooms, telephone, video telephone calls,\nand video conferencing.\nAllows sharing of files, data, and other types of information\nAuthorized users may access information stored on other computers on the network. Providing access to information on\nshared storage devices is an important feature of many networks.\nAllows sharing of network and computing resources\nUsers may access and use resources provided by devices on the network, such as printing a document on a shared network\nprinter. Distributed computing uses computing resources across a network to accomplish tasks.\nMay be insecure\nA computer network may be used by computer Crackers to deploy computer viruses or computer worms on devices\nconnected to the network, or to prevent these devices from accessing the network (denial of service).\nMay interfere with other technologies\nPower line communication strongly disturbs certain [5] forms of radio communication, e.g., amateur radio. It may also\ninterfere with last mile access technologies such as ADSL and VDSL. A complex computer network may be difficult to\nset up. It may be costly to set up an effective computer network in a large organization.\nIV. PROTOCOLS IN NETWORKING\nEthernet: The Ethernet protocol is by far the most widely used one. Ethernet uses an access method called CSMA/CD\n(Carrier Sense Multiple Access/Collision Detection). This is a system where each computer listens to the cable before\nsending anything through the network. If the network is clear, the computer will transmit. If some other nodes have\nalready transmitted on the cable, the computer will wait and try again when the line is clear. Sometimes, two computers\nattempt to transmit at the same instant.\nFast Ethernet: To allow for an increased speed of transmission, the Ethernet protocol has developed a new standard that\nsupports 100 Mbps.\nPage | 37 4\nResearch Publish Journals",
+      "has_text": true,
+      "word_count": 531,
+      "tables": [
+        [
+          [
+            null,
+            "ISSN 2348-1196 (print)"
+          ],
+          [
+            "ISSN 2348-120X (online)",
+            null
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 595.32,
+        "height": 841.92
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-22T16:31:01.167409"
+    },
+    {
+      "page_number": 3,
+      "text": "ISSN 2348-1196 (print)\nInternational Journal of Computer Science and Information Technology Research ISSN 2348-120X (online)\nVol. 2, Issue 2, pp: (373-377), Month: April-June 2014, Available at: www.researchpublish.com\nLocal Talk: Local Talk is a network protocol that was developed by Apple Computer, Inc. for Macintosh computers. The\nmethod used by Local Talk is called CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance). It is similar to\nCSMA/CD except that a computer signals its intent to transmit before it actually does so. Local Talk adapters and special\ntwisted pair cable can be used to connect a series of computers through the serial port.\nToken Ring: The Token Ring protocol was developed by IBM in the mid-1980s. The access method used involves token-\npassing. In Token Ring, the computers are connected so that the signal travels around the network from one computer to\nanother in a logical ring. A single electronic token moves around the ring from one computer to the next.\nFDDI: Fiber Distributed Data Interface (FDDI) is a network protocol that is used primarily to interconnect two or more\nlocal area networks, often over large distances. The access method used by FDDI involves token-passing. FDDI uses a\ndual ring physical topology.\nATM: Asynchronous Transfer Mode (ATM) is a network protocol that transmits data at a speed of 155 Mbps and higher.\nATM works by transmitting all data in small packets of a fixed size; whereas, other protocols transfer variable length\npackets. ATM supports a variety of media such as video, CD-quality audio, and imaging. ATM employs a star topology,\nwhich can work with fiber optic as well as twisted pair cable.\nGigabit Ethernet: The most latest development in the Ethernet standard is a protocol that has a transmission speed of 1\nGbps. Gigabit Ethernet is primarily used for backbones on a network at this time. In the future, it will probably also be\nused for workstation and server connections.\nV. APPLICATIONS\nApplications of wireless technology:\nMobile telephones\nOne of the best-known examples of wireless technology is the mobile phone, also known as a cellular phone, with more\nthan 4.6 billion mobile cellular subscriptions worldwide as of the end of 2010.\nWireless data communications\nWireless data communications are an essential component of mobile computing. The various available technologies differ\nin local availability, coverage range and performance, and in some circumstances, users must be able to employ multiple\nconnection types and switch between them.\nWi-Fi is a wireless local area network that enables portable computing devices to connect easily to the Internet.\nStandardized as IEEE 802.11 a,b,g,n, Wi-Fi approaches speeds of some types of wired Ethernet. Wi-Fi has become the de\nfacto standard for access in private homes.\nCellular data service offers coverage within a range of 10-15 miles from the nearest cell site. Speeds have increased as\ntechnologies have evolved, from earlier technologies such as GSM, CDMA and GPRS, to 3G networks such as W-\nCDMA, EDGE or CDMA2000.\nMobile Satellite Communications may be used where other wireless connections are unavailable, such as in largely rural\nareas or remote locations. Satellite communications are especially important for transportation, aviation, maritime and\nmilitary use.\nWireless Sensor Networks are responsible for sensing noise, interference, and activity in data collection networks. This\nallows us to detect relevant quantities, monitor and collect data, formulate meaningful user displays, and to perform\ndecision-making functions\nWireless energy transfer\nWireless energy transfer is a process whereby electrical energy is transmitted from a power source to an electrical load\nthat does not have a built-in power source, without the use of interconnecting wires. There are two different fundamental\nmethods for wireless energy transfer. They can be transferred using either far-field methods that involve beam\nPage | 37 5\nResearch Publish Journals",
+      "has_text": true,
+      "word_count": 619,
+      "tables": [
+        [
+          [
+            null,
+            "ISSN 2348-1196 (print)"
+          ],
+          [
+            "ISSN 2348-120X (online)",
+            null
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 595.32,
+        "height": 841.92
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-22T16:31:01.277302"
+    },
+    {
+      "page_number": 4,
+      "text": "ISSN 2348-1196 (print)\nInternational Journal of Computer Science and Information Technology Research ISSN 2348-120X (online)\nVol. 2, Issue 2, pp: (373-377), Month: April-June 2014, Available at: www.researchpublish.com\npower/lasers, radio or microwave transmissions or near-field using induction. Both methods utilize electromagnetism and\nmagnetic fields\nWireless Medical Technologies\nNew technologies such as mobile body area networks (MBAN) the capability to monitor blood pressure, heart rate,\noxygen level and body temperature, all with wireless technologies. The MBAN works by sending low powered wireless\nsignals to receivers that feed into nursing stations or monitoring sites. This technology helps with the intentional and\nunintentional risk of infection or disconnection that arise from wired connections.\nComputer interface devices\nAnswering the call of customers frustrated with cord clutter, many[who?] manufacturers of computer peripherals turned\nto wireless technology to satisfy their consumer base [citation needed]. Originally these units used bulky, highly limited\ntransceivers to mediate between a computer and a keyboard and mouse; however, more recent generations have used\nsmall, high-quality devices, some even incorporating Bluetooth. These systems have become so ubiquitous that some\nusers have begun complaining about a lack of wired peripherals. [who?] Wireless devices tend to have a slightly slower\nresponse time than their wired counterparts; however, the gap is decreasing. [citation needed]\nComputer interface devices such as a keyboard or mouse are powered by a battery and send signals to a receiver through a\nUSB port by way of a radio frequency (RF) receiver. The RF design makes it possible for signals to be transmitted\nwirelessly and expands the range of effective use, usually up to 10 feet. Distance, physical obstacles, competing signals,\nand even human bodies can all degrade the signal quality. Concerns about the security of wireless keyboards arose at the\nend of 2007, when it was revealed that Microsoft's implementation of encryption in some of its 27 MHz models was\nhighly insecure.\nV. NETWORK SECURITY\nWhat is network security? How does it protect you? How does network security work? What are the business benefits of\nnetwork security? You may think you know the answers to basic questions like, What is network security? Still, it's a\ngood idea to ask them of your trusted IT partner. Why? Because small and medium-sized businesses (SMBs) often lack\nthe IT resources of large companies. That means your network security may not be sufficient to protect your business\nfrom today's sophisticated Internet threats.\nWhat Is Network Security?\nIn answering the question What is network security? your IT partner should explain that network security refers to any\nactivities designed to protect your network. Specifically, these activities protect the usability, reliability, integrity, and\nsafety of your network and data. Effective network security targets a variety of threats and stops them from entering or\nspreading on your network. What Is Network Security and How Does It Protect Your network? Many network security\nthreats today are spread over the Internet. The most common include:\n1. Viruses, worms, and Trojan horses\n2. Spyware and adware\n3. Zero-day attacks, also called zero-hour attacks\n4. Hacker attacks\n5. Denial of service attacks\n6. Data interception and theft\n7. Identity theft\nYou need multiple layers of security. If one fails, others still stand. Network security is accomplished through hardware\nand software. The software must be constantly updated and managed to protect you from emerging threats. A network\nsecurity system usually consists of many components. Ideally, all components work together, which minimizes\nmaintenance and improves security.\nPage | 37 6\nResearch Publish Journals",
+      "has_text": true,
+      "word_count": 578,
+      "tables": [
+        [
+          [
+            null,
+            "ISSN 2348-1196 (print)"
+          ],
+          [
+            "ISSN 2348-120X (online)",
+            null
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 595.32,
+        "height": 841.92
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-22T16:31:01.362653"
+    },
+    {
+      "page_number": 5,
+      "text": "ISSN 2348-1196 (print)\nInternational Journal of Computer Science and Information Technology Research ISSN 2348-120X (online)\nVol. 2, Issue 2, pp: (373-377), Month: April-June 2014, Available at: www.researchpublish.com\nNetwork security components often include:\n1. Anti-virus and anti-spyware\n2. Firewall, to block unauthorized access to your network\n3. Intrusion prevention systems (IPS), to identify fast-spreading threats, such as zero-day or zero-hour attacks\n4. Virtual Private Networks (VPNs), to provide secure remote access\nV. CONCLUSION\nWhile the age-old concept of the network is foundational in virtually all areas of society, Computer Networks and\nProtocols have forever changed the way humans will work, play, and communicate. Forging powerfully into areas of our\nlives that no one had expected, digital networking is further empowering us for the future. New protocols and standards\nwill emerge, new applications will be conceived, and our lives will be further changed and enhanced. While the new will\nonly be better, the majority of digital networking's current technologies are not cutting-edge, but rather are protocols and\nstandards conceived at the dawn of the digital networking age that have stood solid for over thirty years.\nREFERENCES\n[1] http://en.wikipedia.org/wiki/Computer_network\n[2] http://gimnetwork.wordpress.com/2013/01/19/properties-of-computer-networks/\n[3] http://www.goldgroup.co.uk/brief-history-networking/\n[4] http://www.edrawsoft.com/Network-Protocol.php\n[5] http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6157406&url=http%3A%2F%2Fieeexplore.ieee.org%2\nFiel5%2F5449605%2F6157403%2F06157406.pdf%3Farnumber%3D6157406\n[6] http://infpower.wordpress.com/\n[7] http://www.ecii.edu/wp-content/uploads/2013/10/Tantillo_1_Pantani_Network_Security_Through_Open_Source_\nIntrusion_Detection_Systems_May2012.pdf\nPage | 37 7\nResearch Publish Journals",
+      "has_text": true,
+      "word_count": 207,
+      "tables": [
+        [
+          [
+            null,
+            "ISSN 2348-1196 (print)"
+          ],
+          [
+            "ISSN 2348-120X (online)",
+            null
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 595.32,
+        "height": 841.92
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-22T16:31:01.535815"
+    }
+  ],
+  "summary": {
+    "total_pages_extracted": 5,
+    "pages_with_text": 5,
+    "total_words": 2500,
+    "total_tables": 5,
+    "total_images": 0
+  }
+}

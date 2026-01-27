@@ -1,0 +1,32 @@
+Cybercrime against individual
+1. E-Mail Spoofing: A spoofed E-Mail is one that appears to originate from one source but actually has been
+sent from another source. For example, let us say, Roopa has an E-Mail address roopa@asianlaws.org. Let us
+say her boyfriend Suresh and she happen to have a show down. Then Suresh, having become her enemy, spoofs
+her E-Mail and sends vulgar messages to all her acquaintances. Since the E-Mails appear to have originated
+from Roopa, her friends could take offense and relationships could be spoiled for life.
+2. Online Frauds: The most common types of online fraud are called phishing and spoofing. Phishing is the
+process of collecting your personal information through e-mails or websites claiming to be legitimate. This
+information can include usernames, passwords, credit card numbers, social security numbers, etc. Often times the
+e-mails directs you to a website where you can update your personal information. Because these sites often look
+“official,” they hope you’ll be tricked into disclosing valuable information that you normally would not reveal.
+This often times, results in identity theft and financial loss.
+Spyware and viruses are both malicious programs that are loaded onto your computer without your
+knowledge. The purpose of these programs may be to capture or destroy information, to ruin computer performance
+or to overload you with advertising. Viruses can spread by infecting computers and then replicating. Spyware
+disguises itself as a legitimate application and embeds itself into your computer where it then monitors your activity
+and collects information.
+3. Phishing, Spear Phishing and its various other forms such as Vishing and Smishing:
+Phishing is the process of collecting your personal information through e-mails or websites claiming to be
+legitimate. This information can include usernames, passwords, credit card numbers, social security numbers, etc.
+Often times the e-mails directs you to a website where you can update your personal information. Because these
+sites often look “official,” they hope you’ll be tricked into disclosing valuable information that you normally
+would not reveal. This often times, results in identity theft and financial loss.
+Spear Phishing is a method of sending a Phishing message to a particular organization to gain organizational
+information for more targeted social engineering. Here is how Spear Phishing scams work; Spear Phishing
+describes any highly targeted Phishing attack. Spear phishers send E-Mail that appears genuine to all the
+employees or members within a certain company, government agency, organization or group. The message might
+look as if it has come from your employer, or from a colleague who might send an E-Mail message to everyone in
+the company; it could include requests for usernames or passwords. While traditional Phishingscams are
+designed to steal information from individuals, spear phishing scam works to gain access to acompany's entire
+computer system.
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 14

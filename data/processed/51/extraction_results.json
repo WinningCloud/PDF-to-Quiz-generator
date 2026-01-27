@@ -1,0 +1,204 @@
+{
+  "pdf_id": 51,
+  "metadata": {
+    "filename": "22cd278c-1a8f-4089-ad71-fadd687bc4bc_Introduction_to_Cyber_Security-1-10-1-3.pdf",
+    "total_pages": 3,
+    "author": "",
+    "title": "",
+    "subject": "",
+    "extracted_at": "2026-01-07T11:48:52.674834"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "INTRODUCTION TO CYBER SECURITY\n(BETCK105/205 I)\nNOTES\nFor First/Second Semester B.E[VTU/CBCS, 2023-2024] Syllabus\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 1",
+      "has_text": true,
+      "word_count": 26,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:48:52.299917"
+    },
+    {
+      "page_number": 2,
+      "text": "Syllabus\nCourse Title: Introduction to Cyber Security Course Code: : BETCK105I/205\nTeaching\nMODULE-I\nHours\nIntroduction to Cybercrime: Cybercrime: Definition and Origins of the Word, Cybercrime and\nInformation Security, Who are Cybercriminals? Classifications of Cybercrimes, An Indian\n8\nPerspective, Hacking and Indian Laws., Global PerspectivesTextbook:1 Chapter 1 (1.1 to 1.5,\n1.7-1.9)\nBlooms Taxonomy: L1 – Remembering, L2 – Understanding\nTeaching\nMODULE-II\nHours\nCyber Offenses: How Criminals Plan Them: Introduction, How criminals plan the attacks,\nSocial Engineering, Cyber Stalking, Cybercafe & cybercrimes. Botnets: The fuel for cybercrime, 8\nAttack Vector. Textbook:1 Chapter 2 (2.1 to 2.7)\nBlooms Taxonomy: L1 – Remembering, L2 – Understanding\nTeaching\nMODULE-III\nHours\nTools and Methods used in Cybercrime: Introduction, Proxy Servers, Anonymizers, Phishing,\nPassword Cracking, Key Loggers and Spyways, Virus and Worms, Trozen Horses and\nBackdoors, Steganography, DoS and DDOS Attackes, Attacks on Wireless networks.\n8\nTextbook:1 Chapter 4 (4.1 to 4.9, 4.12)\nBlooms Taxonomy: L1 – Remembering, L2 – Understanding\nMODULE-IV Teaching\nHours\nPhishing and Identity Theft: Introduction, methods of phishing, phishing, phising techniques,\nspear phishing, types of phishing scams, phishing toolkits and spy phishing, counter measures,\n8\nIdentity Theft Textbook:1 Chapter 5 (5.1. to 5.3)\nBlooms Taxonomy: L1 – Remembering , L2 – Understanding\nMODULE-V\nTeaching\nHours\nUnderstanding Computer Forensics: Introdcution, Historical Background of Cyberforensics,\nDigital Foresics Science, Need for Computer Foresics, Cyber Forensics and Digital Evidence,\nDigital Forensic Life cycle, Chain of Custody Concepts, network forensics. Textbook:1 Chapter\n8\n7 (7.1. to 7.5, 7.7 to 7.9)\nBlooms Taxonomy: L1 – Remembering, L2 – Understanding\nSL Name Of the Name Of the Edition and\nTitle Of The Book ISBN\nNo Author/s Publisher Year\n, “Cyber Security: Understanding Sunit Belapure First Edition\nWiley India Pvt\n1 Cyber Crimes, Computer Forensics and Nina (Reprinted 978-81- 265-21791, 2011,\nLtd\nAnd Legal Perspectives” Godbole 2018)\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 2",
+      "has_text": true,
+      "word_count": 309,
+      "tables": [
+        [
+          [
+            "MODULE-I",
+            "Teaching\nHours"
+          ],
+          [
+            "Introduction to Cybercrime: Cybercrime: Definition and Origins of the Word, Cybercrime and\nInformation Security, Who are Cybercriminals? Classifications of Cybercrimes, An Indian\nPerspective, Hacking and Indian Laws., Global PerspectivesTextbook:1 Chapter 1 (1.1 to 1.5,\n1.7-1.9)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering, L2 – Understanding",
+            ""
+          ],
+          [
+            "MODULE-II",
+            "Teaching\nHours"
+          ],
+          [
+            "Cyber Offenses: How Criminals Plan Them: Introduction, How criminals plan the attacks,\nSocial Engineering, Cyber Stalking, Cybercafe & cybercrimes. Botnets: The fuel for cybercrime,\nAttack Vector. Textbook:1 Chapter 2 (2.1 to 2.7)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering, L2 – Understanding",
+            ""
+          ],
+          [
+            "MODULE-III",
+            "Teaching\nHours"
+          ],
+          [
+            "Tools and Methods used in Cybercrime: Introduction, Proxy Servers, Anonymizers, Phishing,\nPassword Cracking, Key Loggers and Spyways, Virus and Worms, Trozen Horses and\nBackdoors, Steganography, DoS and DDOS Attackes, Attacks on Wireless networks.\nTextbook:1 Chapter 4 (4.1 to 4.9, 4.12)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering, L2 – Understanding",
+            ""
+          ],
+          [
+            "MODULE-IV",
+            "Teaching\nHours"
+          ],
+          [
+            "Phishing and Identity Theft: Introduction, methods of phishing, phishing, phising techniques,\nspear phishing, types of phishing scams, phishing toolkits and spy phishing, counter measures,\nIdentity Theft Textbook:1 Chapter 5 (5.1. to 5.3)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering , L2 – Understanding",
+            ""
+          ],
+          [
+            "MODULE-V",
+            "Teaching\nHours"
+          ],
+          [
+            "Understanding Computer Forensics: Introdcution, Historical Background of Cyberforensics,\nDigital Foresics Science, Need for Computer Foresics, Cyber Forensics and Digital Evidence,\nDigital Forensic Life cycle, Chain of Custody Concepts, network forensics. Textbook:1 Chapter\n7 (7.1. to 7.5, 7.7 to 7.9)",
+            "8"
+          ],
+          [
+            "Blooms Taxonomy: L1 – Remembering, L2 – Understanding",
+            ""
+          ]
+        ],
+        [
+          [
+            "SL",
+            "",
+            "Name Of the",
+            "Name Of the",
+            "Edition and",
+            ""
+          ],
+          [
+            null,
+            "Title Of The Book",
+            null,
+            null,
+            null,
+            "ISBN"
+          ],
+          [
+            "No",
+            null,
+            "Author/s",
+            "Publisher",
+            "Year",
+            null
+          ],
+          [
+            null,
+            "",
+            null,
+            null,
+            null,
+            ""
+          ],
+          [
+            "",
+            ", “Cyber Security: Understanding",
+            "Sunit Belapure",
+            "",
+            "First Edition",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            "Wiley India Pvt",
+            null,
+            null
+          ],
+          [
+            "1",
+            "Cyber Crimes, Computer Forensics",
+            "and Nina",
+            null,
+            "(Reprinted",
+            "978-81- 265-21791, 2011,"
+          ],
+          [
+            null,
+            null,
+            null,
+            "Ltd",
+            null,
+            null
+          ],
+          [
+            "",
+            "And Legal Perspectives”",
+            "Godbole",
+            null,
+            "2018)",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            "",
+            null,
+            null
+          ]
+        ]
+      ],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:48:52.412511"
+    },
+    {
+      "page_number": 3,
+      "text": "MODULE 1. INTRODUCTION TO CYBERCRIME\nList of Topics:\n Introduction\n Cybercrime: Definition and Origins of the Word\n Cybercrime and Information Security\n Who are Cybercriminals?\n Classifications of Cybercrimes\n Cybercrime: The Legal Perspectives\n Cybercrimes: An Indian Perspective\n Cybercrime and the Indian ITA 2000\n A Global Perspective on Cybercrimes\n Cybercrime Era: Survival Mantra for the Netizens\nINTRODUCTION\n “Cyber security is the protection of internet-connected systems, including hardware, software and data,\nfrom cyber attacks”.\n “Cybersecurity” means protecting information, equipment, devices, computer, computer resource,\ncommunication device and information stored therein from unauthorized access, use, disclosure, disruption,\nmodification or destruction.\n Almost everyone is aware of the rapid growth of the Internet.\n Given the unrestricted number of free websites, the Internet has undeniably opened a new way of\nexploitation known as cybercrime.\n These activities involve the use of computers, the Internet, cyberspace and the worldwide web (WWW).\n Interestingly, cybercrime is not a new phenomena; the first recorded cybercrime took place in the year\n1820.\n It is one of the most talked about topics in the recent years.\n Based on a 2008 survey in Australia, the below shows the cybercrime trend\nJ yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 3",
+      "has_text": true,
+      "word_count": 213,
+      "tables": [],
+      "dimensions": {
+        "width": 594.96,
+        "height": 840.96
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-07T11:48:52.672536"
+    }
+  ],
+  "summary": {
+    "total_pages_extracted": 3,
+    "pages_with_text": 3,
+    "total_words": 548,
+    "total_tables": 2,
+    "total_images": 0
+  }
+}

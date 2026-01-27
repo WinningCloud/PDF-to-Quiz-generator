@@ -1,0 +1,86 @@
+[
+  {
+    "chunk_id": "3407053b",
+    "text": "",
+    "page_number": 1,
+    "start_char": 0,
+    "end_char": 0,
+    "word_count": 0,
+    "metadata": {
+      "chunk_type": "small_page",
+      "warning": "page_below_minimum_size"
+    },
+    "previous_page_ref": "",
+    "next_page_ref": ""
+  },
+  {
+    "chunk_id": "e755869e",
+    "text": "",
+    "page_number": 2,
+    "start_char": 0,
+    "end_char": 0,
+    "word_count": 0,
+    "metadata": {
+      "chunk_type": "small_page",
+      "warning": "page_below_minimum_size"
+    },
+    "previous_page_ref": "",
+    "next_page_ref": ""
+  },
+  {
+    "chunk_id": "371bd178",
+    "text": "",
+    "page_number": 3,
+    "start_char": 0,
+    "end_char": 0,
+    "word_count": 0,
+    "metadata": {
+      "chunk_type": "small_page",
+      "warning": "page_below_minimum_size"
+    },
+    "previous_page_ref": "",
+    "next_page_ref": ""
+  },
+  {
+    "chunk_id": "650b2ef7",
+    "text": "",
+    "page_number": 4,
+    "start_char": 0,
+    "end_char": 0,
+    "word_count": 0,
+    "metadata": {
+      "chunk_type": "small_page",
+      "warning": "page_below_minimum_size"
+    },
+    "previous_page_ref": "",
+    "next_page_ref": ""
+  },
+  {
+    "chunk_id": "bca79f3c",
+    "text": "",
+    "page_number": 5,
+    "start_char": 0,
+    "end_char": 0,
+    "word_count": 0,
+    "metadata": {
+      "chunk_type": "small_page",
+      "warning": "page_below_minimum_size"
+    },
+    "previous_page_ref": "",
+    "next_page_ref": ""
+  },
+  {
+    "chunk_id": "71693134",
+    "text": "",
+    "page_number": 6,
+    "start_char": 0,
+    "end_char": 0,
+    "word_count": 0,
+    "metadata": {
+      "chunk_type": "small_page",
+      "warning": "page_below_minimum_size"
+    },
+    "previous_page_ref": "",
+    "next_page_ref": ""
+  }
+]

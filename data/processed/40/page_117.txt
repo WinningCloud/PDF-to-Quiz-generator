@@ -1,0 +1,28 @@
+and presentation of digital evidence derived from digital sources for the purpose of facilitation
+or furthering the reconstruction of events found to be criminal, or helping to anticipate
+unauthorized actions shown to be disruptive to planned operations.
+It is difficult to provide a precise definition of "digital evidence" because the evidence is recovered
+from devices that are not traditionally considered to be computers. (Some researchers prefer to
+expand the definition by including the "collection" and "examination" of all forms of digital
+data, including the data found in cell phones, PDAs, iPods and other electronic devices. In
+general, the role of digital forensics is to:
+.
+1. Uncover and document evidence and leads.
+2. Corroborate evidence discovered in other ways (E-Discovery)
+3. Assist in showing a pattern of events (data mining has an application here).
+4. Connect attack and victim computers (Locard's Exchange Principle)
+5. Reveal an end-to-end path of events leading to a compromise attempt, successful or not.
+6. Extract data that may be hidden, deleted or otherwise not directly available.
+.
+The typical scenarios involved are:
+1. Employee Internet abuse
+2. Data leak/ data breach - unauthorized disclosure of corporate information and data
+(accidental and intentional);
+3. Industrial espionage (corporate "spying" activities);
+4. damage assessment (following an incident);
+5. criminal fraud and deception cases;
+6. criminals Cases (many criminals simply store information on computers,
+intentionally or unwittingly) and countess others;
+7. copyright violation
+Figure 5.1 shows the kind of data you "see" using forensics tools.
+Jy othi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 3

@@ -1,0 +1,42 @@
+CYBERSECURITY FOR
+SMALL BUSINESS
+PROTECT
+HOW TO DATA ON YOUR DEVICES
+A burglary, lost laptop, stolen mobile phone, or misplaced flash drive — all can happen due to
+lapses in physical security. But they’re less likely to result in a data breach if information on those
+devices is protected. Here are a few ways to do that:
+Require complex passwords
+Require passwords that are long, complex, and unique. And make sure that these
+passwords are stored securely. Consider using a password manager.
+Use multi-factor authentication
+Require multi-factor authentication to access areas of your network with sensitive
+information. This requires additional steps beyond logging in with a password — like
+a temporary code on a smartphone or a key that’s inserted into a computer.
+Limit login attempts
+Limit the number of incorrect login attempts allowed to unlock devices. This will help
+protect against intruders.
+Encrypt
+Encrypt portable media, including laptops and thumb drives, that contain sensitive
+information. Encrypt any sensitive data you send outside of the company, like to an
+accountant or a shipping service.
+TRAIN Include physical security in your regular employee trainings and
+communications. Remind employees to:
+YOUR
+Shred documents Promote security practices
+EMPLOYEES
+in all locations
+Always shred documents
+with sensitive information
+Maintain security practices even if working
+before throwing them away.
+remotely from home or on business travel.
+Erase data correctly Know the response plan
+Use software to erase data All staff should know what to do if
+before donating or discarding equipment or paper files are lost or
+old computers, mobile devices, stolen, including whom to notify and
+digital copiers, and drives. what to do next. Use Data Breach
+Don’t rely on “delete” alone. Response: A Guide for Business for help
+That does not actually remove creating a response plan. You can find it
+the file from the computer. at FTC.gov/DataBreach.
+LEARN MORE AT:
+FTC.gov/SmallBusiness

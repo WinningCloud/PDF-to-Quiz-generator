@@ -1,0 +1,26 @@
+according to the “Crime in 2007” report of the National Crime Record Bureau (NCRB).
+Cybercrimes: Indian Statistics:
+Cybercrimes: Cases of various categories under ITA 2000: 217 cases were registered under IT Act during the
+year 2007 as compared to 142 cases during the previous year 2006, with an increase of 52.8%. 99 cases of the total
+217 cases registered under ITA 2000 were related to obscene publication/transmission in electronic form known as
+cyberpornography. There were 76 cases of hacking with computer system which is related to loss/damage of
+computer resource/utility. India is said to be “youth country” given the population age distribution. However from
+cybercrime perspective, this youth aspect does not seem good as revealed by cybercrime statistics in India.
+Cybercrimes: Cases of various categories under IPC Section: A total of 339 cases were registered under IPC
+sections during the year 2007 as compared to 311 such cases during 2006, thereby reporting an increase of
+9%.Majority of the crimes out of total 339 cases registered under IPC fall under 2 categories i.e.., Forgery &
+Criminal breach of Trust or Fraud.
+Incidence of Cybercrimes in cities: 17 out of 35 mega cities did not report any case of cybercrime (neither under
+the IT Act nor under IPC Sections) during the year 2007. A total of 17 mega cities have reported 118 cases under
+IT Act and 7 mega cities reported 180 cases under various sections of IPC.
+The Indian Government is doing its best to control cybercrimes. For example, Delhi Police have now trained
+100 of its officers in handling cybercrime and placed them in its Economic Offences Wing. As at the time of
+writing this, the officers were trained for 6 weeks in computer hardware and software, computer
+networks comprising data communication networks, network protocols, wireless networks and network security.
+CYBERCRIME & THE INDIAN ITA 2000
+In India, the ITA 2000 was enacted after the United Nation General Assembly ResolutionA/RES/51/162
+in January 30, 1997 by adopting the Model Law on Electronic Commerce adopted by the United Nations
+Commission on International Trade Law. This was the first step toward the Law relating to E- Commerce at
+international level to regulate an alternative form of commerce and to give legal status in the areaof E-Commerce.
+It was enacted taking into consideration UNICITRAL model of Law on Electronic Commerce (1996).
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 24

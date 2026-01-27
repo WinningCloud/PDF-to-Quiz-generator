@@ -1,0 +1,40 @@
+a).What is Phishing? Explain with examples.
+b). Define the term Phishing with respect to Wikipedia, Webopedia and TechEncyclopedia.
+4.2 Phishing
+Wikipedia:
+• It is the criminally fraudulent process of attempting to acquire sensitive information
+such as usernames, passwords and credit card details by masquerading as a
+trustworthy entity in an electronic communication
+Webopedia:
+• It is an act of sending an E-Mail to a user falsely claiming to be an established legitimate
+enterprise in an attempt to scam the user into surrendering private information that will
+be used for ID theft.
+• The E-Mail directs the user to visit a website where they are asked to update personal
+information, such as passwords and credit card, social security and bank account
+numbers that the legitimate organization already has.
+• The website, however, is bogus and set up only to steal the user's information
+Tech Encyclopedia: It is a scam to steal valuable information such as credit card and social
+security numbers (SSN), user IDs and passwords.
+• It is also known as "brand Spoofing."
+• An official-looking E-Mail is sent to potential victims pretending to be from their bank
+or retail establishment.
+• E-Mails can be sent to people on selected lists or any list, expecting that some
+percentage of recipients will actually have an account with the organization.
+• Is a type of deception designed to steal your identity.
+• Here the phisher tries to get the user to disclose the personal information such as
+credit card numbers, passwords, account data or other information’s.
+• Email is the popular medium of Phishing attack and such E-Mails are also called as
+Spams; however not all E-mails are spam E-Mails.
+• Types of E-Mails  Spam E-Mails and hoax E-Mails
+Spam E-Mails and hoax E-Mails
+• Spam E-Mails  Junk E-Mails
+• Identical messages sent to numerous recipients.
+• Grown since 1990,  Botnet network of virus infected computers are used to send
+80% of spam emails.
+• Types 1. Unsolicited bulk E-Mails (UBE) email sent to large quantities
+2. Unsolicited Commercial E-Mail (UCE) for commercial purpose such
+as advertising.
+SPAMBOTS (UBE)
+• Automated computer program and/or a script developed, mostly into “C”
+programing language to send Spam mails.
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 3

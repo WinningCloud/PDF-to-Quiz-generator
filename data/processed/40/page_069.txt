@@ -1,0 +1,30 @@
+ Buffer overflow technique is employed to commit such kind of criminal attack known as
+Spoofing.
+ The term IP address Spoofing refers to the creation of IP packets with a forged (spoofed)
+source IP address with the purpose of concealing the ID of the sender or impersonating
+another computing system.
+ A packet is a formatted unit of data carried by a packet mode computer network.
+ The attacker spoofs the IP address and floods the network of the victim with repeated
+requests.
+ As the IP address is fake, the victim machine keeps waiting for response from the
+attacker’s machine for each request.
+ This consumes the bandwidth of the network which then fails to serve the legitimate
+requests and ultimately breaks down.
+ The United States Computer Emergency Response Team defines symptoms of DoS
+attacks to include:
+1. Unusually slow network performance (opening fi les or accessing websites);
+2. unavailability of a particular website;
+3. inability to access any website;
+4. dramatic increase in the number of Spam E-Mails received (this type of DoS
+attack is termed as an E-Mail bomb).
+The goal of DoS is not to gain unauthorized access to systems or data, but to prevent
+intended users (i.e., legitimate users) of a service from using it.
+A DoS attack may do the following:
+1. Flood a network with traffic, thereby preventing legitimate network traffic.
+2. Disrupt connections between two systems, thereby preventing access to a service.
+3. Prevent a particular individual from accessing a service.
+4. Disrupt service to a specific system or person.
+Classification of DoS Attacks
+1. Bandwidth attacks: Loading any website takes certain time. Loading means complete
+webpage appearing on the screen and system is awaiting user’s input.
+Jyothi R, A ssistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) Page 17

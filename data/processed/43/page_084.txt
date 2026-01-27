@@ -1,0 +1,36 @@
+Question Bank
+Subject: Introduction to Cyber Security Class: AI and ML/AIDS/CSD
+Subject code: BETCK105I/205I Faculty: Mrs. Jyothi R
+Course Outcomes
+CO1: Interpret the cybercrime terminologies
+CO2: Analyze Cyber offenses and Botnets
+CO3: Illustrate Tools and Methods used on Cybercrime
+CO4: Analyze Phishing and Identity Theft
+CO5: Justify the need of computer forensics
+Module 3: Tools and Methods used in Cybercrime: Introduction, Proxy Servers, Anonymizers,
+Phishing, Password Cracking, Key Loggers and Spy wares, Virus and Worms, Trozen Horses and
+Backdoors, Steganography, DoS and DDOS Attacks, Attacks on Wireless networks.
+Sl. Questions CO BT
+No.
+1 Discuss the different forms of attacks through which attacker target the CO3 L2
+computer system
+2 Discuss the proxy server and Anonymizers in the cyber security CO3 L2
+3 List the difference between proxy server and anonymizer? CO3 L2
+4 Discuss the following: Google Cookie, Cookie, DoubleClick and G-Zapper. CO3 L2
+5 Explain the Phishing, with examples and discuss the step how it works? CO3 L2
+6 What are the different ways of password cracking? CO3 L2
+7 How can keyloggers can be used to commit a cybercrime? OR Explain the CO3 L2
+following i) Software keyloggers, ii) Hardware keyloggers, iii) Antikeylogger
+and Spywares
+8 Discuss the concept of Virus and worms. How criminals use these tools for CO3 L2
+the attack.
+9 Discuss the difference between virus and a worm CO3 L2
+10 Discuss the difference between Trozen Horses and Backdoors? CO3 L2
+11 Elaborate the steganography and Steganalysis? How criminals use these CO3 L3
+methods? Discuss the steganography and Cryptography
+12 Discuss the difference between DoS and DDoS attack CO3 L2
+13 Explain and list the classification of DoS attacks CO3 L2
+14 Discuss Types or levels of DoS attacks CO3 L2
+15 Discuss the tools used to launch DoS attack. CO3 L2
+16 Discuss the different types of mobile workers? CO3 L2
+17 what is the difference between WEP and WPA2? CO3 L2

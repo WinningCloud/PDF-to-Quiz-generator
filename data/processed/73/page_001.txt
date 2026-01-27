@@ -1,0 +1,35 @@
+Dogo Rangsang Research Journal UGC Care Group I Journal
+ISSN : 2347-7180 Vol-09 Issue-03 September-December 2019
+LITHOGRAPHY AND IT’S USE IN SEMICONDUCTOR INDUSTRIES
+1SRIRAM PRADHAN, Gandhi Institute of Excellent Technocrats, Bhubaneswar, India
+2SUCHITRA PRIYADARSHINI, Padmanava College of Engineering, Sundargarh, Odisha, India
+ABSTRACT
+The end of the 19th century brought about a change in the dynamics of computing by the development of the microprocessor.
+Huge bedroom size computers began being replaced by portable, smaller sized desktops. Today the world is dominated by
+silicon, which has circumscribed chip development for computers through microprocessors. Majority of the integrated
+circuits that are manufactured at present are developed using the concept of Lithography. This paper presents a detailed
+analysis of multiple Lithography methodologies as a means for advanced integrated circuit development. The study paper
+primarily restricts to examples in the context of Lithography, surveying the various existing techniques of Lithography in
+literature, examining feasible and efficient methods, highlighting the various pros and cons of each of them.
+KEYWORDS
+Etching, Lithography, Mirrors, Resist, Poly Silicon, Transistor & Wafer.
+1. INTRODUCTION
+In 1950’s chip manufacturers discovered that as the complexity of the circuits grew they faced new challenges
+[2]. One was while building a circuit, all the connections should be intact otherwise the current would be
+stopped within the circuit. Another problem was the speed complexity of the circuits. The circuits used in
+computers primarily depend upon speed. If the components used in computers are too large or the wires joining
+them are too long, then in that case the speed will become slow and get affected. In 1958 Jack Kilby established
+an answer to this problem. He made all the parts from the same block of material and added a layer of metal on
+top of it to connect them together. As a result no more of wires and components had to be assembled manually.
+The circuits could easily be made smaller and the manufacturing process could be computerized. Integrated
+circuits have come long way since the Jack Kilby’s first model. His idea changed the future of microprocessor
+industry and is the key element behind our computer society.
+Integrated circuit is considered as the advanced form of electrical circuit. Different electrical components
+including transistors, capacitors, diodes and capacitors make an electrical circuit. These components act as
+building blocks in an electrical manufacture gear. It can help us construct computer microprocessor or burglar
+alarm. The advent of integrated circuits (ICs) technology facilitated the placement of large number of
+transistors on a single chip, thereby playing an important role in solving problems of logic circuits by
+improving power consumption and speed performance.
+Today most advanced circuits can be developed with billions of transistors embedded in them [5]. Every year as
+the technology is advancing; the chips are becoming more powerful and cheaper.
+Page | 520 Copyright @ 2019 Authors

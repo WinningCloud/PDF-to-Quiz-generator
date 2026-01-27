@@ -1,0 +1,28 @@
+CYBERSECURITY FOR
+SMALL BUSINESS
+SECURE
+REMOTE ACCESS
+Employees and vendors may need to connect to your network remotely.
+Put your network’s security first. Make employees and vendors follow strong security standards before
+they connect to your network. Give them the tools to make security part of their work routine.
+HOW TO
+PROTECT DEVICES
+Whether employees or vendors use company-issued devices or their own when
+connecting remotely to your network, those devices should be secure. Follow these
+tips — and make sure your employees and vendors do as well:
+Always change any pre-set router passwords and the
+default name of your router. And keep the router’s
+software up to date; you may have to visit the router’s
+website often to do so.
+Consider enabling full-disk encryption for laptops and
+other mobile devices that connect remotely to your
+network. Check your operating system for this option,
+which will protect any data stored on the device if it’s
+lost or stolen. This is especially important if the device
+stores any sensitive personal information.
+Change smartphone settings to stop automatic
+connections to public Wi-Fi.
+Keep up-to-date antivirus software on devices that
+connect to your network, including mobile devices.
+LLEEAARRNN MMOORREE AATT::
+FTC.gov/SmallBusiness

@@ -1,0 +1,26 @@
+[
+  {
+    "chunk_id": "8a8d333e",
+    "page_number": 1,
+    "text_preview": "",
+    "word_count": 0,
+    "previous_page_ref": "",
+    "next_page_ref": "",
+    "metadata": {
+      "chunk_type": "small_page",
+      "warning": "page_below_minimum_size"
+    }
+  },
+  {
+    "chunk_id": "ce7ed5bf",
+    "page_number": 2,
+    "text_preview": "",
+    "word_count": 0,
+    "previous_page_ref": "",
+    "next_page_ref": "",
+    "metadata": {
+      "chunk_type": "small_page",
+      "warning": "page_below_minimum_size"
+    }
+  }
+]

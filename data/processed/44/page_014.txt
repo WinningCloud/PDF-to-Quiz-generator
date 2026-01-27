@@ -1,0 +1,34 @@
+CYBERSECURITY FOR
+SMALL BUSINESS
+PROTECT
+HOW TO YOUR BUSINESS
+If a caller says your computer has a problem, hang up. A tech support call you don’t expect is a scam
+— even if the number is local or looks legitimate. These scammers use fake caller ID information to
+look like local businesses or trusted companies.
+If you get a pop-up message to call tech support, ignore it. Some pop-up messages about computer
+issues are legitimate, but do not call a number or click on a link that appears in a pop-up message
+warning you of a computer problem.
+If you’re worried about a virus or other threat, call your security software company directly, using
+the phone number on its website, the sales receipt, or the product packaging. Or consult a trusted
+security professional.
+Never give someone your password, and don’t give remote access to your computer to someone
+who contacts you unexpectedly.
+WHAT TO DO IF YOU’RE
+SCAMMED
+If you shared your password with If the affected computer is
+a scammer, change it on every connected to your network, you or a
+account that uses this password. security professional should check
+Remember to use unique passwords the entire network for intrusions.
+for each account and service.
+If you bought bogus services,
+Consider using a password manager.
+ask your credit card company to
+Get rid of malware. Update or reverse the charges, and check
+download legitimate security your statement for any charges
+software. Scan your computer, and you didn’t approve. Keep checking
+delete anything the software says is your credit card statements to make
+a problem. If you need help, consult sure the scammer doesn’t try to
+a trusted security professional. re-charge you every month.
+Report the attack right away to the FTC at FTC.gov/Complaint.
+LEARN MORE AT:
+FTC.gov/SmallBusiness

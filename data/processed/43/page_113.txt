@@ -1,0 +1,39 @@
+Question Bank
+Subject: Introduction to Cyber Security Class: AI and ML/AIDS/CSD
+Subject code: BETCK105I/205I Faculty: Mrs. Jyothi R
+Course Outcomes
+CO1: Interpret the cybercrime terminologies
+CO2: Analyze Cyber offenses and Botnets
+CO3: Illustrate Tools and Methods used on Cybercrime
+CO4: Analyze Phishing and Identity Theft
+CO5: Justify the need of computer forensics
+Module 4: Phishing and Identity Theft: Introduction, methods of phishing, phishing, phishing
+techniques, spear phishing, types of phishing scams, phishing toolkits and spy phishing, counter
+measures, Identity Theft Textbook:1 Chapter 5 (5.1. to 5.3)
+Sl. Questions CO BT
+No.
+1 Explain the functions of Anti-phishing Working Group CO4 L2
+2 Explain the statistics that prove phishing is a dangerous enemy among all CO4 L2
+the methods/techniques.
+3 What is Phishing? Explain with examples. CO4 L2
+4 a). Define the term Phishing with respect to Wikipedia, Webopedia and CO4 L2
+TechEncyclopedia. b). Differentiate between Spam and Hoax mails
+5 i). What are the different methods of Phishing attacks? Explain in details. CO4 L2
+OR
+Explain four types of methods used by the phishers to reveal personal
+information on Internet
+ii) Explain the following attack against the legitimate website.
+a) Website Spoofing
+b) XSS-Cross site Scripting
+c) XSRF- Cross scripting Request Forgery
+6 Discuss the different Phishing techniques? OR Discuss the various CO4 L2
+techniques used by Phishers to launch Phishing attacks
+7 What is spear Phishing? Explain with examples. CO4 L2
+8 What is Whaling? Explain the difference between Whaling and Spear CO4 L2
+Phishing
+9 Explain the different types of Phishing scams. OR Discuss various types of CO4 L2
+Phishing Scams.
+10 Explain Phishing Toolkits with examples. CO4 L2
+11 What are countermeasures to prevent malicious attacks CO4 L3
+12 Explain the flowchart of Phishing attacks. CO4 L2
+13 What is identity theft? Explain with examples. CO4 L2

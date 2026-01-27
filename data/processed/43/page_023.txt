@@ -1,0 +1,31 @@
+CYBERCRIME: THE LEGAL PERSPECTIVES
+ Cybercrime poses a biggest challenge.
+ Computer Crime: As per “Criminal Justice Resource Manual (1979)”, computer-related crime was defined
+in the broader meaning as: “any illegal act for which knowledge of computer technology is essential for a
+successful prosecution”.
+ International legal aspects of computer crimes were studied in 1983.
+ In that study, computer crime was consequently defined as: “encompasses any illegal act for which
+knowledge of computer technology is essential for its commit”.
+ Cybercrime, in a way, is the outcome of “globalization.” However, globalization does not mean
+globalized welfare at all.
+ Globalized information systems accommodate an increasing number of transnational offenses.
+ The network context of cybercrime makes it one of the most globalized offenses of the present and the
+most modernized threats of the future.
+ This problem can be resolved in two ways.
+a) One is to divide information systems into segments bordered by state boundaries (cross-border
+flow of information).
+b) The other is to incorporate the legal system into an integrated entity obliterating these state
+boundaries.
+ Apparently, the first way is unrealistic. Although all ancient empires including Rome, Greece and Mongolia
+became historical remnants, and giant empires are not prevalent in current world, the partitionof
+information systems cannot be an imagined practice.
+ In a globally connected world, information systems become the unique empire without tangible territory.
+CYBERCRIMES: AN INDIAN PERSPECTIVE
+India has the fourth highest number of Internet users in the world. According to the statistics posted on the
+site (http://www.iamai.in/), there are 45 million Internet users in India, 37% of all Internet accesses happen from
+cybercafés and 57% of Indian Internet users are between 18 and 35 years. The population of educatedyouth
+is high in India. It is reported that compared to the year 2006, cybercrime under the Information Technology (IT)
+Act recorded a whopping 50% increase in the year 2007. A point to note is that the majority of offenders were
+under 30 years. The maximum cybercrime cases, about 46%, were related to incidents of
+cyberpornography, followed by hacking. In over 60% of these cases, offenders were between 18 and 30 years,
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 23

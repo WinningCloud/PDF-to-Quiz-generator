@@ -1,0 +1,32 @@
+ use of fast meta refresh;
+ redirection;
+ IP Cloaking;
+ use of colored text on the same color background;
+ tiny text usage;
+ duplication of pages with different URLs;
+ hidden links;
+ use of different pages that bridge to the same URL (gateway pages).
+5. Cyber defamation: It is a cognizable (Software) offense. “Whoever, by words either spoken or intended to be
+read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending
+to harm, or knowing or having reason to believe that such imputation will harm, the reputation ofsuch person,
+is said, except in the cases hereinafter expected, to defame that person.”
+Cyber defamation happens when the above takes place in an electronic form. In other words, cyber
+defamation occurs when defamation takes place with the help of computers and/or the Internet. For example,
+someone publishes defamatory matter about someone on a website or sends an E-Mail containing defamatory
+information to all friends of that person.
+6. Cyberstalking and harassment: The dictionary meaning of “stalking” is an “act or process of following prey
+stealthily – trying to approach somebody or something.” Cyberstalking has been defined as the use of information
+and communications technology, particularly the Internet, by an individual or group of individualsto harass
+another individual, group of individuals, or organization. The behavior includes false accusations, monitoring,
+transmission of threats, ID theft, damage to data or equipment, solicitation of minors for sexual purposes, and
+gathering information for harassment purposes.
+As the internet has become an integral part of our personal & professional lives, cyberstalkers take advantage of
+ease of communication & an increased access to personal information available with a few mouse clicks or
+keystrokes. They are 2 types of stalkers: Online Stalkers: aim to start the interaction with the victim directly
+with the help of the internet. Offline Stalkers: the stalker may begin the attack using traditional methods such
+as following the victim, watching the daily routine of the victim.
+7. Computer Sabotage: The use of the Internet to stop the normal functioning of a computer system through the
+introduction of worms, viruses or logic bombs, is referred to as computer sabotage. It can be used to gain economic
+advantage over a competitor, to promote the illegal activities of terrorists or to steal data or programs for extortion
+purposes. Logic bombs are event-dependent programs created to do something only when a certain event (known
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 16

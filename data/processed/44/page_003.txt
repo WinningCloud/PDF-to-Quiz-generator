@@ -1,0 +1,44 @@
+CYBERSECURITY FOR
+SMALL BUSINESS
+Understanding
+THE NIST CYBERSECURITY
+FRAMEWORK
+You may have heard about the
+businesses of all sizes better understand,
+manage, and reduce their cybersecurity risk
+NIST Cybersecurity Framework,
+and protect their networks and data. The
+Framework is voluntary. It gives your business
+but what exactly is it?
+an outline of best practices to help you decide
+where to focus your time and money for
+And does it apply to you? cybersecurity protection.
+NIST is the National Institute of Standards and You can put the NIST Cybersecurity Framework
+Technology at the U.S. Department of Commerce. to work in your business in these five areas:
+The NIST Cybersecurity Framework helps Identify, Protect, Detect, Respond, and Recover.
+1. IDENTIFY 2. PROTECT
+Make a list of all equipment, software, and data • Control who logs on to your network and uses
+you use, including laptops, smartphones, tablets, your computers and other devices.
+and point-of-sale devices.
+• Use security software to protect data.
+Create and share a company cybersecurity
+policy that covers: • Encrypt sensitive data, at rest and in transit.
+• Conduct regular backups of data.
+Roles and responsibilities
+• Update security software regularly, automating
+for employees, vendors, and
+those updates if possible.
+anyone else with access to
+sensitive data.
+• Have formal policies for safely disposing of
+electronic files and old devices.
+Steps to take to protect against
+• Train everyone who uses your computers,
+an attack and limit the damage if
+devices, and network about cybersecurity.
+one occurs.
+You can help employees understand their
+personal risk in addition to their crucial role
+in the workplace.
+LEARN MORE AT:
+FTC.gov/SmallBusiness

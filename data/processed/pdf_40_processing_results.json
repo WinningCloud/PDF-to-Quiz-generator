@@ -1,0 +1,77 @@
+{
+  "pdf_id": 40,
+  "metadata": {
+    "filename": "6ccf6c06-024c-4724-bacd-8d97e7777ac8_Introduction_to_Cyber_Security.pdf",
+    "filepath": "./data/uploads/6ccf6c06-024c-4724-bacd-8d97e7777ac8_Introduction_to_Cyber_Security.pdf",
+    "total_pages": 143,
+    "author": "admin",
+    "title": "",
+    "subject": "",
+    "created_date": "D:20240506060937+05'30'",
+    "modified_date": "D:20240506060937+05'30'"
+  },
+  "normalized_topics": {
+    "normalized_topics": [
+      {
+        "topic_id": "topic_001",
+        "topic_name": "Cyber Security",
+        "subtopics": [
+          "Cyber Security"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "Cyber Security",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 2,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_002",
+        "topic_name": "ISE",
+        "subtopics": [
+          "ISE"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "ISE",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 1,
+          "cohesion_score": 1.0
+        }
+      },
+      {
+        "topic_id": "topic_003",
+        "topic_name": "Assistant Professor",
+        "subtopics": [
+          "Assistant Professor"
+        ],
+        "subtopic_count": 1,
+        "representative_subtopic": "Assistant Professor",
+        "statistics": {
+          "subtopic_count": 1,
+          "average_word_count": 2,
+          "cohesion_score": 1.0
+        }
+      }
+    ],
+    "topic_mapping": {
+      "Cyber Security": "Cyber Security",
+      "ISE": "ISE",
+      "Assistant Professor": "Assistant Professor"
+    },
+    "original_subtopics": [
+      "Cyber Security",
+      "ISE",
+      "Assistant Professor"
+    ],
+    "statistics": {
+      "total_original_subtopics": 3,
+      "total_normalized_topics": 3,
+      "coverage_percentage": 100.0,
+      "average_subtopics_per_topic": 1.0,
+      "normalization_quality": "Perfect (1:1 mapping)"
+    }
+  },
+  "processed_at": "2026-01-07T08:54:19.512612"
+}

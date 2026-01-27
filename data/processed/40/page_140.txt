@@ -1,0 +1,52 @@
+presentation and evidence,
+reporting  Preparing and presenting the information report
+resulting from analysis phase.
+ determine the issues relevance of the
+information, its reliability and who can
+testify to it.
+ interpreting the statistical from analysis
+phase.
+ clarifying the evidence and documenting the
+finding.
+ summarizing and providing explanation of
+conclusions.
+ presenting the physical and digital evidence to a
+court or corporate management.
+ attempting to confirm each piece of evidence and
+each event in the chain either along with each
+other are independent of one evidence and or
+other events.
+ providing the validity of the hypothesis and
+defend it against criticism and challenge.
+ Communicating Relevant findings to a
+variety of audience management technical
+personally law enforcement.
+disseminating the  Physical and digital property is return to evidence
+case proper owner. explanation
+ determining how and what criminal evidence new policies
+must be removed. and
+investigation
+ reviewing the investigation to identify areas of
+procedures
+improvement.
+evidence the
+ discriminating the information from the
+post
+investigation.
+investigation
+ closing out the investigation and preserving
+closed
+knowledge gained
+5.7.3. Precautions to be taken when collecting Electronic Evidence.
+Collection of evidence must happen with due care. special measures should be taken while
+conducting a forensic investigation if it is desired for the results to be used in a court of law one of
+the most important major is to ensure that the evidence has been accurately collected and that there is
+a clear chain of custody right from the scene of crime to the investigator and ultimately to the court.
+in order to comply with the need to maintain the integrity of digital dividend certain rules must be
+compiled with.
+the general principles are
+Principle 1:
+No action taken by law enforcement Agencies or their agent should change data held on a
+computer or storage media, which may subsequently be relied upon in court.
+Principle 2:
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 26

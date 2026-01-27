@@ -1,0 +1,33 @@
+{
+  "pdf_id": 59,
+  "metadata": {
+    "filename": "3b7153c6-7287-4dfd-9b17-ba273174450c_pdf-test2.pdf",
+    "total_pages": 1,
+    "author": "Yukon Department of Education",
+    "title": " PDF Test Page",
+    "subject": "",
+    "extracted_at": "2026-01-21T15:20:06.854988"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PDF Test File\nCongratulations, your computer is equipped with a PDF (Portable Document Format)\nreader! You should be able to view any of the PDF documents and forms available on\nour site. PDF forms are indicated by these icons: or .\nYukon Department of Education\nBox 2703\nWhitehorse,Yukon\nCanada\nY1A 2C6\nPlease visit our website at: http://www.education.gov.yk.ca/",
+      "has_text": true,
+      "word_count": 57,
+      "tables": [],
+      "dimensions": {
+        "width": 612,
+        "height": 792
+      },
+      "extraction_method": "pdfplumber",
+      "extraction_time": "2026-01-21T15:20:06.852608"
+    }
+  ],
+  "summary": {
+    "total_pages_extracted": 1,
+    "pages_with_text": 1,
+    "total_words": 57,
+    "total_tables": 0,
+    "total_images": 0
+  }
+}

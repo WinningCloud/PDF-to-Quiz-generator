@@ -1,0 +1,13 @@
+3. Simplicity of the filtering algorithm
+4. Accountability of HTTP response sanitizing
+5. Robustness against both misbehavior of novice users and evasion techniques
+Explain the flowchart of Phishing attacks.
+Fig: Phishing Attack flow chart
+4.3 Identity Theft
+What is identity theft? Explain with examples. (08M)
+How can information be classified? (06M)
+What are the different techniques of Identity theft?(08M)
+• It happens when someone uses your personally identifying information. Like your
+name, social security number, or credit card number, without your permission to
+commit fraud or other crimes.
+Jy othi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 19

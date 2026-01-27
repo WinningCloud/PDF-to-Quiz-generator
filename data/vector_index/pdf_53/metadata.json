@@ -1,0 +1,19 @@
+[
+  {
+    "chunk_id": "b02b2116",
+    "page_number": 1,
+    "text_preview": "Sample PDF Created for testing PDFObject This PDF is three pages long. Three long pages. Or three short pages if you’re optimistic. Is it the same as saying “three long minutes”, knowing that all minu",
+    "word_count": 450,
+    "previous_page_ref": "",
+    "next_page_ref": "",
+    "metadata": {
+      "original_page": 1,
+      "has_prev_overlap": false,
+      "has_next_overlap": false,
+      "prev_page": null,
+      "next_page": null,
+      "overlap_ratio": 0.3,
+      "chunk_type": "page_with_overlap"
+    }
+  }
+]

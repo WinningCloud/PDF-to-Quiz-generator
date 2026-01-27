@@ -1,0 +1,27 @@
+MODULE 1. INTRODUCTION TO CYBERCRIME
+List of Topics:
+ Introduction
+ Cybercrime: Definition and Origins of the Word
+ Cybercrime and Information Security
+ Who are Cybercriminals?
+ Classifications of Cybercrimes
+ Cybercrime: The Legal Perspectives
+ Cybercrimes: An Indian Perspective
+ Cybercrime and the Indian ITA 2000
+ A Global Perspective on Cybercrimes
+ Cybercrime Era: Survival Mantra for the Netizens
+INTRODUCTION
+ “Cyber security is the protection of internet-connected systems, including hardware, software and data,
+from cyber attacks”.
+ “Cybersecurity” means protecting information, equipment, devices, computer, computer resource,
+communication device and information stored therein from unauthorized access, use, disclosure, disruption,
+modification or destruction.
+ Almost everyone is aware of the rapid growth of the Internet.
+ Given the unrestricted number of free websites, the Internet has undeniably opened a new way of
+exploitation known as cybercrime.
+ These activities involve the use of computers, the Internet, cyberspace and the worldwide web (WWW).
+ Interestingly, cybercrime is not a new phenomena; the first recorded cybercrime took place in the year
+1820.
+ It is one of the most talked about topics in the recent years.
+ Based on a 2008 survey in Australia, the below shows the cybercrime trend
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 3

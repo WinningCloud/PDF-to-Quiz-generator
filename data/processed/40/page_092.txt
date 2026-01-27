@@ -1,0 +1,31 @@
+2. Road-and-reel
+• In this method, phishers identify specific prospective victims in advance, and
+convey false information to them to prompt their disclosure of personal and
+financial data.
+• For example, on the phony webpage, availability of similar item for a better price
+(i.e., cheaper price) is displayed which the victims may be searching for and upon
+visiting the webpage, victims were asked for personal information such as name,
+bank account numbers and passwords, before confirming that the "sale" and the
+information is available to the phisher easily.
+• 3. Lobsterpot
+• This method focuses upon use of spoofed websites.
+• It consists of creating of bogus/ phony websites, similar to legitimate corporate
+ones, targeting a narrowly defined class of victims, which is likely to seek out.
+• These attacks are also known as "content injection Phishing.”
+• Here the phisher places a weblink into an E-Mail message to make it look more
+legitimate and actually takes the victim to a phony scam site, which appears as
+legitimate website similar to official site. These fake sites are spoofed websites.
+• Ones the netizens is into the one of these spoofed sites, he/she might willingly send
+personal information to the con artist. Then they use your information to purchase
+goods, apply new credit card or to steal your identity.
+4. Gillnet
+ This technique relies far less on social engineering techniques and phishers
+introduce Malicious Code into E-Mails and websites.
+ They can, for example, misuse browser functionality by injecting hostile content
+into another site's pop-up window.
+ Merely by opening a particular E-Mail or browsing a particular website, netizens
+may have a Trojan Horse introduced into their systems.
+ In some cases, the Malicious Code will change settings in user's systems so that
+users who want to visit legitimate banking websites will be redirected to a look-alike
+Phishing site.
+J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 7

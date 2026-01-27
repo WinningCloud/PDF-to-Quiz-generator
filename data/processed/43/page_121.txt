@@ -1,0 +1,45 @@
+Q4: Discuss the need for concept of Computer Forensics
+5.4 Need for Computer Forensics,
+⯈ The convergence of information and communication technology (ICT) advances and the
+pervasive use of computer worldwide together have brought many advantages to mankind.
+⯈ At the same time, this tremendously high technical capacity of modern
+computer/computing devices provides avenues for misuse as well as opportunities
+for committing crime.
+⯈ This leads to new risks for computer users and also increased opportunities for social harm.
+⯈ The users, businesses and organizations worldwide have to live with a constant threat from
+hackers who use a variety of techniques and tools to break into the
+computer to steal information, change data and cause havoc.
+⯈ The widespread use of computer forensics is the result of two factors:
+1. The increasing dependence of law enforcement on digital evidence.
+2. Ubiquity of computers that followed from the microcomputer revolution.
+⯈ The media on which clues related to cybercrime reside may vary from case to case.
+⯈ There are many challenges for the forensics investigator because storage devices are
+getting miniaturized due to advances in electronic technology; for example, external
+storage devices such as mini hard disks (pen drives) are available in amazing shapes.
+⯈ Looking for digital forensics evidence (DFE) is like looking for a needle in the
+haystack.
+⯈ Here is a way to illustrate why there is always the need for forensics software on suspect
+media - the capacity of a typical regular hard disk is 500 GB (gigabytes).
+⯈ In an A4 size page, there are approximately 4,160 bytes (52 lines x 80 Characters =
+4160 bytes assuming 1 byte per character). This is equivalent to 4 KB (kilobytes). An A4
+size of paper sheet has thickness of 0.004 inches.
+⯈ Data of 4 MB (megabyte; 1,000 times of 4 KB) when printed on A4 size of paper would be
+4 inches thick.
+⯈ Data of 4 GB if printed on A4 sheet would be 4,000 inches, that is, 1,000 times of be
+virtually impossible to "retrieve" relevant forensics data from this heap!! There comes the
+help from forensics MB.
+⯈ This would turn out to be 4 inches thick. The printout of 500 GB would be
+500,000 inches!
+⯈ It would be virtually impossible to "retrieve" relevant forensics data from this heap!!
+There comes the help from forensics software-it helps sieve relevant data from the irrelevant mass
+(vital few from trivial many as the proverb goes).
+Fungibility:
+⯈ "Fungibility" means the extent to which the components of an operation or product can
+be inter- changed with similar components without decreasing the value of the operation
+or product.
+⯈ For a person to be considered as "identifiable person," he/she must always have the
+physical custody of a piece of evidence.
+⯈ Practically speaking, this means that a police officer or detective will take charge of a
+piece of evidence, document its collection and hand it over to an evidence clerk for
+storage in a secure place.
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 7

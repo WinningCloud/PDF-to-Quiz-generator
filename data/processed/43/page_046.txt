@@ -1,0 +1,39 @@
+messages you did not send:
+7. Take an immediate action if your system is infected:
+Box 2.9 | Technical Terms
+Malware: It is malicious software, designed to damage a computer system without the owner’s
+informed consent. Viruses and worms are the examples of malware.
+Adware: It is advertising-supported software, which automatically plays, displays, or downloads
+advertisements to a computer after the software is installed on it or while the application is being
+used. Few Spywares are classifi ed as Adware.
+Spam: It means unsolicited or undesired E-Mail messages
+Spamdexing: It is also known as search Spam or search engine Spam. It involves a number of
+methods, such as repeating unrelated phrases, to manipulate the relevancy or prominence of
+resources indexed by a search engine in a manner inconsistent with the purpose of the indexing
+system.
+DDoS: Distributed denial-of-service attack (DDoS) occurs when multiple systems flood the
+bandwidth or resources of a targeted system, usually one or more web servers. These systems are
+compromised by attackers using a variety of methods.
+2.7 Attack Vector
+ An “attack vector” is a path, which an attacker can gain access to a computer or to a
+network server to deliver a payload or malicious outcome.
+ Attack vectors enable attackers to exploit system vulnerabilities, including the human
+element.
+ Attack vectors include viruses, E-Mail attachments, webpages, pop-up windows, instant
+messages, chat rooms, and deception. All of these methods involve programming (or, in a
+few cases, hardware), except deception, in which a human operator is fooled into
+removing or weakening system defenses.
+ To some extent, firewalls and antivirus software can block attack vectors.
+ However, no protection method is totally attack-proof.
+ A defense method that is effective today may not remain so for long because attackers are
+constantly updating attack vectors, and seeking new ones, in their quest to gain
+unauthorized access to computers and servers. Refer to Box 2.10.
+ The most common malicious payloads are viruses (which can function as their own
+attack vectors), Trojan Horses, worms, and Spyware.
+ If an attack vector is thought of as a guided missile, its payload can be compared to the
+warhead in the tip of the missile.
+ In the technical terms, payload is the necessary data being carried within a packet or other
+transmission unit – in this scenario (i.e., attack vector) payload means the malicious
+activity that the attack performs.
+ From the technical perspective, payload does not include the “overhead” data required to
+get the packet to its destination. Payload may depend on the following point of view:

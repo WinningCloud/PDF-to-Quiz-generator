@@ -1,0 +1,48 @@
+ISSN 2348-1196 (print)
+International Journal of Computer Science and Information Technology Research ISSN 2348-120X (online)
+Vol. 2, Issue 2, pp: (373-377), Month: April-June 2014, Available at: www.researchpublish.com
+power/lasers, radio or microwave transmissions or near-field using induction. Both methods utilize electromagnetism and
+magnetic fields
+Wireless Medical Technologies
+New technologies such as mobile body area networks (MBAN) the capability to monitor blood pressure, heart rate,
+oxygen level and body temperature, all with wireless technologies. The MBAN works by sending low powered wireless
+signals to receivers that feed into nursing stations or monitoring sites. This technology helps with the intentional and
+unintentional risk of infection or disconnection that arise from wired connections.
+Computer interface devices
+Answering the call of customers frustrated with cord clutter, many[who?] manufacturers of computer peripherals turned
+to wireless technology to satisfy their consumer base [citation needed]. Originally these units used bulky, highly limited
+transceivers to mediate between a computer and a keyboard and mouse; however, more recent generations have used
+small, high-quality devices, some even incorporating Bluetooth. These systems have become so ubiquitous that some
+users have begun complaining about a lack of wired peripherals. [who?] Wireless devices tend to have a slightly slower
+response time than their wired counterparts; however, the gap is decreasing. [citation needed]
+Computer interface devices such as a keyboard or mouse are powered by a battery and send signals to a receiver through a
+USB port by way of a radio frequency (RF) receiver. The RF design makes it possible for signals to be transmitted
+wirelessly and expands the range of effective use, usually up to 10 feet. Distance, physical obstacles, competing signals,
+and even human bodies can all degrade the signal quality. Concerns about the security of wireless keyboards arose at the
+end of 2007, when it was revealed that Microsoft's implementation of encryption in some of its 27 MHz models was
+highly insecure.
+V. NETWORK SECURITY
+What is network security? How does it protect you? How does network security work? What are the business benefits of
+network security? You may think you know the answers to basic questions like, What is network security? Still, it's a
+good idea to ask them of your trusted IT partner. Why? Because small and medium-sized businesses (SMBs) often lack
+the IT resources of large companies. That means your network security may not be sufficient to protect your business
+from today's sophisticated Internet threats.
+What Is Network Security?
+In answering the question What is network security? your IT partner should explain that network security refers to any
+activities designed to protect your network. Specifically, these activities protect the usability, reliability, integrity, and
+safety of your network and data. Effective network security targets a variety of threats and stops them from entering or
+spreading on your network. What Is Network Security and How Does It Protect Your network? Many network security
+threats today are spread over the Internet. The most common include:
+1. Viruses, worms, and Trojan horses
+2. Spyware and adware
+3. Zero-day attacks, also called zero-hour attacks
+4. Hacker attacks
+5. Denial of service attacks
+6. Data interception and theft
+7. Identity theft
+You need multiple layers of security. If one fails, others still stand. Network security is accomplished through hardware
+and software. The software must be constantly updated and managed to protect you from emerging threats. A network
+security system usually consists of many components. Ideally, all components work together, which minimizes
+maintenance and improves security.
+Page | 37 6
+Research Publish Journals

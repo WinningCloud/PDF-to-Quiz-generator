@@ -1,0 +1,19 @@
+Dogo Rangsang Research Journal UGC Care Group I Journal
+ISSN : 2347-7180 Vol-09 Issue-03 September-December 2019
+ Dilute in Hydrogen Fluoride (HF) solution. The resist, which is guarding the oxide layer and the region
+that are now exposed to radiation, will get removed. This technique is termed as etching.
+ Compare patterns on the wafer with the mask. The patterns that are opaque are same as present on the
+wafer.
+Area 2: The pattern on the photoresist becomes hard. In that case the pattern on the wafer will be negative and
+will be compliment to the pattern on the mask, which is denoted as negative resist.
+Figure 2. Procedure for Lithography
+Precautions
+The following are the precautions that need to be undertaken while creating integrated circuits using
+Lithography:
+1. Dimensions of the pattern should be correct on the photo mask.
+2. Transfer the pattern from the photo mask on the wafer carefully.
+3. Photoresist should stick properly on the substrate because when photoresist is peeled off the pattern may
+get damage and become of no use.
+4. The pattern fixed on the wafer should be aligned accurately as Lithography process can be carried out
+multiple times in a day.
+Page | 523 Copyright @ 2019 Authors

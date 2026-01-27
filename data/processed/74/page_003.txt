@@ -1,0 +1,26 @@
+Dogo Rangsang Research Journal UGC Care Group I Journal
+ISSN : 2347-7180 Vol-09 Issue-03 September-December 2019
+Figure 1.Classification of Lithography
+In the following subsections, steps are discussed to create integrated circuits using lithography along with the
+terminology.
+Terminology
+1. Wafer / Substrate: The substance on which pattern of integrated circuits are developed by different steps
+of lithography
+2. Photoresist: Is a photosensitive film placed on the top of the wafer There are two
+types of photoresist:-
+ Positive Photo resist: Becomes more soluble in developer solution when exposed to radiation.
+ Negative Photo resist: Becomes less soluble in developer solution when exposed to radiation.
+3. Pattern: It is the image of the integrated circuit that has to be printed on the wafer
+Procedure
+The following are the steps involved in creation of integrated circuits using lithography (Figure2):
+Step 1: Coat the wafer with poly silicon liquid and place the photo resist layer on top of it.
+Step 2: Expose the photoresist-coated wafer to proper radiation. Project a light on the mask containing the
+pattern. Expose the light on the wafer with or without a mask. Some patterns on the mask are opaque and some
+are transparent to the radiation falling on them, so when the light falls on the mask only those regions which are
+transparent will allow the light to pass through it and fall on the wafer. Different resist have different properties.
+Properties of only those resist will change which are exposed to proper radiation and later become soft or hard.
+Step 3: Developing stage involves two areas:
+Area 1: Photo resist becomes soft to radiation.
+ Place the resist in a developer solution for easy detachment. Only that resist will remain which is not
+yet exposed to radiation
+Page | 522 Copyright @ 2019 Authors

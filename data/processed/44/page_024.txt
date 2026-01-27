@@ -1,0 +1,38 @@
+CYBERSECURITY FOR
+SMALL BUSINESS
+HOW TO CONNECT
+Require employees and vendors to use secure
+REMOTELY
+connections when connecting remotely to your
+TO THE NETWORK network. They should:
+Use a router with WPA2 or WPA3 encryption when connecting from their homes.
+Encryption protects information sent over a network so that outsiders can’t read it.
+WPA2 and WPA3 are the only encryption standards that will protect information sent
+over a wireless network.
+Only use public Wi-Fi when also using a virtual private network (VPN) to encrypt
+traffic between their computers and the internet. Public Wi-Fi does not provide a
+secure internet connection on its own. Your employees can get a personal VPN
+account from a VPN service provider, or you may want to hire a vendor to create an
+enterprise VPN for all employees to use.
+MAINTAIN SECURITY
+WHAT TO DO TO
+Train your staff: Include information on secure remote access in regular trainings and new
+staff orientations.
+Have policies covering basic cybersecurity, give copies to your employees,
+and explain the importance of following them.
+Before letting any device — whether at an employee’s home or on a vendor’s
+network — connect to your network, make sure it meets your network’s
+security requirements.
+Tell your staff about the risks of public Wi-Fi.
+Give your staff tools that will help maintain security:
+• Require employees to use • Require multi-factor authentication to access areas of your
+unique, complex network network that have sensitive information. This requires additional
+passwords and avoid steps beyond logging in with a password — like a temporary
+unattended, open workstations. code on a smartphone or a key that’s inserted into a computer.
+• Consider creating a VPN • If you offer Wi-Fi on your • Include provisions for
+for employees to use when business premises for guests security in your vendor
+connecting remotely to the and customers, make sure it’s contracts, especially if the
+business network. separate from and not connected vendor will be connecting
+to your business network. remotely to your network.
+LEARN MORE AT:
+FTC.gov/SmallBusiness

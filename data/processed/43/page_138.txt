@@ -1,0 +1,43 @@
+9. brief description of steps taken during examination, such as string searches, graphics image
+searches
+and recovering erased files;
+10. results/ conclusions.
+Testifying
+This face in wall of presentation and cross examination of expert witness.
+Depending on the country and legal Framework in which a cyber cream cases register that is
+standards me apply with regard the issue of expert witnesses.
+Digital forensic evidence is normally introduced by expert witness set in the case where non
+expert can bring the clarity to non-scientific issues by taking what they observed or did.
+For example, and non-expert who works at a company may introduce the data here she extracted
+from a company data base and discuss how the database works and how it normally use from a
+non-technical standpoint.
+To the extent that the witness is the custodian of a system or a content he or she can justify to
+matters related to that custodial Rose as well.
+Only expert witness can address issues based on scientific, technical or other specialized
+knowledge.
+A witness qualified as an expert by knowledge, skill, experience or education.
+a). If a Testimony is based on sufficient facts or data.
+b). Testimony is the product of reliable principles and methods
+c). the witness as applied the principles and methods reliable
+Table 5.5. Digital Forensic- Phase wise outputs.
+Evidence  Monitoring authorisation and management plan
+preparation and support, and obtained authorisation to do the authorisation
+identification investigation. warrant
+ ensuring that operations and Infrastructures are notification
+able to support an investigation. confirmation
+ providing a mechanism for the incident to be
+detected and conformer.
+ providing a mechanism for the incident to be
+detected and conformer
+ creating an awareness so that the investigation is
+needed ( I didn't if I the need for an
+investigation)
+ planning for getting the information needed
+from both inside and outside the investigation
+organization.
+ identifying the strategy policy and previous
+investigation
+ informing the subject of an investigation or
+other consent party that the investigation is
+taking place
+Jyo thi R, Assistant Professor, Dept. of ISE Introduction to Cyber Security (BETCK105I/205I) 24
