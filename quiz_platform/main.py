@@ -3,9 +3,9 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 import os
 
-from quiz_platform.api import auth_routes, admin_routes, student_routes
-from quiz_platform.db.database import engine
-from quiz_platform.db.models import Base
+from api import auth_routes, admin_routes, student_routes
+from db.database import engine
+from db.models import Base
 
 
 # Create DB tables automatically
