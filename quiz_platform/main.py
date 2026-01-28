@@ -2,6 +2,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 import os
+from quiz_platform.api.init_admin_route import router as init_admin_router
+
 
 from api import auth_routes, admin_routes, student_routes
 from db.database import engine
@@ -42,6 +44,8 @@ app.mount("/uploads", StaticFiles(directory="data/uploads"), name="uploads")
 app.include_router(auth_routes.router, prefix="/api/auth", tags=["Authentication"])
 app.include_router(admin_routes.router, prefix="/api/admin", tags=["Admin"])
 app.include_router(student_routes.router, prefix="/api/student", tags=["Student"])
+app.include_router(init_admin_router, prefix="/setup", tags=["Setup"])
+
 
 @app.get("/")
 async def root():
