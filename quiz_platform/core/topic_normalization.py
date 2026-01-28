@@ -4,8 +4,8 @@ import logging
 from collections import Counter, defaultdict
 from sklearn.cluster import KMeans, DBSCAN
 from sklearn.metrics import silhouette_score
-from quiz_platform.config.llm_config import llm_client, embedding_model
-from quiz_platform.config.settings import settings
+from config.llm_config import llm_client, embedding_model
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 

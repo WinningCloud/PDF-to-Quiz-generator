@@ -2,8 +2,8 @@ import pytest
 import numpy as np
 from unittest.mock import Mock, patch
 
-from quiz_platform.core.deduplication import Deduplicator
-from quiz_platform.utils.similarity_utils import calculate_similarity
+from core.deduplication import Deduplicator
+from utils.similarity_utils import calculate_similarity
 
 
 class TestDeduplicator:

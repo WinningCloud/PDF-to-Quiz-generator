@@ -2,8 +2,8 @@ import pytest
 from unittest.mock import Mock, patch, MagicMock
 import json
 
-from quiz_platform.core.question_generation import QuestionGenerator
-from quiz_platform.config.llm_config import llm_client
+from core.question_generation import QuestionGenerator
+from config.llm_config import llm_client
 
 class TestQuestionGenerator:
     def setup_method(self):

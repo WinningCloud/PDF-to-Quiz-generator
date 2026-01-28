@@ -8,11 +8,11 @@ import numpy as np
 import json
 import os
 
-from quiz_platform.db.models import (
+from db.models import (
     User, PDFDocument, Quiz, Question, 
     StudentAttempt, StudentAnswer, Topic
 )
-from quiz_platform.config.settings import settings
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 

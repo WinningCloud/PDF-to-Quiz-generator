@@ -1,8 +1,8 @@
 import json
 from typing import Dict, List, Any, Tuple
 import logging
-from quiz_platform.config.llm_config import llm_client
-from quiz_platform.config.prompts import SystemPrompts
+from config.llm_config import llm_client
+from config.prompts import SystemPrompts
 
 logger = logging.getLogger(__name__)
 

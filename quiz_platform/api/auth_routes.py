@@ -6,10 +6,10 @@ from jose import JWTError, jwt
 from passlib.context import CryptContext
 from typing import Optional
 
-from quiz_platform.db.database import get_db
-from quiz_platform.db.models import User
-from quiz_platform.schemas.auth_schema import UserCreate, UserLogin, Token, UserResponse
-from quiz_platform.config.settings import settings
+from db.database import get_db
+from db.models import User
+from schemas.auth_schema import UserCreate, UserLogin, Token, UserResponse
+from config.settings import settings
 
 router = APIRouter()
 

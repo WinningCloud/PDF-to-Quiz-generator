@@ -4,7 +4,7 @@ from sqlalchemy.orm import sessionmaker, Session
 from typing import Generator
 import os
 
-from quiz_platform.config.settings import settings
+from config.settings import settings
 
 # Create database engine
 engine = create_engine(

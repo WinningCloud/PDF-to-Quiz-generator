@@ -8,14 +8,14 @@ import uuid
 import json
 
 
-from quiz_platform.db.database import get_db
-from quiz_platform.db.models import User, PDFDocument, Quiz, Question, Topic, StudentAttempt
-from quiz_platform.schemas.pdf_schema import PDFUpload, PDFResponse, QuizCreate, QuizResponse, QuestionUpdate
-from quiz_platform.schemas.quiz_schema import QuizWithQuestions, QuestionWithTopics
-from quiz_platform.services.admin_service import AdminService
-from quiz_platform.services.quiz_pipeline_service import QuizPipelineService
-from quiz_platform.api.auth_routes import get_current_admin_user
-from quiz_platform.config.settings import settings
+from db.database import get_db
+from db.models import User, PDFDocument, Quiz, Question, Topic, StudentAttempt
+from schemas.pdf_schema import PDFUpload, PDFResponse, QuizCreate, QuizResponse, QuestionUpdate
+from schemas.quiz_schema import QuizWithQuestions, QuestionWithTopics
+from services.admin_service import AdminService
+from services.quiz_pipeline_service import QuizPipelineService
+from api.auth_routes import get_current_admin_user
+from config.settings import settings
 
 router = APIRouter()
 

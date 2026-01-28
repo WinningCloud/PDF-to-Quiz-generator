@@ -8,10 +8,10 @@ from datetime import datetime
 import faiss
 from sqlalchemy.orm import Session
 
-from quiz_platform.config.settings import settings
-from quiz_platform.db.models import VectorIndex, Chunk
-from quiz_platform.core.embeddings import EmbeddingManager
-from quiz_platform.utils.logger import get_logger
+from config.settings import settings
+from db.models import VectorIndex, Chunk
+from core.embeddings import EmbeddingManager
+from utils.logger import get_logger
 
 logger = get_logger(__name__)
 

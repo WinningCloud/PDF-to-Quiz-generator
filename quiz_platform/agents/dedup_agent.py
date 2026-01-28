@@ -3,9 +3,9 @@ from typing import Dict, List, Any, Tuple, Set
 import logging
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
-from quiz_platform.config.llm_config import embedding_model
-from quiz_platform.config.prompts import SystemPrompts, UserPrompts
-from quiz_platform.utils.similarity_utils import calculate_similarity, jaccard_similarity
+from config.llm_config import embedding_model
+from config.prompts import SystemPrompts, UserPrompts
+from utils.similarity_utils import calculate_similarity, jaccard_similarity
 
 logger = logging.getLogger(__name__)
 

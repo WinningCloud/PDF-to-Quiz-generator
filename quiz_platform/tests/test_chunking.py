@@ -4,8 +4,8 @@ import os
 from unittest.mock import Mock, patch
 import json
 
-from quiz_platform.core.page_chunker import PageChunker, Chunk
-from quiz_platform.core.pdf_ingestion import PDFIngestion
+from core.page_chunker import PageChunker, Chunk
+from core.pdf_ingestion import PDFIngestion
 
 class TestPageChunker:
     def setup_method(self):

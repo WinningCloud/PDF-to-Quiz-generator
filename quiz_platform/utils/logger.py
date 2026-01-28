@@ -6,7 +6,7 @@ import os
 import json
 from typing import Dict, Any
 
-from quiz_platform.config.settings import settings
+from config.settings import settings
 
 class JSONFormatter(logging.Formatter):
     """Custom JSON formatter for structured logging"""

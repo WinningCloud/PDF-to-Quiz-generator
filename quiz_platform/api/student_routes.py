@@ -3,12 +3,12 @@ from sqlalchemy.orm import Session
 from typing import List
 from datetime import datetime
 
-from quiz_platform.db.database import get_db
-from quiz_platform.db.models import User, Quiz, Question, StudentAttempt, StudentAnswer
-from quiz_platform.schemas.quiz_schema import QuizSummary, QuizAttempt, QuizResult, StudentProgress
-from quiz_platform.schemas.student_schema import AttemptCreate, AnswerSubmit
-from quiz_platform.services.student_service import StudentService
-from quiz_platform.api.auth_routes import get_current_user
+from db.database import get_db
+from db.models import User, Quiz, Question, StudentAttempt, StudentAnswer
+from schemas.quiz_schema import QuizSummary, QuizAttempt, QuizResult, StudentProgress
+from schemas.student_schema import AttemptCreate, AnswerSubmit
+from services.student_service import StudentService
+from api.auth_routes import get_current_user
 
 router = APIRouter()
 

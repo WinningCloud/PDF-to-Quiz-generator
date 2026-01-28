@@ -4,13 +4,13 @@ from datetime import datetime, timedelta
 from sqlalchemy.orm import Session
 from sqlalchemy import func, desc, and_
 import os
-from quiz_platform.db.models import (
+from db.models import (
     User, PDFDocument, Quiz, Question, Topic, 
     StudentAttempt, StudentAnswer
 )
-from quiz_platform.schemas.pdf_schema import PDFResponse, QuizResponse
-from quiz_platform.schemas.quiz_schema import QuizWithQuestions
-from quiz_platform.config.settings import settings
+from schemas.pdf_schema import PDFResponse, QuizResponse
+from schemas.quiz_schema import QuizWithQuestions
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 

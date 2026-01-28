@@ -1,8 +1,8 @@
 import json
 from typing import Dict, List, Any, Tuple
 import logging
-from quiz_platform.config.llm_config import llm_client, embedding_model
-from quiz_platform.config.prompts import SystemPrompts, UserPrompts
+from config.llm_config import llm_client, embedding_model
+from config.prompts import SystemPrompts, UserPrompts
 import numpy as np
 from sklearn.cluster import KMeans, DBSCAN
 from sklearn.metrics import pairwise_distances_argmin_min

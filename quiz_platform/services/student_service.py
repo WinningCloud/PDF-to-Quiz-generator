@@ -4,12 +4,12 @@ from datetime import datetime, timedelta
 from sqlalchemy.orm import Session
 from sqlalchemy import func, desc, and_
 import os
-from quiz_platform.db.models import (
+from db.models import (
     User, Quiz, Question, StudentAttempt, StudentAnswer, Topic
 )
-from quiz_platform.schemas.quiz_schema import QuizSummary, QuizAttempt, QuizResult, StudentProgress
-from quiz_platform.schemas.student_schema import AttemptCreate, AnswerSubmit
-from quiz_platform.config.settings import settings
+from schemas.quiz_schema import QuizSummary, QuizAttempt, QuizResult, StudentProgress
+from schemas.student_schema import AttemptCreate, AnswerSubmit
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 

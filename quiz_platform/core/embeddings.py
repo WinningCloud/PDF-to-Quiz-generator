@@ -5,7 +5,7 @@ import pickle
 import os
 from datetime import datetime
 import json
-from quiz_platform.config.llm_config import embedding_model
+from config.llm_config import embedding_model
 
 logger = logging.getLogger(__name__)
 

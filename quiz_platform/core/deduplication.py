@@ -4,8 +4,8 @@ from typing import Dict, List, Any, Tuple, Set
 import logging
 from collections import defaultdict
 from sklearn.metrics.pairwise import cosine_similarity
-from quiz_platform.config.llm_config import embedding_model
-from quiz_platform.utils.similarity_utils import jaccard_similarity, calculate_similarity
+from config.llm_config import embedding_model
+from utils.similarity_utils import jaccard_similarity, calculate_similarity
 
 logger = logging.getLogger(__name__)
 

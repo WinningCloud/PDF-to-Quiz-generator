@@ -3,7 +3,7 @@ from typing import Dict, List, Any, Tuple, Set
 import logging
 from collections import Counter
 import spacy
-from quiz_platform.config.llm_config import llm_client
+from config.llm_config import llm_client
 
 logger = logging.getLogger(__name__)
 

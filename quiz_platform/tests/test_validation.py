@@ -2,8 +2,8 @@ import pytest
 from unittest.mock import Mock, patch
 import numpy as np
 
-from quiz_platform.core.question_validation import QuestionValidator
-from quiz_platform.utils.similarity_utils import calculate_similarity
+from core.question_validation import QuestionValidator
+from utils.similarity_utils import calculate_similarity
 
 class TestQuestionValidator:
     def setup_method(self):

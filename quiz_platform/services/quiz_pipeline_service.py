@@ -8,28 +8,28 @@ from typing import Dict, List, Any, Optional, Tuple
 from sqlalchemy.orm import Session
 
 # Core Components
-from quiz_platform.core.pdf_ingestion import PDFIngestion, PDFMetadata
-from quiz_platform.core.page_chunker import PageChunker, Chunk
-from quiz_platform.core.embeddings import EmbeddingManager
-from quiz_platform.core.entity_extraction import EntityExtractor
-from quiz_platform.core.topic_normalization import TopicNormalizer
-from quiz_platform.core.question_generation import QuestionGenerator
-from quiz_platform.core.question_validation import QuestionValidator
-from quiz_platform.core.deduplication import Deduplicator
-from quiz_platform.core.quiz_formatter import QuizFormatter
+from core.pdf_ingestion import PDFIngestion, PDFMetadata
+from core.page_chunker import PageChunker, Chunk
+from core.embeddings import EmbeddingManager
+from core.entity_extraction import EntityExtractor
+from core.topic_normalization import TopicNormalizer
+from core.question_generation import QuestionGenerator
+from core.question_validation import QuestionValidator
+from core.deduplication import Deduplicator
+from core.quiz_formatter import QuizFormatter
 
 # Agents
-from quiz_platform.agents.pdf_agent import PDFAgent
-from quiz_platform.agents.topic_agent import TopicAgent
-from quiz_platform.agents.question_agent import QuestionAgent
-from quiz_platform.agents.validation_agent import ValidationAgent
-from quiz_platform.agents.dedup_agent import DeduplicationAgent
-from quiz_platform.agents.formatter_agent import FormatterAgent
-from quiz_platform.agents.planner_agent import PlannerAgent 
+from agents.pdf_agent import PDFAgent
+from agents.topic_agent import TopicAgent
+from agents.question_agent import QuestionAgent
+from agents.validation_agent import ValidationAgent
+from agents.dedup_agent import DeduplicationAgent
+from agents.formatter_agent import FormatterAgent
+from agents.planner_agent import PlannerAgent 
 
 # Models
-from quiz_platform.db.models import PDFDocument, Quiz, Question, Topic, Chunk as DBChunk
-from quiz_platform.config.settings import settings
+from db.models import PDFDocument, Quiz, Question, Topic, Chunk as DBChunk
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 
@@ -523,7 +523,7 @@ class QuizPipelineService:
 
     @staticmethod
     def process_pdf_background(pdf_id: int):
-        from quiz_platform.db.database import SessionLocal
+        from db.database import SessionLocal
         db = SessionLocal()
         try:
             print(f"🚀 [AI] Background process starting for PDF: {pdf_id}", flush=True)
@@ -534,7 +534,7 @@ class QuizPipelineService:
 
     @staticmethod
     def generate_quiz_background(pdf_id: int, quiz_id: int):
-        from quiz_platform.db.database import SessionLocal
+        from db.database import SessionLocal
         db = SessionLocal()
         try:
             print(f"🚀 [AI] Background quiz generation starting for ID: {quiz_id}", flush=True)

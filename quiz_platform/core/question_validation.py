@@ -1,9 +1,9 @@
 import json
 from typing import Dict, List, Any, Tuple
 import logging
-from quiz_platform.config.llm_config import llm_client
-from quiz_platform.config.prompts import SystemPrompts, UserPrompts
-from quiz_platform.utils.similarity_utils import calculate_similarity
+from config.llm_config import llm_client
+from config.prompts import SystemPrompts, UserPrompts
+from utils.similarity_utils import calculate_similarity
 
 logger = logging.getLogger(__name__)
 

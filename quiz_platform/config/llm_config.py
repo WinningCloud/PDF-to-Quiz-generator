@@ -2,7 +2,7 @@ from openai import OpenAI
 from sentence_transformers import SentenceTransformer
 import logging
 from typing import List, Dict
-from quiz_platform.config.settings import settings
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 

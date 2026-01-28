@@ -3,9 +3,9 @@ import random
 from typing import Dict, List, Any, Tuple
 import logging
 from datetime import datetime
-from quiz_platform.config.llm_config import llm_client
-from quiz_platform.config.prompts import SystemPrompts, UserPrompts
-from quiz_platform.config.settings import settings
+from config.llm_config import llm_client
+from config.prompts import SystemPrompts, UserPrompts
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 
