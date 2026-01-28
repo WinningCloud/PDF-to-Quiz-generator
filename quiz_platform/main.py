@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 import os
-from quiz_platform.api.init_admin_route import router as init_admin_router
+from api.init_admin_route import router as init_admin_router
 
 
 from api import auth_routes, admin_routes, student_routes
