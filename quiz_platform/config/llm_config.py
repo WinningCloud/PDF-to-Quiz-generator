@@ -79,14 +79,14 @@ class EmbeddingModel:
 
 
     def embed(self, text: str) -> List[float]:
-    model = self._get_model()
-    embedding = model.encode(
-        text,
-        convert_to_numpy=True,
-        normalize_embeddings=True,  # smaller vectors
-        batch_size=1                # low memory
-    )
-    return embedding.tolist()
+        model = self._get_model()
+        embedding = model.encode(
+            text,
+            convert_to_numpy=True,
+            normalize_embeddings=True,  # smaller vectors
+            batch_size=1                # low memory
+        )
+        return embedding.tolist()
 
 
     def embed_batch(self, texts: List[str]) -> List[List[float]]:
