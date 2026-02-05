@@ -1,8 +1,0 @@
-Figure: shows several categories of incidences – viruses, insider abuse, laptop theft and unauthorized
-access to systems
-The Botnet Menace:
-A group of computers that are controlled by software containing harmful programs, without their users'
-knowledge is called as Botnet. The term “Botnet” is used to refer to a group of compromised computers (zombie
-computers, i.e., personal computers secretly under the control of hackers) running malwares under a common
-command and control infrastructure. Below figure shows how a “zombie” works.
-J yothi R, Assistant Professor, Dept.of ISE Introduction to Cyber Security (BETCK105I/205I) 10
